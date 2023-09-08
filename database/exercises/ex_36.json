@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ques": "The company chose to _________ its products domestically.",
+      "ans": "manufacture"
+    },
+    {
+      "ques": "The _________ of living in the city is high.",
+      "ans": "cost"
+    },
+    {
+      "ques": "She updated her _________ to apply for the new job.",
+      "ans": "résumé"
+    },
+    {
+      "ques": "He made a large cash _________ into his bank account.",
+      "ans": "deposit"
+    },
+    {
+      "ques": "His _________ is to become a successful entrepreneur.",
+      "ans": "ambition"
+    },
+    {
+      "ques": "The Super Bowl is known for its creative and entertaining _________s.",
+      "ans": "commercial"
+    },
+    {
+      "ques": "She is a _________ in the apartment building.",
+      "ans": "tenant"
+    },
+    {
+      "ques": "The company has an _________ program for partner organizations.",
+      "ans": "affiliate"
+    },
+    {
+      "ques": "He still _________s money to his friend for the concert ticket.",
+      "ans": "owe"
+    },
+    {
+      "ques": "He earned a competitive _________ for his work.",
+      "ans": "wage"
+    },
+    {
+      "ques": "In history, many people were forced into _________ry.",
+      "ans": "slave"
+    },
+    {
+      "ques": "The farm had a _________ of fresh produce to sell.",
+      "ans": "surplus"
+    },
+    {
+      "ques": "They embarked on a risky business _________.",
+      "ans": "venture"
+    },
+    {
+      "ques": "She prepared thoroughly for the job _________.",
+      "ans": "interview"
+    },
+    {
+      "ques": "The company filed for _________ due to financial difficulties.",
+      "ans": "bankrupt"
+    },
+    {
+      "ques": "He received a _________ of flour to bake bread.",
+      "ans": "sack"
+    },
+    {
+      "ques": "The small business began to _________ after years of hard work.",
+      "ans": "prosper"
+    }
+  ],
+  [
+    {
+      "ques": "He faced personal financial crisis and went _________.",
+      "ans": "bankrupt"
+    },
+    {
+      "ques": "The TV station airs _________s during prime time.",
+      "ans": "commercial"
+    },
+    {
+      "ques": "She fought for the freedom of those held as _________s.",
+      "ans": "slave"
+    },
+    {
+      "ques": "The local community has seen economic _________ in recent years.",
+      "ans": "prosper"
+    },
+    {
+      "ques": "The candidate had a successful job _________.",
+      "ans": "interview"
+    },
+    {
+      "ques": "The landlord requested a security _________ before renting the apartment.",
+      "ans": "deposit"
+    },
+    {
+      "ques": "The surplus of goods was sold at a discounted price.",
+      "ans": "surplus"
+    },
+    {
+      "ques": "The landlord and _________ signed a lease agreement.",
+      "ans": "tenant"
+    },
+    {
+      "ques": "She decided to _________ with a well-known brand to expand her business.",
+      "ans": "affiliate"
+    },
+    {
+      "ques": "She pursued her _________ of becoming a world-class athlete.",
+      "ans": "ambition"
+    },
+    {
+      "ques": "They packed the groceries in a paper _________.",
+      "ans": "sack"
+    },
+    {
+      "ques": "She invested in a new _________ with great potential.",
+      "ans": "venture"
+    },
+    {
+      "ques": "They calculated the total _________ of the project.",
+      "ans": "cost"
+    },
+    {
+      "ques": "They outsourced the _________ of components to another country.",
+      "ans": "manufacture"
+    },
+    {
+      "ques": "They reviewed many _________s before selecting candidates.",
+      "ans": "résumé"
+    },
+    {
+      "ques": "The company _________s its success to its dedicated employees.",
+      "ans": "owe"
+    },
+    {
+      "ques": "The company offers fair _________s to its employees.",
+      "ans": "wage"
+    }
+  ],
+  [
+    {
+      "ques": "They decided to evict the troublesome _________.",
+      "ans": "tenant"
+    },
+    {
+      "ques": "She filled a _________ with vegetables from the garden.",
+      "ans": "sack"
+    },
+    {
+      "ques": "A strong _________ can make a difference in job hunting.",
+      "ans": "résumé"
+    },
+    {
+      "ques": "They realized they _________d gratitude to their mentors.",
+      "ans": "owe"
+    },
+    {
+      "ques": "They declared themselves _________ after the business failed.",
+      "ans": "bankrupt"
+    },
+    {
+      "ques": "She worked in the _________ real estate industry.",
+      "ans": "commercial"
+    },
+    {
+      "ques": "They conducted an in-depth _________ with the author.",
+      "ans": "interview"
+    },
+    {
+      "ques": "She negotiated a higher _________ with her employer.",
+      "ans": "wage"
+    },
+    {
+      "ques": "They admire her drive and _________ to achieve her goals.",
+      "ans": "ambition"
+    },
+    {
+      "ques": "The online retailer has many _________s that promote its products.",
+      "ans": "affiliate"
+    },
+    {
+      "ques": "The entrepreneurs formed a joint _________ to launch the product.",
+      "ans": "venture"
+    },
+    {
+      "ques": "The product's retail _________ is competitive.",
+      "ans": "cost"
+    },
+    {
+      "ques": "They hope to _________ in the competitive market.",
+      "ans": "prosper"
+    },
+    {
+      "ques": "They offer a refundable _________ for renting equipment.",
+      "ans": "deposit"
+    },
+    {
+      "ques": "They managed to create a _________ of food for the event.",
+      "ans": "surplus"
+    },
+    {
+      "ques": "They lived in harsh conditions as _________s on the plantation.",
+      "ans": "slave"
+    },
+    {
+      "ques": "She oversees the _________ process in the factory.",
+      "ans": "manufacture"
+    }
+  ],
+  [
+    {
+      "ques": "She considered the environmental _________ of her choices.",
+      "ans": "cost"
+    },
+    {
+      "ques": "The store offered a discount on a _________ of rice.",
+      "ans": "sack"
+    },
+    {
+      "ques": "The economic downturn pushed many businesses to the brink of _________.",
+      "ans": "bankrupt"
+    },
+    {
+      "ques": "In his youth, he had great _________s to change the world.",
+      "ans": "ambition"
+    },
+    {
+      "ques": "The _________ of cars requires precision and quality control.",
+      "ans": "manufacture"
+    },
+    {
+      "ques": "The employer was impressed with his extensive _________.",
+      "ans": "résumé"
+    },
+    {
+      "ques": "She _________s her career advancement to her hard work.",
+      "ans": "owe"
+    },
+    {
+      "ques": "The company faced challenges managing its inventory _________.",
+      "ans": "surplus"
+    },
+    {
+      "ques": "The journalist scheduled an _________ with the CEO.",
+      "ans": "interview"
+    },
+    {
+      "ques": "The _________ sector plays a crucial role in the economy.",
+      "ans": "commercial"
+    },
+    {
+      "ques": "The abolitionist movement aimed to end _________ry.",
+      "ans": "slave"
+    },
+    {
+      "ques": "The minimum _________ was increased to improve living standards.",
+      "ans": "wage"
+    },
+    {
+      "ques": "The _________s complained about the noisy neighbors.",
+      "ans": "tenant"
+    },
+    {
+      "ques": "The _________ capitalist provided funding for the startup.",
+      "ans": "venture"
+    },
+    {
+      "ques": "The customer paid a _________ to reserve the item.",
+      "ans": "deposit"
+    },
+    {
+      "ques": "The region's agriculture is key to its _________ity.",
+      "ans": "prosper"
+    },
+    {
+      "ques": "They joined an _________ network to access new markets.",
+      "ans": "affiliate"
+    }
+  ],
+  [
+    {
+      "ques": "He has been a loyal _________ for many years.",
+      "ans": "tenant"
+    },
+    {
+      "ques": "The company is known for its efficient and sustainable _________.",
+      "ans": "manufacture"
+    },
+    {
+      "ques": "The surplus funds were invested in new projects.",
+      "ans": "surplus"
+    },
+    {
+      "ques": "The company's ambitious goals led to rapid growth.",
+      "ans": "ambition"
+    },
+    {
+      "ques": "He read about the struggles of _________s in a book.",
+      "ans": "slave"
+    },
+    {
+      "ques": "The student _________s her academic achievements to her teachers.",
+      "ans": "owe"
+    },
+    {
+      "ques": "The organization has several _________s around the world.",
+      "ans": "affiliate"
+    },
+    {
+      "ques": "She opened a _________ account to save for the future.",
+      "ans": "deposit"
+    },
+    {
+      "ques": "The radio host conducted an engaging _________ with the musician.",
+      "ans": "interview"
+    },
+    {
+      "ques": "The company aims to reduce production _________s.",
+      "ans": "cost"
+    },
+    {
+      "ques": "He was excited about the opportunity to _________ into a new market.",
+      "ans": "venture"
+    },
+    {
+      "ques": "The company's innovative approach helped it _________ in the industry.",
+      "ans": "prosper"
+    },
+    {
+      "ques": "He carried a _________ of potatoes from the market.",
+      "ans": "sack"
+    },
+    {
+      "ques": "They believe in equal _________s for all employees.",
+      "ans": "wage"
+    },
+    {
+      "ques": "The company's _________ success was driven by effective marketing.",
+      "ans": "commercial"
+    },
+    {
+      "ques": "He included his relevant skills and experience in his _________.",
+      "ans": "résumé"
+    },
+    {
+      "ques": "The court declared them legally _________.",
+      "ans": "bankrupt"
+    }
+  ]
+]

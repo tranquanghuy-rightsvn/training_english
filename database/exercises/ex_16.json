@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "ques": "The _________ of the crime testified during the trial.",
+      "ans": "victim"
+    },
+    {
+      "ques": "The _________ will determine the defendant's guilt or innocence.",
+      "ans": "trial"
+    },
+    {
+      "ques": "The jury deliberated and reached a unanimous _________.",
+      "ans": "verdict"
+    },
+    {
+      "ques": "The district attorney will _________ the defendant in court.",
+      "ans": "prosecute"
+    },
+    {
+      "ques": "The prosecutor decided to _________ the defendant with theft.",
+      "ans": "charge"
+    },
+    {
+      "ques": "The _________ presided over the high-profile trial.",
+      "ans": "judge"
+    },
+    {
+      "ques": "The _________ provided crucial testimony in court.",
+      "ans": "witness"
+    },
+    {
+      "ques": "The judge will announce the _________ after the verdict.",
+      "ans": "sentence"
+    },
+    {
+      "ques": "The jury's decision was to _________ the defendant of murder.",
+      "ans": "convict"
+    },
+    {
+      "ques": "The witness was sworn in to _________ during the trial.",
+      "ans": "testify"
+    },
+    {
+      "ques": "He admitted his _________ in the court of law.",
+      "ans": "guilt"
+    },
+    {
+      "ques": "The police identified a _________ in the ongoing investigation.",
+      "ans": "suspect"
+    },
+    {
+      "ques": "The defense attorney argued that her client was _________.",
+      "ans": "innocent"
+    },
+    {
+      "ques": "The police decided to _________ the suspect after the investigation.",
+      "ans": "arrest"
+    }
+  ],
+  [
+    {
+      "ques": "He is considered a _________ of identity theft.",
+      "ans": "victim"
+    },
+    {
+      "ques": "They decided to _________ the case due to the seriousness of the charges.",
+      "ans": "prosecute"
+    },
+    {
+      "ques": "She was asked to _________ about what she saw that night.",
+      "ans": "testify"
+    },
+    {
+      "ques": "The defense attorney presented evidence during the _________.",
+      "ans": "trial"
+    },
+    {
+      "ques": "The _________ delivered a fair and impartial verdict.",
+      "ans": "judge"
+    },
+    {
+      "ques": "She was called as a character _________ for the defendant.",
+      "ans": "witness"
+    },
+    {
+      "ques": "He faces multiple _________s related to financial fraud.",
+      "ans": "charge"
+    },
+    {
+      "ques": "The _________ was in favor of the plaintiff.",
+      "ans": "verdict"
+    },
+    {
+      "ques": "He was _________ed for his involvement in the robbery.",
+      "ans": "arrest"
+    },
+    {
+      "ques": "He was _________ed of the crime and sentenced to life in prison.",
+      "ans": "convict"
+    },
+    {
+      "ques": "He faces a lengthy prison _________ if convicted.",
+      "ans": "sentence"
+    },
+    {
+      "ques": "He maintained his _________ throughout the trial.",
+      "ans": "innocent"
+    },
+    {
+      "ques": "The detectives questioned the _________ at the station.",
+      "ans": "suspect"
+    },
+    {
+      "ques": "The defendant's _________ was evident from the evidence.",
+      "ans": "guilt"
+    }
+  ],
+  [
+    {
+      "ques": "The state chose to _________ the suspect for his actions.",
+      "ans": "prosecute"
+    },
+    {
+      "ques": "He became the prime _________ in the murder case.",
+      "ans": "suspect"
+    },
+    {
+      "ques": "She is a seasoned _________ with years of experience.",
+      "ans": "judge"
+    },
+    {
+      "ques": "The _________ observed the events from a distance.",
+      "ans": "witness"
+    },
+    {
+      "ques": "The police offered support to the _________'s family.",
+      "ans": "victim"
+    },
+    {
+      "ques": "The judge will _________ the defendant based on the evidence.",
+      "ans": "convict"
+    },
+    {
+      "ques": "The expert was called to _________ on forensic evidence.",
+      "ans": "testify"
+    },
+    {
+      "ques": "The evidence supported the claim of the _________ party.",
+      "ans": "innocent"
+    },
+    {
+      "ques": "The jury had to determine the degree of his _________.",
+      "ans": "guilt"
+    },
+    {
+      "ques": "The officers had to use force to _________ the fugitive.",
+      "ans": "arrest"
+    },
+    {
+      "ques": "The _________ against the suspect were serious.",
+      "ans": "charge"
+    },
+    {
+      "ques": "The jury was selected for the upcoming _________.",
+      "ans": "trial"
+    },
+    {
+      "ques": "The _________ declared the defendant guilty.",
+      "ans": "verdict"
+    },
+    {
+      "ques": "The _________ was harsh due to the nature of the crime.",
+      "ans": "sentence"
+    }
+  ],
+  [
+    {
+      "ques": "The lawyer advised him on the potential _________s he might face.",
+      "ans": "charge"
+    },
+    {
+      "ques": "The arrest was made based on a warrant issued by the court.",
+      "ans": "arrest"
+    },
+    {
+      "ques": "The _________'s decision was based on the law and evidence.",
+      "ans": "judge"
+    },
+    {
+      "ques": "She struggled with feelings of _________ for her actions.",
+      "ans": "guilt"
+    },
+    {
+      "ques": "The defense attorney argued for a lenient _________.",
+      "ans": "sentence"
+    },
+    {
+      "ques": "The _________ bystander was a key witness in the case.",
+      "ans": "innocent"
+    },
+    {
+      "ques": "He was reluctant to _________ in front of the jury.",
+      "ans": "testify"
+    },
+    {
+      "ques": "The _________ was apprehended at the scene of the crime.",
+      "ans": "suspect"
+    },
+    {
+      "ques": "The lawyer worked tirelessly to avoid a _________ion.",
+      "ans": "convict"
+    },
+    {
+      "ques": "The _________ was taken to the hospital for treatment.",
+      "ans": "victim"
+    },
+    {
+      "ques": "The decision to _________ the suspect was met with controversy.",
+      "ans": "prosecute"
+    },
+    {
+      "ques": "The defense attorney awaited the final _________.",
+      "ans": "verdict"
+    },
+    {
+      "ques": "The _________ will be closely watched by the media.",
+      "ans": "trial"
+    },
+    {
+      "ques": "The defense attorney cross-examined the _________.",
+      "ans": "witness"
+    }
+  ],
+  [
+    {
+      "ques": "The judge read the _________ in open court.",
+      "ans": "verdict"
+    },
+    {
+      "ques": "The _________ion of the suspect was a significant milestone.",
+      "ans": "convict"
+    },
+    {
+      "ques": "She received a light _________ for her cooperation.",
+      "ans": "sentence"
+    },
+    {
+      "ques": "The defense attorney argued her case before the _________.",
+      "ans": "judge"
+    },
+    {
+      "ques": "The defense attorney countered the efforts to _________.",
+      "ans": "prosecute"
+    },
+    {
+      "ques": "The confession provided clear proof of his _________.",
+      "ans": "guilt"
+    },
+    {
+      "ques": "The verdict declared him _________ of all charges.",
+      "ans": "innocent"
+    },
+    {
+      "ques": "She was _________ed on charges of shoplifting.",
+      "ans": "arrest"
+    },
+    {
+      "ques": "The victim provided a description of the _________.",
+      "ans": "suspect"
+    },
+    {
+      "ques": "The police filed a _________ against the suspect for vandalism.",
+      "ans": "charge"
+    },
+    {
+      "ques": "The judge set a date for the start of the _________.",
+      "ans": "trial"
+    },
+    {
+      "ques": "The prosecution called a key _________ to the stand.",
+      "ans": "witness"
+    },
+    {
+      "ques": "The defendant chose not to _________ in his own defense.",
+      "ans": "testify"
+    },
+    {
+      "ques": "The attorney spoke on behalf of the _________.",
+      "ans": "victim"
+    }
+  ]
+]

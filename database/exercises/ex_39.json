@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ques": "They established a scholarship _________ to support students.",
+      "ans": "fund"
+    },
+    {
+      "ques": "The company's greatest _________ is its skilled workforce.",
+      "ans": "asset"
+    },
+    {
+      "ques": "She will _________ her family's estate when her parents pass away.",
+      "ans": "inherit"
+    },
+    {
+      "ques": "The antique vase is estimated to be of great _________.",
+      "ans": "worth"
+    },
+    {
+      "ques": "The _________ was completed smoothly without any issues.",
+      "ans": "transaction"
+    },
+    {
+      "ques": "The project is making steady _________ towards completion.",
+      "ans": "progress"
+    },
+    {
+      "ques": "It's his _________ to ensure the safety of the employees.",
+      "ans": "duty"
+    },
+    {
+      "ques": "They set up a food _________ at the local fair.",
+      "ans": "stall"
+    },
+    {
+      "ques": "Starting a new _________ requires careful planning.",
+      "ans": "enterprise"
+    },
+    {
+      "ques": "This year's wheat _________ was abundant.",
+      "ans": "crop"
+    },
+    {
+      "ques": "They aim to _________ awareness about environmental conservation.",
+      "ans": "raise"
+    },
+    {
+      "ques": "The company decided to _________ a new marketing manager.",
+      "ans": "hire"
+    },
+    {
+      "ques": "Her _________s as a chef are highly regarded.",
+      "ans": "skill"
+    },
+    {
+      "ques": "_________ is a vital industry in many rural areas.",
+      "ans": "agriculture"
+    },
+    {
+      "ques": "They decided to _________ a storefront for their new business.",
+      "ans": "lease"
+    },
+    {
+      "ques": "She worked hard to _________ her college degree.",
+      "ans": "earn"
+    },
+    {
+      "ques": "The _________ at the hospital work tirelessly to care for patients.",
+      "ans": "staff"
+    }
+  ],
+  [
+    {
+      "ques": "She's working to _________ funds for a local charity.",
+      "ans": "raise"
+    },
+    {
+      "ques": "She manages a dedicated _________ of teachers at the school.",
+      "ans": "staff"
+    },
+    {
+      "ques": "She believes that experiences are more _________ than possessions.",
+      "ans": "worth"
+    },
+    {
+      "ques": "She signed a _________ for an apartment in the city.",
+      "ans": "lease"
+    },
+    {
+      "ques": "She considers her education to be her most valuable _________.",
+      "ans": "asset"
+    },
+    {
+      "ques": "She takes her parental _________ seriously.",
+      "ans": "duty"
+    },
+    {
+      "ques": "He's acquired a diverse set of technical _________.",
+      "ans": "skill"
+    },
+    {
+      "ques": "She studied sustainable _________ practices in college.",
+      "ans": "agriculture"
+    },
+    {
+      "ques": "She donated to a charitable _________ to aid disaster victims.",
+      "ans": "fund"
+    },
+    {
+      "ques": "She visited a craft _________ to browse handmade products.",
+      "ans": "stall"
+    },
+    {
+      "ques": "He's set to _________ a valuable collection of art.",
+      "ans": "inherit"
+    },
+    {
+      "ques": "She's responsible for managing the fruit _________ on the farm.",
+      "ans": "crop"
+    },
+    {
+      "ques": "He hopes to _________ a promotion at work.",
+      "ans": "earn"
+    },
+    {
+      "ques": "She recorded the financial _________ in the ledger.",
+      "ans": "transaction"
+    },
+    {
+      "ques": "She's looking to _________ a skilled graphic designer.",
+      "ans": "hire"
+    },
+    {
+      "ques": "She's impressed by the _________ her students have made.",
+      "ans": "progress"
+    },
+    {
+      "ques": "She's involved in a family-owned business _________.",
+      "ans": "enterprise"
+    }
+  ],
+  [
+    {
+      "ques": "They decided to rent a _________ at the farmers' market.",
+      "ans": "stall"
+    },
+    {
+      "ques": "They believe that continuous learning is essential for honing one's _________.",
+      "ans": "skill"
+    },
+    {
+      "ques": "They rely on _________ to grow crops and raise livestock.",
+      "ans": "agriculture"
+    },
+    {
+      "ques": "They had their jewelry appraised to determine its _________.",
+      "ans": "worth"
+    },
+    {
+      "ques": "They offer a flexible _________ agreement for their office space.",
+      "ans": "lease"
+    },
+    {
+      "ques": "They rotate the _________s to maintain soil fertility.",
+      "ans": "crop"
+    },
+    {
+      "ques": "They plan to _________ the family business to their children.",
+      "ans": "inherit"
+    },
+    {
+      "ques": "They perform their civic _________ by voting in elections.",
+      "ans": "duty"
+    },
+    {
+      "ques": "They support entrepreneurial _________s in the community.",
+      "ans": "enterprise"
+    },
+    {
+      "ques": "They _________ a comfortable living through their business.",
+      "ans": "earn"
+    },
+    {
+      "ques": "They organized a fundraiser to _________ money for a cause.",
+      "ans": "raise"
+    },
+    {
+      "ques": "They conduct interviews to _________ qualified candidates.",
+      "ans": "hire"
+    },
+    {
+      "ques": "They manage investment _________s for their clients.",
+      "ans": "fund"
+    },
+    {
+      "ques": "They hired additional _________ to handle the increased workload.",
+      "ans": "staff"
+    },
+    {
+      "ques": "They track the _________ of their goals regularly.",
+      "ans": "progress"
+    },
+    {
+      "ques": "They confirmed the _________ details before finalizing the deal.",
+      "ans": "transaction"
+    },
+    {
+      "ques": "They view their extensive network as a valuable _________.",
+      "ans": "asset"
+    }
+  ],
+  [
+    {
+      "ques": "The government allocated a _________ for infrastructure development.",
+      "ans": "fund"
+    },
+    {
+      "ques": "The restaurant has a friendly and efficient _________.",
+      "ans": "staff"
+    },
+    {
+      "ques": "The painting's _________ has increased significantly over the years.",
+      "ans": "worth"
+    },
+    {
+      "ques": "The campaign seeks to _________ support for humanitarian efforts.",
+      "ans": "raise"
+    },
+    {
+      "ques": "The tech _________ is known for its innovative products.",
+      "ans": "enterprise"
+    },
+    {
+      "ques": "The region's economy is heavily dependent on _________.",
+      "ans": "agriculture"
+    },
+    {
+      "ques": "The real estate _________ involved the purchase of a large property.",
+      "ans": "transaction"
+    },
+    {
+      "ques": "The company prefers to _________ equipment rather than purchase it.",
+      "ans": "lease"
+    },
+    {
+      "ques": "The region produces a variety of _________s, including corn and soybeans.",
+      "ans": "crop"
+    },
+    {
+      "ques": "The company is committed to continuous _________ and improvement.",
+      "ans": "progress"
+    },
+    {
+      "ques": "The heir _________ed a fortune from a distant relative.",
+      "ans": "inherit"
+    },
+    {
+      "ques": "The company values employees with strong problem-solving _________.",
+      "ans": "skill"
+    },
+    {
+      "ques": "The building is a valuable _________ for the business.",
+      "ans": "asset"
+    },
+    {
+      "ques": "The athlete _________ed a gold medal at the Olympics.",
+      "ans": "earn"
+    },
+    {
+      "ques": "The soldier was honored for his brave _________.",
+      "ans": "duty"
+    },
+    {
+      "ques": "The startup plans to _________ software developers.",
+      "ans": "hire"
+    },
+    {
+      "ques": "The _________ at the art show displayed unique paintings.",
+      "ans": "stall"
+    }
+  ],
+  [
+    {
+      "ques": "He believes that it's his moral _________ to help those in need.",
+      "ans": "duty"
+    },
+    {
+      "ques": "He believes that education is key to societal _________.",
+      "ans": "progress"
+    },
+    {
+      "ques": "He's known for his exceptional _________s in woodworking.",
+      "ans": "skill"
+    },
+    {
+      "ques": "He's actively involved in raising _________s for medical research.",
+      "ans": "fund"
+    },
+    {
+      "ques": "He values the commitment and dedication of his _________.",
+      "ans": "staff"
+    },
+    {
+      "ques": "He's considering whether to _________ or buy a car.",
+      "ans": "lease"
+    },
+    {
+      "ques": "He's considering starting a flower _________ at the flea market.",
+      "ans": "stall"
+    },
+    {
+      "ques": "He knows that friendship is truly priceless and beyond _________.",
+      "ans": "worth"
+    },
+    {
+      "ques": "He believes that one must _________ success through dedication and effort.",
+      "ans": "earn"
+    },
+    {
+      "ques": "He's interested in sustainable farming practices to maximize _________ yields.",
+      "ans": "crop"
+    },
+    {
+      "ques": "He believes that time is the most precious _________.",
+      "ans": "asset"
+    },
+    {
+      "ques": "He's passionate about _________ing awareness of social issues.",
+      "ans": "raise"
+    },
+    {
+      "ques": "He aspires to launch a social _________ to address environmental issues.",
+      "ans": "enterprise"
+    },
+    {
+      "ques": "He hopes to _________ his grandfather's wisdom and traditions.",
+      "ans": "inherit"
+    },
+    {
+      "ques": "He was _________ed as the project lead due to his experience.",
+      "ans": "hire"
+    },
+    {
+      "ques": "He's experienced in handling complex financial _________.",
+      "ans": "transaction"
+    },
+    {
+      "ques": "He's involved in organic _________ and promotes eco-friendly farming.",
+      "ans": "agriculture"
+    }
+  ]
+]

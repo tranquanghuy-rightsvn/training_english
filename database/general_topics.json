@@ -1,0 +1,74 @@
+[
+  {
+    "name": "All Adjectives",
+    "brief": "all_adjective"
+  },
+  {
+    "name": "Arts, Entertainment & Literature",
+    "brief": "arts_entertainment_literature"
+  },
+  {
+    "name": "Basic Science & Academia",
+    "brief": "basic_science_academia"
+  },
+  {
+    "name": "Crime & the Law",
+    "brief": "crime_the_law"
+  },
+  {
+    "name": "Feelings, Qualities & States",
+    "brief": "feeling_qualities_states"
+  },
+  {
+    "name": "Food & Eating",
+    "brief": "food_eating"
+  },
+  {
+    "name": "Health & the Body",
+    "brief": "heal_the_body"
+  },
+  {
+    "name": "Lots of Nouns",
+    "brief": "lots_of_nouns"
+  },
+  {
+    "name": "Money & Work",
+    "brief": "money_work"
+  },
+  {
+    "name": "Nouns? Verbs? Both!",
+    "brief": "nouns_verbs_both"
+  },
+  {
+    "name": "Phrasal Verbs",
+    "brief": "phrasal_verbs"
+  },
+  {
+    "name": "Structures, Places & Objects",
+    "brief": "structures_places_objects"
+  },
+  {
+    "name": "The Natural World",
+    "brief": "the_natural_wolrd"
+  },
+  {
+    "name": "The Political World",
+    "brief": "the_political_world"
+  },
+  {
+    "name": "The Social World",
+    "brief": "the_social_world"
+  },
+  {
+    "name": "Transitions",
+    "brief": "transitions"
+  },
+  {
+    "name": "Verbs, Verbs and Verbs",
+    "brief": "verbs_verbs_and_verbs"
+  },
+  {
+    "name": "War, Violence & Conflict",
+    "brief": "war_violence_conflict"
+  }
+]

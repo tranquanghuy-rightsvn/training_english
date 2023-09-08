@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "ques": "The child was _________ed and held for ransom.",
+      "ans": "kidnap"
+    },
+    {
+      "ques": "The witness _________d that he saw the crime happen.",
+      "ans": "allege"
+    },
+    {
+      "ques": "The criminal was sentenced to _________ for his actions.",
+      "ans": "jail"
+    },
+    {
+      "ques": "The victim was brutally _________ed in the park.",
+      "ans": "assault"
+    },
+    {
+      "ques": "He was accused of _________ing his ex-girlfriend.",
+      "ans": "stalk"
+    },
+    {
+      "ques": "The prosecution must _________ the defendant's guilt.",
+      "ans": "prove"
+    },
+    {
+      "ques": "The judge will _________ the defendant if found guilty.",
+      "ans": "punish"
+    },
+    {
+      "ques": "The masked individuals attempted to _________ the bank.",
+      "ans": "rob"
+    },
+    {
+      "ques": "She decided to _________ him of cheating in the game.",
+      "ans": "accuse"
+    },
+    {
+      "ques": "The police conducted a _________ on the illegal drug operation.",
+      "ans": "raid"
+    },
+    {
+      "ques": "He had to _________ his mistake and apologize.",
+      "ans": "admit"
+    },
+    {
+      "ques": "He chose to _________ his involvement in the burglary.",
+      "ans": "confess"
+    },
+    {
+      "ques": "The government decided to _________ the sale of the dangerous substance.",
+      "ans": "outlaw"
+    },
+    {
+      "ques": "The thief managed to _________ the valuable artwork.",
+      "ans": "steal"
+    }
+  ],
+  [
+    {
+      "ques": "The police will _________ the suspect of theft.",
+      "ans": "accuse"
+    },
+    {
+      "ques": "The authorities issued a restraining order to prevent _________.",
+      "ans": "stalk"
+    },
+    {
+      "ques": "The city council voted to _________ certain activities.",
+      "ans": "outlaw"
+    },
+    {
+      "ques": "The authorities launched a search for the _________er.",
+      "ans": "kidnap"
+    },
+    {
+      "ques": "The evidence presented in court will help _________ the case.",
+      "ans": "prove"
+    },
+    {
+      "ques": "She finally decided to _________ her involvement in the incident.",
+      "ans": "admit"
+    },
+    {
+      "ques": "The suspect was pressured to _________ to the crime.",
+      "ans": "confess"
+    },
+    {
+      "ques": "He spent several years in _________ for the robbery.",
+      "ans": "jail"
+    },
+    {
+      "ques": "He was caught attempting to _________ a car.",
+      "ans": "steal"
+    },
+    {
+      "ques": "She _________s that she was a victim of harassment.",
+      "ans": "allege"
+    },
+    {
+      "ques": "They organized a _________ on the criminal hideout.",
+      "ans": "raid"
+    },
+    {
+      "ques": "He was charged with _________ and battery.",
+      "ans": "assault"
+    },
+    {
+      "ques": "He received a severe _________ment for his actions.",
+      "ans": "punish"
+    },
+    {
+      "ques": "The store was _________ed at gunpoint.",
+      "ans": "rob"
+    }
+  ],
+  [
+    {
+      "ques": "The _________ing of firearms was a significant policy change.",
+      "ans": "outlaw"
+    },
+    {
+      "ques": "The burglars _________ed jewelry from the store.",
+      "ans": "steal"
+    },
+    {
+      "ques": "The priest listened to his _________ion in the church.",
+      "ans": "confess"
+    },
+    {
+      "ques": "The authorities aim to _________ those responsible for the crime.",
+      "ans": "punish"
+    },
+    {
+      "ques": "The _________ resulted in multiple arrests.",
+      "ans": "raid"
+    },
+    {
+      "ques": "The witness's testimony can help _________ the allegations.",
+      "ans": "prove"
+    },
+    {
+      "ques": "The authorities take cases of _________ seriously.",
+      "ans": "assault"
+    },
+    {
+      "ques": "The case involved a high-profile _________ing.",
+      "ans": "kidnap"
+    },
+    {
+      "ques": "The media often _________s sensational stories.",
+      "ans": "allege"
+    },
+    {
+      "ques": "The suspect refused to _________ any wrongdoing.",
+      "ans": "admit"
+    },
+    {
+      "ques": "The detective investigated the case of online _________ing.",
+      "ans": "stalk"
+    },
+    {
+      "ques": "The victim chose to _________ the perpetrator.",
+      "ans": "accuse"
+    },
+    {
+      "ques": "The judge imposed a lengthy _________ sentence.",
+      "ans": "jail"
+    },
+    {
+      "ques": "The victim was _________ed while walking home.",
+      "ans": "rob"
+    }
+  ],
+  [
+    {
+      "ques": "The _________ term was a result of multiple offenses.",
+      "ans": "jail"
+    },
+    {
+      "ques": "They managed to rescue the victim from the _________ers.",
+      "ans": "kidnap"
+    },
+    {
+      "ques": "The defendant chose to _________ to the charges.",
+      "ans": "admit"
+    },
+    {
+      "ques": "He was a victim of a _________bery in the parking lot.",
+      "ans": "rob"
+    },
+    {
+      "ques": "The security guard prevented the _________ from entering.",
+      "ans": "assault"
+    },
+    {
+      "ques": "He was _________ed of being involved in the conspiracy.",
+      "ans": "accuse"
+    },
+    {
+      "ques": "The new law _________ed the use of plastic bags.",
+      "ans": "outlaw"
+    },
+    {
+      "ques": "She was a victim of identity theft, and her money was _________en.",
+      "ans": "steal"
+    },
+    {
+      "ques": "The lawyer _________d that the evidence was fabricated.",
+      "ans": "allege"
+    },
+    {
+      "ques": "The victim felt unsafe due to the persistent _________.",
+      "ans": "stalk"
+    },
+    {
+      "ques": "The authorities gathered intelligence for the _________.",
+      "ans": "raid"
+    },
+    {
+      "ques": "The forensic analysis will attempt to _________ the facts.",
+      "ans": "prove"
+    },
+    {
+      "ques": "The detective worked to get a _________ion from the suspect.",
+      "ans": "confess"
+    },
+    {
+      "ques": "The _________ment should be proportional to the offense.",
+      "ans": "punish"
+    }
+  ],
+  [
+    {
+      "ques": "The inmate served time in federal _________.",
+      "ans": "jail"
+    },
+    {
+      "ques": "The confession was a crucial moment in the investigation.",
+      "ans": "admit"
+    },
+    {
+      "ques": "The lawyer will _________ the defendant during the trial.",
+      "ans": "accuse"
+    },
+    {
+      "ques": "The victim required medical attention after the _________.",
+      "ans": "assault"
+    },
+    {
+      "ques": "The organization worked to _________ child labor.",
+      "ans": "outlaw"
+    },
+    {
+      "ques": "The criminals managed to _________ the jewelry store.",
+      "ans": "rob"
+    },
+    {
+      "ques": "The goal is to _________ the defendant's innocence.",
+      "ans": "prove"
+    },
+    {
+      "ques": "The decision to _________ the suspect was met with criticism.",
+      "ans": "punish"
+    },
+    {
+      "ques": "The suspect was arrested for attempting to _________ electronics.",
+      "ans": "steal"
+    },
+    {
+      "ques": "He _________d a conspiracy to defraud the company.",
+      "ans": "allege"
+    },
+    {
+      "ques": "The surprise _________ led to the recovery of stolen goods.",
+      "ans": "raid"
+    },
+    {
+      "ques": "The motive behind the _________ing was unclear.",
+      "ans": "kidnap"
+    },
+    {
+      "ques": "She reported the _________ing behavior to the police.",
+      "ans": "stalk"
+    },
+    {
+      "ques": "She decided to _________ her feelings to her friend.",
+      "ans": "confess"
+    }
+  ]
+]

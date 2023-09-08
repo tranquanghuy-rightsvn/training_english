@@ -1,0 +1,25 @@
+{
+  "title": "The Social World",
+  "exercises": [
+    {
+      "id": 84,
+      "words": ["acquaintance", "apology", "belong", "blame", "brat", "cheat", "compassion", "compromise", "discuss", "foreign", "loyal", "member", "pray", "row", "society"]
+    },
+    {
+      "id": 85,
+      "words": ["adolescent", "argue", "bless", "bully", "chat", "congratulate", "counsel", "crowd", "dialogue", "forgive", "occasion", "saint", "scandal", "spouse", "tragic"]
+    },
+    {
+      "id": 86,
+      "words": ["affair", "behave", "ceremony", "charm", "cheer", "festival", "hug", "insult", "masculine", "neighbour", "quarrel", "rumour", "soul", "worship"]
+    },
+    {
+      "id": 87,
+      "words": ["advise", "alien", "associate", "betray", "companion", "fellow", "harass", "introduce", "passion", "ritual", "sacred", "stereotype", "tease", "tribe"]
+    },
+    {
+      "id": 88,
+      "words": ["adopt", "ancestor", "anniversary", "celebrate", "criticize", "custom", "feminine", "gang", "hero", "prejudice", "romantic", "share", "spirit", "trust"]
+    }
+  ]
+}

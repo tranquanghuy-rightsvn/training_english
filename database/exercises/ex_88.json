@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "ques": "He planned a surprise _________ getaway.",
+      "ans": "romantic"
+    },
+    {
+      "ques": "She embraces her _________ side with pride.",
+      "ans": "feminine"
+    },
+    {
+      "ques": "We will _________ the achievement with a party.",
+      "ans": "celebrate"
+    },
+    {
+      "ques": "It's a local _________ to greet strangers warmly.",
+      "ans": "custom"
+    },
+    {
+      "ques": "It's easy to _________, but harder to create.",
+      "ans": "criticize"
+    },
+    {
+      "ques": "_________ is the foundation of any strong relationship.",
+      "ans": "trust"
+    },
+    {
+      "ques": "It's important to learn about our _________s.",
+      "ans": "ancestor"
+    },
+    {
+      "ques": "It's important to _________ your thoughts and feelings.",
+      "ans": "share"
+    },
+    {
+      "ques": "He's considered a local _________ for saving a child.",
+      "ans": "hero"
+    },
+    {
+      "ques": "They celebrated their 25th wedding _________.",
+      "ans": "anniversary"
+    },
+    {
+      "ques": "The team showed great _________ during the match.",
+      "ans": "spirit"
+    },
+    {
+      "ques": "_________ can lead to unfair treatment.",
+      "ans": "prejudice"
+    },
+    {
+      "ques": "The police arrested several members of the _________.",
+      "ans": "gang"
+    },
+    {
+      "ques": "They decided to _________ a rescue dog.",
+      "ans": "adopt"
+    }
+  ],
+  [
+    {
+      "ques": "Living in a _________-controlled neighborhood is tough.",
+      "ans": "gang"
+    },
+    {
+      "ques": "They have a unique wedding _________ in that culture.",
+      "ans": "custom"
+    },
+    {
+      "ques": "Her _________s came from different parts of the world.",
+      "ans": "ancestor"
+    },
+    {
+      "ques": "Their love story is truly _________.",
+      "ans": "romantic"
+    },
+    {
+      "ques": "The design has a _________ touch to it.",
+      "ans": "feminine"
+    },
+    {
+      "ques": "She has a positive and energetic _________.",
+      "ans": "spirit"
+    },
+    {
+      "ques": "It's important to address and eliminate _________.",
+      "ans": "prejudice"
+    },
+    {
+      "ques": "She didn't want to _________ her friend's choices.",
+      "ans": "criticize"
+    },
+    {
+      "ques": "She sees her mother as her personal _________.",
+      "ans": "hero"
+    },
+    {
+      "ques": "The community came together to _________ the holiday.",
+      "ans": "celebrate"
+    },
+    {
+      "ques": "Many couples choose to _________ children.",
+      "ans": "adopt"
+    },
+    {
+      "ques": "They decided to _________ the workload.",
+      "ans": "share"
+    },
+    {
+      "ques": "She has complete _________ in her best friend.",
+      "ans": "trust"
+    },
+    {
+      "ques": "The company marked its 50th _________ with a special event.",
+      "ans": "anniversary"
+    }
+  ],
+  [
+    {
+      "ques": "Exploring one's family _________ is fascinating.",
+      "ans": "ancestor"
+    },
+    {
+      "ques": "Building _________ takes time and effort.",
+      "ans": "trust"
+    },
+    {
+      "ques": "The _________s of this country are diverse.",
+      "ans": "custom"
+    },
+    {
+      "ques": "He faced _________ based on his ethnicity.",
+      "ans": "prejudice"
+    },
+    {
+      "ques": "She loves to _________ stories from her travels.",
+      "ans": "share"
+    },
+    {
+      "ques": "_________ qualities are often undervalued.",
+      "ans": "feminine"
+    },
+    {
+      "ques": "She enjoys reading _________ novels.",
+      "ans": "romantic"
+    },
+    {
+      "ques": "He was pressured to join a local _________.",
+      "ans": "gang"
+    },
+    {
+      "ques": "Their first date was a memorable _________.",
+      "ans": "anniversary"
+    },
+    {
+      "ques": "They celebrated with a joyful _________.",
+      "ans": "spirit"
+    },
+    {
+      "ques": "Constructive feedback is better than harsh _________.",
+      "ans": "criticize"
+    },
+    {
+      "ques": "It's a tradition to _________ birthdays with cake.",
+      "ans": "celebrate"
+    },
+    {
+      "ques": "The government plans to _________ new policies.",
+      "ans": "adopt"
+    },
+    {
+      "ques": "Many consider him a national _________.",
+      "ans": "hero"
+    }
+  ],
+  [
+    {
+      "ques": "Education can help combat _________.",
+      "ans": "prejudice"
+    },
+    {
+      "ques": "They plan to _________ their success in style.",
+      "ans": "celebrate"
+    },
+    {
+      "ques": "He's a true _________ in the eyes of the community.",
+      "ans": "hero"
+    },
+    {
+      "ques": "Learning about their _________s was fascinating.",
+      "ans": "custom"
+    },
+    {
+      "ques": "The _________ of the historic event is approaching.",
+      "ans": "anniversary"
+    },
+    {
+      "ques": "They like to _________ their achievements with others.",
+      "ans": "share"
+    },
+    {
+      "ques": "He appreciates women's _________ strength.",
+      "ans": "feminine"
+    },
+    {
+      "ques": "The _________ of the festival is contagious.",
+      "ans": "spirit"
+    },
+    {
+      "ques": "The _________ was involved in illegal activities.",
+      "ans": "gang"
+    },
+    {
+      "ques": "She wants to _________ a healthier lifestyle.",
+      "ans": "adopt"
+    },
+    {
+      "ques": "He was hesitant to _________ his colleague's work.",
+      "ans": "criticize"
+    },
+    {
+      "ques": "They have earned my _________ through their actions.",
+      "ans": "trust"
+    },
+    {
+      "ques": "The movie had a _________ and touching ending.",
+      "ans": "romantic"
+    },
+    {
+      "ques": "We can trace our _________s back to this region.",
+      "ans": "ancestor"
+    }
+  ],
+  [
+    {
+      "ques": "We're planning a surprise party for their _________.",
+      "ans": "anniversary"
+    },
+    {
+      "ques": "A breach of _________ can be difficult to repair.",
+      "ans": "trust"
+    },
+    {
+      "ques": "The firefighter is a genuine _________.",
+      "ans": "hero"
+    },
+    {
+      "ques": "The fashion line celebrates _________ beauty.",
+      "ans": "feminine"
+    },
+    {
+      "ques": "They challenged the _________ they encountered.",
+      "ans": "prejudice"
+    },
+    {
+      "ques": "Their _________ relationship is admired by many.",
+      "ans": "romantic"
+    },
+    {
+      "ques": "People tend to _________ what they don't understand.",
+      "ans": "criticize"
+    },
+    {
+      "ques": "The organization will _________ eco-friendly practices.",
+      "ans": "adopt"
+    },
+    {
+      "ques": "He embodies the _________ of adventure.",
+      "ans": "spirit"
+    },
+    {
+      "ques": "Respecting local _________s is important when traveling.",
+      "ans": "custom"
+    },
+    {
+      "ques": "They formed a _________ for mutual support.",
+      "ans": "gang"
+    },
+    {
+      "ques": "The festival is a time to _________ our culture.",
+      "ans": "celebrate"
+    },
+    {
+      "ques": "We should all _________ in the responsibility.",
+      "ans": "share"
+    },
+    {
+      "ques": "They honored their Native American _________s.",
+      "ans": "ancestor"
+    }
+  ]
+]

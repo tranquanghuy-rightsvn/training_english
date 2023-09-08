@@ -1,0 +1,21 @@
+{
+  "title": "Health & the Body",
+  "exercises": [
+    {
+      "id": 25,
+      "words": ["ache", "cure", "digest", "fatigue", "immune", "massage", "paralyze", "patient", "rash", "scar", "slim", "surgery", "symptom", "therapy", "transplant", "vomit"]
+    },
+    {
+      "id": 26,
+      "words": ["active", "appetite", "blind", "conscious", "cough", "diagnose", "fatal", "handicap", "heal", "ill", "naked", "prescribe", "sober", "stomach", "strong", "tissue"]
+    },
+    {
+      "id": 27,
+      "words": ["addiction", "athlete", "disabled", "disease", "drown", "faint", "fit", "health", "infect", "nutrition", "poison", "sanitary", "sore", "swallow", "throat", "vaccinate"]
+    },
+    {
+      "id": 28,
+      "words": ["allergy", "bleed", "breathe", "bruise", "choke", "diet", "dose", "fever", "muscle", "pregnant", "slender", "strain", "suffer", "trauma", "virus"]
+    }
+  ]
+}

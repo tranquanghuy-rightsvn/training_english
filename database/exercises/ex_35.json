@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ques": "The workers decided to go on _________ to demand better wages.",
+      "ans": "strike"
+    },
+    {
+      "ques": "They decided to _________ on a research project.",
+      "ans": "collaborate"
+    },
+    {
+      "ques": "She opened a new bank _________ to manage her finances.",
+      "ans": "account"
+    },
+    {
+      "ques": "They created a household _________ to manage their expenses.",
+      "ans": "budget"
+    },
+    {
+      "ques": "She found a great _________ on a designer dress at the sale.",
+      "ans": "bargain"
+    },
+    {
+      "ques": "The fashion designer specializes in creating _________ garments.",
+      "ans": "textile"
+    },
+    {
+      "ques": "He is working to pay off his student _________.",
+      "ans": "debt"
+    },
+    {
+      "ques": "She spends hours in the garden to _________ beautiful flowers.",
+      "ans": "cultivate"
+    },
+    {
+      "ques": "She was willing to _________ money to her friend in need.",
+      "ans": "lend"
+    },
+    {
+      "ques": "She helped _________ a charity event for the homeless.",
+      "ans": "organize"
+    },
+    {
+      "ques": "He needed to _________ money from the ATM for the trip.",
+      "ans": "withdraw"
+    },
+    {
+      "ques": "They decided to _________ exotic fruits from tropical countries.",
+      "ans": "import"
+    },
+    {
+      "ques": "He decided to _________ from his position as CEO.",
+      "ans": "resign"
+    },
+    {
+      "ques": "She holds a high-ranking position as a corporate _________.",
+      "ans": "executive"
+    },
+    {
+      "ques": "They are committed to alleviating the effects of _________ in the community.",
+      "ans": "poverty"
+    },
+    {
+      "ques": "The labor _________ negotiated for better working conditions.",
+      "ans": "union"
+    },
+    {
+      "ques": "She met with a potential _________ to discuss their needs.",
+      "ans": "client"
+    }
+  ],
+  [
+    {
+      "ques": "The company decided to _________ its support for the project.",
+      "ans": "withdraw"
+    },
+    {
+      "ques": "The company's _________ team is responsible for strategic decisions.",
+      "ans": "executive"
+    },
+    {
+      "ques": "The bank agreed to _________ funds to the small business.",
+      "ans": "lend"
+    },
+    {
+      "ques": "The textile industry plays a significant role in the economy.",
+      "ans": "textile"
+    },
+    {
+      "ques": "The government launched programs to combat _________ and inequality.",
+      "ans": "poverty"
+    },
+    {
+      "ques": "The lawyer represented her _________ in court.",
+      "ans": "client"
+    },
+    {
+      "ques": "The committee worked together to _________ a successful conference.",
+      "ans": "organize"
+    },
+    {
+      "ques": "The country's national _________ has reached a critical level.",
+      "ans": "debt"
+    },
+    {
+      "ques": "The company hired an auditor to review their financial _________.",
+      "ans": "account"
+    },
+    {
+      "ques": "Farmers _________ crops to provide food for the community.",
+      "ans": "cultivate"
+    },
+    {
+      "ques": "The government allocated funds according to the national _________.",
+      "ans": "budget"
+    },
+    {
+      "ques": "She reluctantly chose to _________ from her job due to health reasons.",
+      "ans": "resign"
+    },
+    {
+      "ques": "The artists agreed to _________ on a mural for the community.",
+      "ans": "collaborate"
+    },
+    {
+      "ques": "They joined a local _________ to advocate for workers' rights.",
+      "ans": "union"
+    },
+    {
+      "ques": "The trade agreement allows for the _________ of goods from abroad.",
+      "ans": "import"
+    },
+    {
+      "ques": "They organized a peaceful _________ to protest against injustice.",
+      "ans": "strike"
+    },
+    {
+      "ques": "They negotiated a fair _________ for the used car.",
+      "ans": "bargain"
+    }
+  ],
+  [
+    {
+      "ques": "She chose to _________ her application for personal reasons.",
+      "ans": "withdraw"
+    },
+    {
+      "ques": "He attended an _________ meeting with the board of directors.",
+      "ans": "executive"
+    },
+    {
+      "ques": "He loves to visit flea markets to hunt for vintage _________.",
+      "ans": "bargain"
+    },
+    {
+      "ques": "He needed to _________ his thoughts before giving the presentation.",
+      "ans": "organize"
+    },
+    {
+      "ques": "The _________ of countries worked together to address global issues.",
+      "ans": "union"
+    },
+    {
+      "ques": "He keeps a detailed record of his expenses in his expense _________.",
+      "ans": "account"
+    },
+    {
+      "ques": "They incurred a significant _________ to fund the business expansion.",
+      "ans": "debt"
+    },
+    {
+      "ques": "They work hard to _________ strong relationships with their clients.",
+      "ans": "cultivate"
+    },
+    {
+      "ques": "The politician faced pressure to _________ from office.",
+      "ans": "resign"
+    },
+    {
+      "ques": "In a global economy, companies often _________ with international partners.",
+      "ans": "collaborate"
+    },
+    {
+      "ques": "The country relies on _________ for its energy needs.",
+      "ans": "import"
+    },
+    {
+      "ques": "She grew up in a neighborhood affected by high levels of _________.",
+      "ans": "poverty"
+    },
+    {
+      "ques": "He asked if he could _________ his bicycle to his neighbor.",
+      "ans": "lend"
+    },
+    {
+      "ques": "He values the trust of his loyal _________.",
+      "ans": "client"
+    },
+    {
+      "ques": "She carefully tracks her spending to stay within her monthly _________.",
+      "ans": "budget"
+    },
+    {
+      "ques": "She studied the history of _________ production in the region.",
+      "ans": "textile"
+    },
+    {
+      "ques": "The musician played a powerful _________ on the piano.",
+      "ans": "strike"
+    }
+  ],
+  [
+    {
+      "ques": "They agreed to _________ troops from the conflict zone.",
+      "ans": "withdraw"
+    },
+    {
+      "ques": "The teacher helps students _________ a love for learning.",
+      "ans": "cultivate"
+    },
+    {
+      "ques": "They used a planner to _________ their schedule for the week.",
+      "ans": "organize"
+    },
+    {
+      "ques": "Access to education can help break the cycle of _________ in families.",
+      "ans": "poverty"
+    },
+    {
+      "ques": "The school board approved a new education _________ for the year.",
+      "ans": "budget"
+    },
+    {
+      "ques": "The formation of a _________ was a significant step toward workers' rights.",
+      "ans": "union"
+    },
+    {
+      "ques": "In some countries, haggling is common when making a _________.",
+      "ans": "bargain"
+    },
+    {
+      "ques": "They visited a _________ factory to learn about the manufacturing process.",
+      "ans": "textile"
+    },
+    {
+      "ques": "They accepted his letter of _________ with regret.",
+      "ans": "resign"
+    },
+    {
+      "ques": "The company struggled to manage its growing _________.",
+      "ans": "debt"
+    },
+    {
+      "ques": "The advertising agency works with a diverse group of _________.",
+      "ans": "client"
+    },
+    {
+      "ques": "The scientists from different fields came together to _________ on the experiment.",
+      "ans": "collaborate"
+    },
+    {
+      "ques": "The government appointed a new _________ to lead the agency.",
+      "ans": "executive"
+    },
+    {
+      "ques": "They needed to balance the _________ at the end of the fiscal year.",
+      "ans": "account"
+    },
+    {
+      "ques": "They decided to _________ a helping hand to the local community.",
+      "ans": "lend"
+    },
+    {
+      "ques": "The automotive industry heavily depends on _________ of parts.",
+      "ans": "import"
+    },
+    {
+      "ques": "In a game of bowling, a _________ is a perfect shot.",
+      "ans": "strike"
+    }
+  ],
+  [
+    {
+      "ques": "Efficient leaders know how to _________ tasks and resources.",
+      "ans": "organize"
+    },
+    {
+      "ques": "She offered to help her friend in times of financial _________.",
+      "ans": "debt"
+    },
+    {
+      "ques": "The store sells a wide range of colorful _________ products.",
+      "ans": "textile"
+    },
+    {
+      "ques": "The board of directors voted on his request to _________.",
+      "ans": "resign"
+    },
+    {
+      "ques": "They provide excellent customer service to retain their _________.",
+      "ans": "client"
+    },
+    {
+      "ques": "The company's financial _________ allowed for growth and investment.",
+      "ans": "budget"
+    },
+    {
+      "ques": "The CEO is the top _________ of the organization.",
+      "ans": "executive"
+    },
+    {
+      "ques": "Leaders must _________ a positive organizational culture.",
+      "ans": "cultivate"
+    },
+    {
+      "ques": "The lightning _________ was followed by a loud clap of thunder.",
+      "ans": "strike"
+    },
+    {
+      "ques": "The success of the project relied on their ability to _________ effectively.",
+      "ans": "collaborate"
+    },
+    {
+      "ques": "The documentary shed light on the harsh realities of global _________.",
+      "ans": "poverty"
+    },
+    {
+      "ques": "In times of crisis, it's important to _________ support to each other.",
+      "ans": "lend"
+    },
+    {
+      "ques": "The accountant prepared a report on the company's financial _________.",
+      "ans": "account"
+    },
+    {
+      "ques": "The customs department regulates the _________ of goods.",
+      "ans": "import"
+    },
+    {
+      "ques": "The store offered a special _________ during the holiday season.",
+      "ans": "bargain"
+    },
+    {
+      "ques": "The bank allows customers to _________ funds online.",
+      "ans": "withdraw"
+    },
+    {
+      "ques": "She attended a meeting of the _________ to discuss upcoming negotiations.",
+      "ans": "union"
+    }
+  ]
+]

@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ques": "You can _________ certain expenses from your taxable income.",
+      "ans": "deduct"
+    },
+    {
+      "ques": "They called a technician to _________ the broken appliance.",
+      "ans": "repair"
+    },
+    {
+      "ques": "The meeting's _________ included discussing the budget and future projects.",
+      "ans": "agenda"
+    },
+    {
+      "ques": "He couldn't _________ to buy a new car, so he opted for a used one.",
+      "ans": "afford"
+    },
+    {
+      "ques": "_________ for wealth can lead to unethical behavior.",
+      "ans": "greed"
+    },
+    {
+      "ques": "They left a generous _________ for the attentive waiter.",
+      "ans": "tip"
+    },
+    {
+      "ques": "The company decided to _________ the local charity event.",
+      "ans": "sponsor"
+    },
+    {
+      "ques": "He has a long daily _________ to work in the city.",
+      "ans": "commute"
+    },
+    {
+      "ques": "Thomas Edison is known for his ability to _________ new technologies.",
+      "ans": "invent"
+    },
+    {
+      "ques": "She has excellent organizational skills and can effectively _________ a team.",
+      "ans": "manage"
+    },
+    {
+      "ques": "The company covers the _________ of employees' business trips.",
+      "ans": "expense"
+    },
+    {
+      "ques": "She's skilled at _________ business deals and contracts.",
+      "ans": "negotiate"
+    },
+    {
+      "ques": "The company reported a significant increase in _________ this year.",
+      "ans": "profit"
+    },
+    {
+      "ques": "She works at a prestigious law _________.",
+      "ans": "firm"
+    },
+    {
+      "ques": "He placed a high _________ at the auction to win the rare painting.",
+      "ans": "bid"
+    },
+    {
+      "ques": "She has a successful _________ as a lawyer.",
+      "ans": "career"
+    },
+    {
+      "ques": "There was a _________ of medical supplies during the crisis.",
+      "ans": "shortage"
+    }
+  ],
+  [
+    {
+      "ques": "She was appalled by the _________ of the corporate executives.",
+      "ans": "greed"
+    },
+    {
+      "ques": "He was hired to _________ the company's finances.",
+      "ans": "manage"
+    },
+    {
+      "ques": "She wanted to _________ a solution to the environmental problem.",
+      "ans": "invent"
+    },
+    {
+      "ques": "He's been in the tech _________ for over two decades.",
+      "ans": "career"
+    },
+    {
+      "ques": "She received a valuable _________ from her mentor.",
+      "ans": "tip"
+    },
+    {
+      "ques": "She found a _________ to support her academic research.",
+      "ans": "sponsor"
+    },
+    {
+      "ques": "They saved money diligently so they could _________ a dream vacation.",
+      "ans": "afford"
+    },
+    {
+      "ques": "He co-founded a successful software development _________.",
+      "ans": "firm"
+    },
+    {
+      "ques": "She always keeps a detailed _________ to stay organized.",
+      "ans": "agenda"
+    },
+    {
+      "ques": "She started her own business to generate _________.",
+      "ans": "profit"
+    },
+    {
+      "ques": "She carefully tracks her monthly _________s to budget effectively.",
+      "ans": "expense"
+    },
+    {
+      "ques": "The company submitted a competitive _________ for the contract.",
+      "ans": "bid"
+    },
+    {
+      "ques": "She always keeps receipts to _________ business expenses.",
+      "ans": "deduct"
+    },
+    {
+      "ques": "She learned how to _________ her bicycle on her own.",
+      "ans": "repair"
+    },
+    {
+      "ques": "She prefers to live closer to her workplace to shorten her _________.",
+      "ans": "commute"
+    },
+    {
+      "ques": "She noticed a _________ of available parking spaces.",
+      "ans": "shortage"
+    },
+    {
+      "ques": "He successfully _________d a higher salary with his employer.",
+      "ans": "negotiate"
+    }
+  ],
+  [
+    {
+      "ques": "She decided to make a bold _________ for the leadership position.",
+      "ans": "bid"
+    },
+    {
+      "ques": "They reinvest a portion of their _________ into research and development.",
+      "ans": "profit"
+    },
+    {
+      "ques": "They will _________ the cost of repairs from the security deposit.",
+      "ans": "deduct"
+    },
+    {
+      "ques": "She wondered if she could _________ the expensive restaurant for her anniversary.",
+      "ans": "afford"
+    },
+    {
+      "ques": "They use public transportation to _________ to the office.",
+      "ans": "commute"
+    },
+    {
+      "ques": "They hired a reputable accounting _________ for their business.",
+      "ans": "firm"
+    },
+    {
+      "ques": "They warned against the dangers of unchecked _________.",
+      "ans": "greed"
+    },
+    {
+      "ques": "They need to find a way to _________ the increased workload.",
+      "ans": "manage"
+    },
+    {
+      "ques": "They're looking for a corporate _________ for their sports team.",
+      "ans": "sponsor"
+    },
+    {
+      "ques": "They offered a useful _________ on how to save money.",
+      "ans": "tip"
+    },
+    {
+      "ques": "They faced a sudden _________ of skilled workers.",
+      "ans": "shortage"
+    },
+    {
+      "ques": "They encouraged students to think creatively and _________.",
+      "ans": "invent"
+    },
+    {
+      "ques": "They incurred unexpected medical _________s this year.",
+      "ans": "expense"
+    },
+    {
+      "ques": "They offer a warranty that covers _________s for the first year.",
+      "ans": "repair"
+    },
+    {
+      "ques": "They entered into _________tions to resolve the dispute.",
+      "ans": "negotiate"
+    },
+    {
+      "ques": "They believe in supporting employees' professional _________ development.",
+      "ans": "career"
+    },
+    {
+      "ques": "They set a clear _________ for the day's tasks.",
+      "ans": "agenda"
+    }
+  ],
+  [
+    {
+      "ques": "The organization relies on _________s to fund scholarships.",
+      "ans": "sponsor"
+    },
+    {
+      "ques": "They accepted the highest _________ for their antique furniture.",
+      "ans": "bid"
+    },
+    {
+      "ques": "The story is a cautionary tale about the consequences of _________.",
+      "ans": "greed"
+    },
+    {
+      "ques": "The _________ can be tiring, but the job is rewarding.",
+      "ans": "commute"
+    },
+    {
+      "ques": "The family had to budget carefully to _________ a comfortable lifestyle.",
+      "ans": "afford"
+    },
+    {
+      "ques": "The region experienced a water _________ due to drought.",
+      "ans": "shortage"
+    },
+    {
+      "ques": "The travel guidebook provides useful _________s for tourists.",
+      "ans": "tip"
+    },
+    {
+      "ques": "The car _________ shop provides quality service.",
+      "ans": "repair"
+    },
+    {
+      "ques": "The goal of any business is to generate _________.",
+      "ans": "profit"
+    },
+    {
+      "ques": "The project requires a skilled project manager to _________ the team.",
+      "ans": "manage"
+    },
+    {
+      "ques": "The _________ of living in the city is high.",
+      "ans": "expense"
+    },
+    {
+      "ques": "The inventor _________ed a groundbreaking device.",
+      "ans": "invent"
+    },
+    {
+      "ques": "The two parties are trying to _________ a mutually beneficial agreement.",
+      "ans": "negotiate"
+    },
+    {
+      "ques": "The _________ specializes in real estate investments.",
+      "ans": "firm"
+    },
+    {
+      "ques": "The company offers diverse _________ opportunities.",
+      "ans": "career"
+    },
+    {
+      "ques": "The conference had a packed _________ with various topics.",
+      "ans": "agenda"
+    },
+    {
+      "ques": "The company will _________ travel expenses for employees.",
+      "ans": "deduct"
+    }
+  ],
+  [
+    {
+      "ques": "He has a talent for _________ing complex situations.",
+      "ans": "manage"
+    },
+    {
+      "ques": "He won the _________ to host the prestigious event.",
+      "ans": "bid"
+    },
+    {
+      "ques": "He aspired to _________ something that would change the world.",
+      "ans": "invent"
+    },
+    {
+      "ques": "He believes in fair and transparent _________tion.",
+      "ans": "negotiate"
+    },
+    {
+      "ques": "He believed that _________ is a destructive force.",
+      "ans": "greed"
+    },
+    {
+      "ques": "He's always looking for opportunities to maximize _________.",
+      "ans": "profit"
+    },
+    {
+      "ques": "He had a hidden _________ for proposing during the vacation.",
+      "ans": "agenda"
+    },
+    {
+      "ques": "The price of the luxury item was beyond their _________.",
+      "ans": "afford"
+    },
+    {
+      "ques": "He enjoys listening to audiobooks during his _________.",
+      "ans": "commute"
+    },
+    {
+      "ques": "He decided to share the _________ of the family vacation.",
+      "ans": "expense"
+    },
+    {
+      "ques": "He shared a helpful _________ on how to improve productivity.",
+      "ans": "tip"
+    },
+    {
+      "ques": "He forgot to _________ the charitable donation on his tax return.",
+      "ans": "deduct"
+    },
+    {
+      "ques": "He's grateful to his _________ for helping him achieve his goals.",
+      "ans": "sponsor"
+    },
+    {
+      "ques": "He ordered extra inventory to avoid _________s.",
+      "ans": "shortage"
+    },
+    {
+      "ques": "He chose a _________ in healthcare to make a difference.",
+      "ans": "career"
+    },
+    {
+      "ques": "He's known for his expertise in running a consulting _________.",
+      "ans": "firm"
+    },
+    {
+      "ques": "He's skilled at _________ing electronic devices.",
+      "ans": "repair"
+    }
+  ]
+]

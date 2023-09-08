@@ -1,0 +1,332 @@
+[
+  [
+    {
+      "ques": "The bright sunlight created a blinding _________ on the snow.",
+      "ans": "glare"
+    },
+    {
+      "ques": "She used a knife to _________ the apple in two equal halves.",
+      "ans": "split"
+    },
+    {
+      "ques": "She made a witty _________ about the situation that made everyone laugh.",
+      "ans": "remark"
+    },
+    {
+      "ques": "The firefighters worked tirelessly to _________ people trapped in the burning building.",
+      "ans": "rescue"
+    },
+    {
+      "ques": "They made a detailed _________ for their summer vacation.",
+      "ans": "plan"
+    },
+    {
+      "ques": "Nike is a well-known sports _________ around the world.",
+      "ans": "brand"
+    },
+    {
+      "ques": "The surfer caught a big _________ and rode it to the shore.",
+      "ans": "wave"
+    },
+    {
+      "ques": "The roller coaster ride provided an exhilarating _________.",
+      "ans": "thrill"
+    },
+    {
+      "ques": "The government decided to impose a _________ on smoking in public places.",
+      "ans": "ban"
+    },
+    {
+      "ques": "The earthquake was caused by a _________ in the Earth's crust.",
+      "ans": "fault"
+    },
+    {
+      "ques": "The athlete had an impressive winning _________ in the competition.",
+      "ans": "streak"
+    },
+    {
+      "ques": "There is a high _________ for the latest smartphone model.",
+      "ans": "demand"
+    },
+    {
+      "ques": "They offered free _________s of their new product at the mall.",
+      "ans": "sample"
+    },
+    {
+      "ques": "There has been a significant _________ in the price of gasoline.",
+      "ans": "increase"
+    },
+    {
+      "ques": "She used a blanket to _________ herself on the chilly night.",
+      "ans": "cover"
+    },
+    {
+      "ques": "He accidentally put a _________ in his car's door when parking.",
+      "ans": "dent"
+    }
+  ],
+  [
+    {
+      "ques": "She felt a sense of _________ as she stood on the mountaintop.",
+      "ans": "thrill"
+    },
+    {
+      "ques": "He couldn't help but notice her sarcastic _________ during the meeting.",
+      "ans": "remark"
+    },
+    {
+      "ques": "She outlined her career _________ in a strategic document.",
+      "ans": "plan"
+    },
+    {
+      "ques": "She waved goodbye to her friends as the train departed.",
+      "ans": "wave"
+    },
+    {
+      "ques": "She was grateful to the lifeguard who came to her _________ at the beach.",
+      "ans": "rescue"
+    },
+    {
+      "ques": "She was pleased to see an _________ in her savings account.",
+      "ans": "increase"
+    },
+    {
+      "ques": "She collected a _________ of soil from the garden for testing.",
+      "ans": "sample"
+    },
+    {
+      "ques": "She admitted her _________ in the argument and apologized.",
+      "ans": "fault"
+    },
+    {
+      "ques": "The workers went on strike to demand higher wages.",
+      "ans": "demand"
+    },
+    {
+      "ques": "She noticed a small _________ on the table after moving a heavy vase.",
+      "ans": "dent"
+    },
+    {
+      "ques": "They decided to _________ the cost of the dinner between them.",
+      "ans": "split"
+    },
+    {
+      "ques": "She noticed a bright _________ of lightning in the sky.",
+      "ans": "streak"
+    },
+    {
+      "ques": "She recognized the _________ of the car by its logo.",
+      "ans": "brand"
+    },
+    {
+      "ques": "The school has a _________ on using mobile phones during class.",
+      "ans": "ban"
+    },
+    {
+      "ques": "The insurance policy will _________ the cost of any damages to the house.",
+      "ans": "cover"
+    },
+    {
+      "ques": "She shielded her eyes from the harsh _________ of the headlights.",
+      "ans": "glare"
+    }
+  ],
+  [
+    {
+      "ques": "They couldn't keep up with the _________ for their handmade crafts.",
+      "ans": "demand"
+    },
+    {
+      "ques": "They had to investigate the _________ in the electrical wiring.",
+      "ans": "fault"
+    },
+    {
+      "ques": "The river _________ into two smaller streams as it flowed downhill.",
+      "ans": "split"
+    },
+    {
+      "ques": "They need to _________ the swimming pool during the winter months.",
+      "ans": "cover"
+    },
+    {
+      "ques": "They decided to change the _________ of their products to appeal to a younger audience.",
+      "ans": "brand"
+    },
+    {
+      "ques": "They placed a _________ on single-use plastic bags to reduce pollution.",
+      "ans": "ban"
+    },
+    {
+      "ques": "They need to find ways to _________ their productivity.",
+      "ans": "increase"
+    },
+    {
+      "ques": "They need to come up with a contingency _________ in case of emergencies.",
+      "ans": "plan"
+    },
+    {
+      "ques": "They exchanged polite _________s about the weather.",
+      "ans": "remark"
+    },
+    {
+      "ques": "They experienced the _________ of watching a live concert.",
+      "ans": "thrill"
+    },
+    {
+      "ques": "They witnessed a _________ of good luck in their recent endeavors.",
+      "ans": "streak"
+    },
+    {
+      "ques": "They organized a search and _________ mission for the missing hikers.",
+      "ans": "rescue"
+    },
+    {
+      "ques": "They wore sunglasses to reduce the _________ from the sun.",
+      "ans": "glare"
+    },
+    {
+      "ques": "They conducted a survey using a random _________ of participants.",
+      "ans": "sample"
+    },
+    {
+      "ques": "They tried to fix the _________ in the metal sheet.",
+      "ans": "dent"
+    },
+    {
+      "ques": "They observed the rhythmic motion of the ocean _________s.",
+      "ans": "wave"
+    }
+  ],
+  [
+    {
+      "ques": "The company struggled to meet the _________ for their new product.",
+      "ans": "demand"
+    },
+    {
+      "ques": "The company plans to _________ its marketing budget next year.",
+      "ans": "increase"
+    },
+    {
+      "ques": "The adventure movie promised to deliver plenty of _________s.",
+      "ans": "thrill"
+    },
+    {
+      "ques": "The artist used a brush to create a colorful _________ on the canvas.",
+      "ans": "streak"
+    },
+    {
+      "ques": "The company's _________ image is associated with quality and innovation.",
+      "ans": "brand"
+    },
+    {
+      "ques": "The animal shelter is dedicated to the _________ and care of abandoned pets.",
+      "ans": "rescue"
+    },
+    {
+      "ques": "The politician gave a friendly _________ to the crowd from the stage.",
+      "ans": "wave"
+    },
+    {
+      "ques": "The group couldn't agree on a decision and chose to _________ into two teams.",
+      "ans": "split"
+    },
+    {
+      "ques": "The professor appreciated the thoughtful _________s in the students' essays.",
+      "ans": "remark"
+    },
+    {
+      "ques": "The architect presented the building _________ to the client.",
+      "ans": "plan"
+    },
+    {
+      "ques": "The book's dust jacket is designed to _________ and protect the book.",
+      "ans": "cover"
+    },
+    {
+      "ques": "The chef prepared a delicious _________ of appetizers for the event.",
+      "ans": "sample"
+    },
+    {
+      "ques": "The basketball left a noticeable _________ in the gym floor.",
+      "ans": "dent"
+    },
+    {
+      "ques": "The mechanic found a _________ in the car's engine.",
+      "ans": "fault"
+    },
+    {
+      "ques": "The town council is considering a _________ on fireworks to prevent accidents.",
+      "ans": "ban"
+    },
+    {
+      "ques": "The teacher gave the students a stern _________ when they misbehaved.",
+      "ans": "glare"
+    }
+  ],
+  [
+    {
+      "ques": "The company implemented a _________ on employees discussing confidential information.",
+      "ans": "ban"
+    },
+    {
+      "ques": "He broke his losing _________ with a victory in the game.",
+      "ans": "streak"
+    },
+    {
+      "ques": "He used a flag to _________ down the approaching ship.",
+      "ans": "wave"
+    },
+    {
+      "ques": "The photographer used a filter to soften the camera's _________.",
+      "ans": "glare"
+    },
+    {
+      "ques": "The store carries a variety of clothing _________s.",
+      "ans": "brand"
+    },
+    {
+      "ques": "He used an umbrella to _________ himself from the rain.",
+      "ans": "cover"
+    },
+    {
+      "ques": "The computer crashed due to a hardware _________.",
+      "ans": "fault"
+    },
+    {
+      "ques": "He had to adjust his travel _________ due to unexpected events.",
+      "ans": "plan"
+    },
+    {
+      "ques": "He called 911 to request an urgent _________ for the injured hiker.",
+      "ans": "rescue"
+    },
+    {
+      "ques": "He pursued extreme sports to seek the ultimate _________.",
+      "ans": "thrill"
+    },
+    {
+      "ques": "The population of the city continues to _________.",
+      "ans": "increase"
+    },
+    {
+      "ques": "The collision left a _________ in the front bumper of the truck.",
+      "ans": "dent"
+    },
+    {
+      "ques": "The professor's lectures are in _________ by students.",
+      "ans": "demand"
+    },
+    {
+      "ques": "He requested a _________ of the fabric before making a purchase.",
+      "ans": "sample"
+    },
+    {
+      "ques": "He couldn't resist making a snarky _________ about his friend's outfit.",
+      "ans": "remark"
+    },
+    {
+      "ques": "He accidentally _________ the seam of his pants while hiking.",
+      "ans": "split"
+    }
+  ]
+]

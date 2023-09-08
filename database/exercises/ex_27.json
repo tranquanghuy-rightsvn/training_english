@@ -1,0 +1,332 @@
+[
+  [
+    {
+      "ques": "Getting _________d is an important preventive measure.",
+      "ans": "vaccinate"
+    },
+    {
+      "ques": "It's important to _________ food properly for digestion.",
+      "ans": "swallow"
+    },
+    {
+      "ques": "_________ individuals often face accessibility challenges.",
+      "ans": "disabled"
+    },
+    {
+      "ques": "She's an accomplished _________ who has won numerous awards.",
+      "ans": "athlete"
+    },
+    {
+      "ques": "_________ to drugs can have serious consequences.",
+      "ans": "addiction"
+    },
+    {
+      "ques": "A sore _________ can be a symptom of an illness.",
+      "ans": "throat"
+    },
+    {
+      "ques": "Good _________ is essential for a high quality of life.",
+      "ans": "health"
+    },
+    {
+      "ques": "He had a painful _________ throat due to the cold.",
+      "ans": "sore"
+    },
+    {
+      "ques": "Regular exercise helps you stay physically _________.",
+      "ans": "fit"
+    },
+    {
+      "ques": "She felt lightheaded and _________ed during the heatwave.",
+      "ans": "faint"
+    },
+    {
+      "ques": "Proper _________ is essential for overall well-being.",
+      "ans": "nutrition"
+    },
+    {
+      "ques": "He nearly _________ed while swimming in the strong currents.",
+      "ans": "drown"
+    },
+    {
+      "ques": "Viruses can easily _________ others in close quarters.",
+      "ans": "infect"
+    },
+    {
+      "ques": "Maintaining _________ conditions is crucial for public health.",
+      "ans": "sanitary"
+    },
+    {
+      "ques": "Consuming a toxic substance can lead to _________ing.",
+      "ans": "poison"
+    },
+    {
+      "ques": "Preventing the spread of infectious _________s is crucial.",
+      "ans": "disease"
+    }
+  ],
+  [
+    {
+      "ques": "_________ muscles are common after intense workouts.",
+      "ans": "sore"
+    },
+    {
+      "ques": "The organization advocates for the rights of the _________.",
+      "ans": "disabled"
+    },
+    {
+      "ques": "Preventive measures can promote better _________.",
+      "ans": "health"
+    },
+    {
+      "ques": "Practicing good hygiene can reduce the risk of _________ion.",
+      "ans": "infect"
+    },
+    {
+      "ques": "She had a lump in her _________ that required evaluation.",
+      "ans": "throat"
+    },
+    {
+      "ques": "Restaurants are inspected to ensure _________ food handling.",
+      "ans": "sanitary"
+    },
+    {
+      "ques": "He had difficulty _________ing the large pill.",
+      "ans": "swallow"
+    },
+    {
+      "ques": "_________ing in the ocean can be a terrifying experience.",
+      "ans": "drown"
+    },
+    {
+      "ques": "She sought help to overcome her gambling _________.",
+      "ans": "addiction"
+    },
+    {
+      "ques": "_________ous plants should be kept away from children and pets.",
+      "ans": "poison"
+    },
+    {
+      "ques": "She maintains a _________ lifestyle with a balanced diet.",
+      "ans": "fit"
+    },
+    {
+      "ques": "_________s train rigorously to excel in their chosen sport.",
+      "ans": "athlete"
+    },
+    {
+      "ques": "Parents are encouraged to _________ their children against common diseases.",
+      "ans": "vaccinate"
+    },
+    {
+      "ques": "The patient _________ed due to dehydration.",
+      "ans": "faint"
+    },
+    {
+      "ques": "A balanced diet provides essential _________ for the body.",
+      "ans": "nutrition"
+    },
+    {
+      "ques": "Some _________s can be hereditary.",
+      "ans": "disease"
+    }
+  ],
+  [
+    {
+      "ques": "The doctor explained the treatment options for the _________.",
+      "ans": "disease"
+    },
+    {
+      "ques": "Becoming a professional _________ requires dedication.",
+      "ans": "athlete"
+    },
+    {
+      "ques": "Vaccination campaigns aim to _________ large populations.",
+      "ans": "vaccinate"
+    },
+    {
+      "ques": "_________ing a fish bone can be dangerous.",
+      "ans": "swallow"
+    },
+    {
+      "ques": "He accidentally _________ed his coworkers with the flu.",
+      "ans": "infect"
+    },
+    {
+      "ques": "It's important to be cautious while swimming to avoid _________.",
+      "ans": "drown"
+    },
+    {
+      "ques": "Strep _________ is a bacterial infection.",
+      "ans": "throat"
+    },
+    {
+      "ques": "Mental _________ is as important as physical _________.",
+      "ans": "health"
+    },
+    {
+      "ques": "Applying a cold compress can relieve _________ness.",
+      "ans": "sore"
+    },
+    {
+      "ques": "The chemical spill resulted in soil _________ing.",
+      "ans": "poison"
+    },
+    {
+      "ques": "A sudden drop in blood pressure can cause someone to _________.",
+      "ans": "faint"
+    },
+    {
+      "ques": "She's a registered dietitian specializing in sports _________.",
+      "ans": "nutrition"
+    },
+    {
+      "ques": "_________s can be both physical and psychological.",
+      "ans": "addiction"
+    },
+    {
+      "ques": "Technology can enhance the lives of _________ people.",
+      "ans": "disabled"
+    },
+    {
+      "ques": "_________ individuals often have higher energy levels.",
+      "ans": "fit"
+    },
+    {
+      "ques": "Handwashing is a basic _________ practice to prevent illness.",
+      "ans": "sanitary"
+    }
+  ],
+  [
+    {
+      "ques": "Physical _________ness contributes to overall well-being.",
+      "ans": "fit"
+    },
+    {
+      "ques": "Vaccination is an effective way to protect against certain _________.",
+      "ans": "disease"
+    },
+    {
+      "ques": "She acted quickly to rescue the child from _________ing.",
+      "ans": "drown"
+    },
+    {
+      "ques": "The athlete experienced _________ness in his joints.",
+      "ans": "sore"
+    },
+    {
+      "ques": "He was rushed to the hospital after accidental _________ing.",
+      "ans": "poison"
+    },
+    {
+      "ques": "He provided assistance to the _________ing person.",
+      "ans": "faint"
+    },
+    {
+      "ques": "She decided to _________ her family before traveling.",
+      "ans": "vaccinate"
+    },
+    {
+      "ques": "The singer's powerful voice strained her _________.",
+      "ans": "throat"
+    },
+    {
+      "ques": "The contaminated food source could potentially _________ many people.",
+      "ans": "infect"
+    },
+    {
+      "ques": "_________ facilities are provided at the campsite.",
+      "ans": "sanitary"
+    },
+    {
+      "ques": "Recognizing the signs of an _________ is the first step to recovery.",
+      "ans": "addiction"
+    },
+    {
+      "ques": "She works in the field of public _________.",
+      "ans": "health"
+    },
+    {
+      "ques": "The school promotes healthy _________ for students.",
+      "ans": "nutrition"
+    },
+    {
+      "ques": "She watched the bird _________ its prey whole.",
+      "ans": "swallow"
+    },
+    {
+      "ques": "The _________ competed in the marathon and finished first.",
+      "ans": "athlete"
+    },
+    {
+      "ques": "She is a strong advocate for inclusive education for _________ students.",
+      "ans": "disabled"
+    }
+  ],
+  [
+    {
+      "ques": "She experienced a _________ing spell but quickly recovered.",
+      "ans": "faint"
+    },
+    {
+      "ques": "Efforts are underway to control the spread of the _________ious disease.",
+      "ans": "infect"
+    },
+    {
+      "ques": "He's in excellent _________ness for his age.",
+      "ans": "fit"
+    },
+    {
+      "ques": "Support groups can assist those struggling with _________.",
+      "ans": "addiction"
+    },
+    {
+      "ques": "Early detection can lead to better outcomes for many _________.",
+      "ans": "disease"
+    },
+    {
+      "ques": "Access to quality healthcare is a fundamental right for all.",
+      "ans": "health"
+    },
+    {
+      "ques": "The doctor will _________ the patient to protect against the flu.",
+      "ans": "vaccinate"
+    },
+    {
+      "ques": "_________ness should not be a barrier to opportunities.",
+      "ans": "disabled"
+    },
+    {
+      "ques": "Educating people about the importance of good _________ is vital.",
+      "ans": "nutrition"
+    },
+    {
+      "ques": "_________ lozenges can provide relief from irritation.",
+      "ans": "throat"
+    },
+    {
+      "ques": "Rest is important for recovery from _________ness.",
+      "ans": "sore"
+    },
+    {
+      "ques": "The automatic reflex to _________ keeps us from choking.",
+      "ans": "swallow"
+    },
+    {
+      "ques": "The hospital follows strict _________ protocols.",
+      "ans": "sanitary"
+    },
+    {
+      "ques": "Proper storage of household cleaners helps prevent accidental _________.",
+      "ans": "poison"
+    },
+    {
+      "ques": "_________s need to maintain peak physical condition.",
+      "ans": "athlete"
+    },
+    {
+      "ques": "Rescue teams worked tirelessly to save those who were _________ing.",
+      "ans": "drown"
+    }
+  ]
+]

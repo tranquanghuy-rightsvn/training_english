@@ -1,0 +1,25 @@
+{
+  "title": "Feelings, Qualities & States",
+  "exercises": [
+    {
+      "id": 19,
+      "words": ["adore", "annoy", "calm", "cautious", "eager", "enthusiasm", "envy", "fright", "gentle", "miserable", "nasty", "pride", "stubborn"]
+    },
+    {
+      "id": 20,
+      "words": ["affection", "brave", "confident", "content", "desire", "disgust", "emotion", "fond", "glad", "mean", "pleasant", "sympathy", "upset"]
+    },
+    {
+      "id": 21,
+      "words": ["bold", "brag", "character", "coward", "dread", "evil", "frustrate", "generous", "honest", "mild", "panic", "rude", "shame"]
+    },
+    {
+      "id": 22,
+      "words": ["admire", "alert", "boast", "cruel", "curious", "desperate", "embarrass", "fear", "grief", "irritate", "mood", "patient", "sophisticated"]
+    },
+    {
+      "id": 23,
+      "words": ["afraid", "angry", "anxiety", "certain", "courage", "detest", "elegant", "frown", "jealous", "lazy", "modest", "relief"]
+    }
+  ]
+}

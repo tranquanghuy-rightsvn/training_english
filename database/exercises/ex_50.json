@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "ques": "The general issued a _________ to the troops to prepare for battle.",
+      "ans": "command"
+    },
+    {
+      "ques": "He submitted a formal _________ for a leave of absence.",
+      "ans": "request"
+    },
+    {
+      "ques": "They decided to _________ their old furniture at the landfill.",
+      "ans": "dump"
+    },
+    {
+      "ques": "He decided to _________ himself to a delicious ice cream cone.",
+      "ans": "treat"
+    },
+    {
+      "ques": "They embarked on a long _________ across the ocean.",
+      "ans": "voyage"
+    },
+    {
+      "ques": "The runners passed the baton in the _________ race.",
+      "ans": "relay"
+    },
+    {
+      "ques": "The forest fire created a massive _________ that could be seen for miles.",
+      "ans": "blaze"
+    },
+    {
+      "ques": "He used a spatula to _________ the pancake in the frying pan.",
+      "ans": "flip"
+    },
+    {
+      "ques": "He liked to _________ his own coffee every morning.",
+      "ans": "brew"
+    },
+    {
+      "ques": "The crossword _________ in the newspaper was particularly challenging.",
+      "ans": "puzzle"
+    },
+    {
+      "ques": "The bridge had an impressive _________ that stretched across the river.",
+      "ans": "span"
+    },
+    {
+      "ques": "He was upset by the amount of _________ left behind by hikers in the forest.",
+      "ans": "waste"
+    },
+    {
+      "ques": "The wires became a confusing _________ of knots and twists.",
+      "ans": "tangle"
+    },
+    {
+      "ques": "She gave a quick _________ at the clock to check the time.",
+      "ans": "glance"
+    },
+    {
+      "ques": "The soldier gave a crisp _________ to the commanding officer.",
+      "ans": "salute"
+    }
+  ],
+  [
+    {
+      "ques": "She had complete _________ over the company's operations.",
+      "ans": "command"
+    },
+    {
+      "ques": "She watched the flag _________ during the national anthem.",
+      "ans": "salute"
+    },
+    {
+      "ques": "She dreamed of a _________ to explore exotic lands.",
+      "ans": "voyage"
+    },
+    {
+      "ques": "She measured the _________ of the room before buying furniture.",
+      "ans": "span"
+    },
+    {
+      "ques": "She baked cookies as a special _________ for her friends.",
+      "ans": "treat"
+    },
+    {
+      "ques": "She enjoyed solving jigsaw _________s in her free time.",
+      "ans": "puzzle"
+    },
+    {
+      "ques": "She received a _________ for information from the police.",
+      "ans": "request"
+    },
+    {
+      "ques": "She watched as the garbage truck came to _________ the trash bins.",
+      "ans": "dump"
+    },
+    {
+      "ques": "She tried to reduce _________ by recycling and composting.",
+      "ans": "waste"
+    },
+    {
+      "ques": "He noticed a mysterious figure out of the corner of his _________.",
+      "ans": "glance"
+    },
+    {
+      "ques": "She could _________ a coin and predict heads or tails.",
+      "ans": "flip"
+    },
+    {
+      "ques": "She carefully unraveled the _________ of necklaces in the jewelry box.",
+      "ans": "tangle"
+    },
+    {
+      "ques": "She used a walkie-talkie to _________ important messages.",
+      "ans": "relay"
+    },
+    {
+      "ques": "She learned how to _________ herbal tea from scratch.",
+      "ans": "brew"
+    },
+    {
+      "ques": "They used a torch to _________ their way through the dark cave.",
+      "ans": "blaze"
+    }
+  ],
+  [
+    {
+      "ques": "They couldn't figure out the _________ of the locked chest.",
+      "ans": "puzzle"
+    },
+    {
+      "ques": "They organized a _________ race to raise money for charity.",
+      "ans": "relay"
+    },
+    {
+      "ques": "They made a special _________ for a customized cake for the party.",
+      "ans": "request"
+    },
+    {
+      "ques": "They could smell the aroma of fresh bread _________ing in the bakery.",
+      "ans": "brew"
+    },
+    {
+      "ques": "They liked to _________ through old photo albums to reminisce.",
+      "ans": "flip"
+    },
+    {
+      "ques": "They heard tales of adventurous _________s to distant islands.",
+      "ans": "voyage"
+    },
+    {
+      "ques": "The sun began to _________ over the horizon as morning arrived.",
+      "ans": "blaze"
+    },
+    {
+      "ques": "They discussed the historical _________ of the ancient civilization.",
+      "ans": "span"
+    },
+    {
+      "ques": "They followed the captain's _________s during the sailing expedition.",
+      "ans": "command"
+    },
+    {
+      "ques": "They discussed ways to minimize _________ in the production process.",
+      "ans": "waste"
+    },
+    {
+      "ques": "They lined up to _________ the veterans at the parade.",
+      "ans": "salute"
+    },
+    {
+      "ques": "They went out for a nice _________ at their favorite restaurant.",
+      "ans": "treat"
+    },
+    {
+      "ques": "They discovered an illegal _________ site in the forest.",
+      "ans": "dump"
+    },
+    {
+      "ques": "They exchanged a meaningful _________ across the crowded room.",
+      "ans": "glance"
+    },
+    {
+      "ques": "They tried to avoid getting their fishing lines _________.",
+      "ans": "tangle"
+    }
+  ],
+  [
+    {
+      "ques": "He planned a _________ to discover new cultures.",
+      "ans": "voyage"
+    },
+    {
+      "ques": "He had to _________ the dog to sit and stay.",
+      "ans": "command"
+    },
+    {
+      "ques": "The cafe would _________ a special blend of beer for the festival.",
+      "ans": "brew"
+    },
+    {
+      "ques": "He calculated the time _________ of the entire journey.",
+      "ans": "span"
+    },
+    {
+      "ques": "He hesitated to fulfill the unusual _________.",
+      "ans": "request"
+    },
+    {
+      "ques": "The fireworks lit up the night sky in a colorful _________.",
+      "ans": "blaze"
+    },
+    {
+      "ques": "He raised his hand to _________ his friend across the street.",
+      "ans": "salute"
+    },
+    {
+      "ques": "The gymnast performed a perfect _________ in mid-air.",
+      "ans": "flip"
+    },
+    {
+      "ques": "He needed to _________ the contents of the bag into the trash can.",
+      "ans": "dump"
+    },
+    {
+      "ques": "He had to detangle the mess of Christmas lights.",
+      "ans": "tangle"
+    },
+    {
+      "ques": "The driver took his eyes off the road for a split-second _________.",
+      "ans": "glance"
+    },
+    {
+      "ques": "He had to _________ the news of the emergency to the authorities.",
+      "ans": "relay"
+    },
+    {
+      "ques": "He offered to _________ his colleagues to coffee.",
+      "ans": "treat"
+    },
+    {
+      "ques": "He regretted the _________ of water during the drought.",
+      "ans": "waste"
+    },
+    {
+      "ques": "He found a _________ piece hidden under the table.",
+      "ans": "puzzle"
+    }
+  ],
+  [
+    {
+      "ques": "The project would _________ several months to complete.",
+      "ans": "span"
+    },
+    {
+      "ques": "The old factory used to _________ toxic waste into the river.",
+      "ans": "dump"
+    },
+    {
+      "ques": "The sailors prepared for their next _________.",
+      "ans": "voyage"
+    },
+    {
+      "ques": "He caught a brief _________ of the beautiful sunset.",
+      "ans": "glance"
+    },
+    {
+      "ques": "He decided to _________ a coin to make a decision.",
+      "ans": "flip"
+    },
+    {
+      "ques": "The radio station would _________ live coverage of the event.",
+      "ans": "relay"
+    },
+    {
+      "ques": "He watched the campfire _________ and crackle.",
+      "ans": "blaze"
+    },
+    {
+      "ques": "He decided to _________ a batch of homemade beer for his friends.",
+      "ans": "brew"
+    },
+    {
+      "ques": "The tradition was to _________ the flag at sunrise and sunset.",
+      "ans": "salute"
+    },
+    {
+      "ques": "The spa day was a luxurious _________ for relaxation.",
+      "ans": "treat"
+    },
+    {
+      "ques": "The hairbrush got stuck in a _________ of hair.",
+      "ans": "tangle"
+    },
+    {
+      "ques": "The teacher considered their _________ for an extension on the deadline.",
+      "ans": "request"
+    },
+    {
+      "ques": "The detective had to unravel the _________ of the missing painting.",
+      "ans": "puzzle"
+    },
+    {
+      "ques": "The company aimed to reduce _________ in its operations.",
+      "ans": "waste"
+    },
+    {
+      "ques": "The computer program responded to his _________s.",
+      "ans": "command"
+    }
+  ]
+]

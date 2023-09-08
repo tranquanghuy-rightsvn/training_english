@@ -1,0 +1,392 @@
+[
+  [
+    {
+      "ques": "They climbed the narrow _________ to the attic.",
+      "ans": "stair"
+    },
+    {
+      "ques": "The cargo ships docked at the busy _________.",
+      "ans": "port"
+    },
+    {
+      "ques": "The artist worked in his painting _________.",
+      "ans": "studio"
+    },
+    {
+      "ques": "They sat together on the park _________.",
+      "ans": "bench"
+    },
+    {
+      "ques": "The _________ was filled with cheering fans.",
+      "ans": "stadium"
+    },
+    {
+      "ques": "The subway _________ runs beneath the city.",
+      "ans": "tunnel"
+    },
+    {
+      "ques": "The city is known for its intricate _________ system.",
+      "ans": "canal"
+    },
+    {
+      "ques": "He stored his tools in the garden _________.",
+      "ans": "shed"
+    },
+    {
+      "ques": "The Eiffel _________ is an iconic Parisian landmark.",
+      "ans": "tower"
+    },
+    {
+      "ques": "She rented a _________ at the craft fair to sell her jewelry.",
+      "ans": "booth"
+    },
+    {
+      "ques": "They needed to _________ scaffolding to repair the building.",
+      "ans": "erect"
+    },
+    {
+      "ques": "The documentary explored life in the city's poorest _________.",
+      "ans": "slum"
+    },
+    {
+      "ques": "The homeless sought _________ from the cold in the park.",
+      "ans": "shelter"
+    },
+    {
+      "ques": "The _________ blocked their path.",
+      "ans": "barrier"
+    },
+    {
+      "ques": "They installed a wooden _________ around the backyard.",
+      "ans": "fence"
+    },
+    {
+      "ques": "The train _________ was bustling with commuters.",
+      "ans": "station"
+    },
+    {
+      "ques": "The wine was aged in an oak _________.",
+      "ans": "barrel"
+    },
+    {
+      "ques": "The zookeeper opened the _________ to feed the animals.",
+      "ans": "cage"
+    },
+    {
+      "ques": "The ancient _________ was a place of worship.",
+      "ans": "temple"
+    }
+  ],
+  [
+    {
+      "ques": "The workshop had a large work _________.",
+      "ans": "bench"
+    },
+    {
+      "ques": "They took a boat ride along the historic _________.",
+      "ans": "canal"
+    },
+    {
+      "ques": "The workers will _________ the stage for the concert.",
+      "ans": "erect"
+    },
+    {
+      "ques": "The voting _________s were set up for the election.",
+      "ans": "booth"
+    },
+    {
+      "ques": "They worked to improve living conditions in the _________.",
+      "ans": "slum"
+    },
+    {
+      "ques": "The emergency exit has a flight of _________.",
+      "ans": "stair"
+    },
+    {
+      "ques": "The canary sang happily in its _________.",
+      "ans": "cage"
+    },
+    {
+      "ques": "They explored the dark _________ with flashlights.",
+      "ans": "tunnel"
+    },
+    {
+      "ques": "They watched the sunset from the seaside _________.",
+      "ans": "port"
+    },
+    {
+      "ques": "Language can sometimes be a _________ to communication.",
+      "ans": "barrier"
+    },
+    {
+      "ques": "The snake slithered into the old wooden _________.",
+      "ans": "shed"
+    },
+    {
+      "ques": "They recorded the album in a professional music _________.",
+      "ans": "studio"
+    },
+    {
+      "ques": "He listened to the weather report on the radio _________.",
+      "ans": "station"
+    },
+    {
+      "ques": "They built a new _________ for the Olympic Games.",
+      "ans": "stadium"
+    },
+    {
+      "ques": "They gazed up at the medieval _________.",
+      "ans": "tower"
+    },
+    {
+      "ques": "They visited the Buddhist _________ to meditate.",
+      "ans": "temple"
+    },
+    {
+      "ques": "They rolled the heavy _________ down the hill.",
+      "ans": "barrel"
+    },
+    {
+      "ques": "The campers set up their _________ in the forest.",
+      "ans": "shelter"
+    },
+    {
+      "ques": "The farmer repaired the barbed wire _________.",
+      "ans": "fence"
+    }
+  ],
+  [
+    {
+      "ques": "The old _________ was filled with rainwater.",
+      "ans": "barrel"
+    },
+    {
+      "ques": "He helped _________ a tent for the camping trip.",
+      "ans": "erect"
+    },
+    {
+      "ques": "The animal rescue organization provides _________ for strays.",
+      "ans": "shelter"
+    },
+    {
+      "ques": "The radio _________ transmitted signals across the city.",
+      "ans": "tower"
+    },
+    {
+      "ques": "They built a _________ to protect the coastal town from storms.",
+      "ans": "barrier"
+    },
+    {
+      "ques": "The _________ in the courtroom were filled with spectators.",
+      "ans": "bench"
+    },
+    {
+      "ques": "They ordered food from a food _________ at the carnival.",
+      "ans": "booth"
+    },
+    {
+      "ques": "The train entered the mountain _________.",
+      "ans": "tunnel"
+    },
+    {
+      "ques": "The photographer set up a makeshift _________ in the garage.",
+      "ans": "studio"
+    },
+    {
+      "ques": "The football team won the championship at the _________.",
+      "ans": "stadium"
+    },
+    {
+      "ques": "She tripped and fell down the concrete _________.",
+      "ans": "stair"
+    },
+    {
+      "ques": "The city's _________ is a major hub for trade.",
+      "ans": "port"
+    },
+    {
+      "ques": "The intricate carvings adorned the entrance of the _________.",
+      "ans": "temple"
+    },
+    {
+      "ques": "They met at the bus _________ to catch a ride.",
+      "ans": "station"
+    },
+    {
+      "ques": "She built a small storage _________ in the backyard.",
+      "ans": "shed"
+    },
+    {
+      "ques": "She painted the picket _________ white.",
+      "ans": "fence"
+    },
+    {
+      "ques": "The lion paced back and forth in its _________.",
+      "ans": "cage"
+    },
+    {
+      "ques": "The children played soccer in the crowded _________.",
+      "ans": "slum"
+    },
+    {
+      "ques": "The _________ provided irrigation for the farmland.",
+      "ans": "canal"
+    }
+  ],
+  [
+    {
+      "ques": "The lighthouse _________ guided ships safely to shore.",
+      "ans": "tower"
+    },
+    {
+      "ques": "The baseball field has an outfield _________.",
+      "ans": "fence"
+    },
+    {
+      "ques": "The police _________ was located downtown.",
+      "ans": "station"
+    },
+    {
+      "ques": "The grand entrance had a sweeping marble _________.",
+      "ans": "stair"
+    },
+    {
+      "ques": "He picked up a wooden _________ and carried it to the barn.",
+      "ans": "barrel"
+    },
+    {
+      "ques": "The Hindu _________ is known for its ornate architecture.",
+      "ans": "temple"
+    },
+    {
+      "ques": "Overcoming cultural _________s requires understanding and tolerance.",
+      "ans": "barrier"
+    },
+    {
+      "ques": "The miners dug deep into the _________ to extract ore.",
+      "ans": "tunnel"
+    },
+    {
+      "ques": "He built a wooden _________ for his garden.",
+      "ans": "bench"
+    },
+    {
+      "ques": "The cat found shelter in the dilapidated _________.",
+      "ans": "shed"
+    },
+    {
+      "ques": "He studied the engineering of the Panama _________.",
+      "ans": "canal"
+    },
+    {
+      "ques": "The film was shot on location and in the _________.",
+      "ans": "studio"
+    },
+    {
+      "ques": "The ancient civilization was able to _________ impressive structures.",
+      "ans": "erect"
+    },
+    {
+      "ques": "The _________ has a seating capacity of 50,000.",
+      "ans": "stadium"
+    },
+    {
+      "ques": "He had a small _________ where he sold tickets.",
+      "ans": "booth"
+    },
+    {
+      "ques": "The cave served as a natural _________ from the storm.",
+      "ans": "shelter"
+    },
+    {
+      "ques": "She grew up in the _________ but later moved to a better neighborhood.",
+      "ans": "slum"
+    },
+    {
+      "ques": "The _________ authority manages shipping and customs.",
+      "ans": "port"
+    },
+    {
+      "ques": "He felt like a bird trapped in a _________.",
+      "ans": "cage"
+    }
+  ],
+  [
+    {
+      "ques": "The _________ was used for transporting goods in the past.",
+      "ans": "canal"
+    },
+    {
+      "ques": "The vehicle emerged from the underwater _________.",
+      "ans": "tunnel"
+    },
+    {
+      "ques": "They painted the exterior of the garden _________.",
+      "ans": "shed"
+    },
+    {
+      "ques": "The _________ of oil was too heavy to lift.",
+      "ans": "barrel"
+    },
+    {
+      "ques": "She waited at the gas _________ to fill up her car.",
+      "ans": "station"
+    },
+    {
+      "ques": "The _________ between the two countries was finally lifted.",
+      "ans": "barrier"
+    },
+    {
+      "ques": "The _________ was known for its high crime rate.",
+      "ans": "slum"
+    },
+    {
+      "ques": "She found _________ under a tree during the rain.",
+      "ans": "shelter"
+    },
+    {
+      "ques": "The house had a beautiful wrought-iron _________.",
+      "ans": "fence"
+    },
+    {
+      "ques": "The _________ was made of strong metal bars.",
+      "ans": "cage"
+    },
+    {
+      "ques": "The old mansion had a spiral _________.",
+      "ans": "stair"
+    },
+    {
+      "ques": "They boarded the cruise ship at the _________.",
+      "ans": "port"
+    },
+    {
+      "ques": "The _________ is a symbol of spiritual significance.",
+      "ans": "temple"
+    },
+    {
+      "ques": "The flag was _________ on top of the mountain.",
+      "ans": "erect"
+    },
+    {
+      "ques": "The photo _________ at the mall offered instant prints.",
+      "ans": "booth"
+    },
+    {
+      "ques": "She rented a dance _________ for her ballet class.",
+      "ans": "studio"
+    },
+    {
+      "ques": "The concert was held at an outdoor _________.",
+      "ans": "stadium"
+    },
+    {
+      "ques": "The team celebrated their victory on the locker room _________.",
+      "ans": "bench"
+    },
+    {
+      "ques": "The clock _________ chimed every hour.",
+      "ans": "tower"
+    }
+  ]
+]

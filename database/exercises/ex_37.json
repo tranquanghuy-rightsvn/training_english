@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ques": "The farm grows a variety of fresh _________ for the local market.",
+      "ans": "produce"
+    },
+    {
+      "ques": "He plans to _________ from his job after 30 years of service.",
+      "ans": "retire"
+    },
+    {
+      "ques": "The factory ensures a steady _________ of raw materials.",
+      "ans": "supply"
+    },
+    {
+      "ques": "The company's delivery _________ ensures timely shipments.",
+      "ans": "fleet"
+    },
+    {
+      "ques": "The company offers an annual performance _________ to its employees.",
+      "ans": "bonus"
+    },
+    {
+      "ques": "They decided to _________ an apartment in the city.",
+      "ans": "rent"
+    },
+    {
+      "ques": "A reliable computer is an essential _________ for her work.",
+      "ans": "tool"
+    },
+    {
+      "ques": "They participated in a cultural _________ program abroad.",
+      "ans": "exchange"
+    },
+    {
+      "ques": "He likes to _________ at the casino on weekends.",
+      "ans": "gamble"
+    },
+    {
+      "ques": "The antique vase is highly _________ and sought after by collectors.",
+      "ans": "valuable"
+    },
+    {
+      "ques": "The government _________ is responsible for regulating the industry.",
+      "ans": "agency"
+    },
+    {
+      "ques": "They saw a great business _________ in the emerging market.",
+      "ans": "opportunity"
+    },
+    {
+      "ques": "Doing the dishes is one of her daily household _________.",
+      "ans": "chore"
+    },
+    {
+      "ques": "She decided to _________ her old clothes to a charity.",
+      "ans": "donate"
+    },
+    {
+      "ques": "The company's catchy _________ became widely recognized.",
+      "ans": "slogan"
+    },
+    {
+      "ques": "He applied for a bank _________ to buy a new car.",
+      "ans": "loan"
+    },
+    {
+      "ques": "The stock _________ can be unpredictable.",
+      "ans": "market"
+    }
+  ],
+  [
+    {
+      "ques": "She enjoys the thrill of _________ in high-stakes poker games.",
+      "ans": "gamble"
+    },
+    {
+      "ques": "She received a generous year-end _________ for her hard work.",
+      "ans": "bonus"
+    },
+    {
+      "ques": "She works in the real estate _________ as a broker.",
+      "ans": "market"
+    },
+    {
+      "ques": "They source high-quality _________ for their restaurant dishes.",
+      "ans": "produce"
+    },
+    {
+      "ques": "The student took out a student _________ to pay for tuition.",
+      "ans": "loan"
+    },
+    {
+      "ques": "The community came together to _________ funds for a local cause.",
+      "ans": "donate"
+    },
+    {
+      "ques": "The currency _________ rate fluctuates daily.",
+      "ans": "exchange"
+    },
+    {
+      "ques": "The navy has a powerful and versatile _________.",
+      "ans": "fleet"
+    },
+    {
+      "ques": "She owns several properties that she _________s to tenants.",
+      "ans": "rent"
+    },
+    {
+      "ques": "He has a toolbox filled with a variety of useful _________.",
+      "ans": "tool"
+    },
+    {
+      "ques": "He finds mowing the lawn to be a relaxing _________.",
+      "ans": "chore"
+    },
+    {
+      "ques": "She works at a marketing _________ that specializes in digital advertising.",
+      "ans": "agency"
+    },
+    {
+      "ques": "She believes in seizing every _________ for personal growth.",
+      "ans": "opportunity"
+    },
+    {
+      "ques": "She created a memorable _________ for her advertising campaign.",
+      "ans": "slogan"
+    },
+    {
+      "ques": "She manages the company's inventory and _________ chain.",
+      "ans": "supply"
+    },
+    {
+      "ques": "She learned many _________ life lessons from her experiences.",
+      "ans": "valuable"
+    },
+    {
+      "ques": "She looks forward to a peaceful life in _________ment.",
+      "ans": "retire"
+    }
+  ],
+  [
+    {
+      "ques": "They include a sign-up _________ for new customers.",
+      "ans": "bonus"
+    },
+    {
+      "ques": "She enjoys cooking with locally sourced _________.",
+      "ans": "produce"
+    },
+    {
+      "ques": "They hired a travel _________ to plan their vacation.",
+      "ans": "agency"
+    },
+    {
+      "ques": "They used specialized _________s to repair the car.",
+      "ans": "tool"
+    },
+    {
+      "ques": "They saved diligently to ensure a comfortable _________ment.",
+      "ans": "retire"
+    },
+    {
+      "ques": "They used a clever _________ to promote their product.",
+      "ans": "slogan"
+    },
+    {
+      "ques": "They operate a _________ of commercial vehicles.",
+      "ans": "fleet"
+    },
+    {
+      "ques": "They encourage people to _________ blood to save lives.",
+      "ans": "donate"
+    },
+    {
+      "ques": "She initiated an _________ of ideas with her colleagues.",
+      "ans": "exchange"
+    },
+    {
+      "ques": "They study consumer behavior to understand the _________.",
+      "ans": "market"
+    },
+    {
+      "ques": "He missed a valuable learning _________ by not attending the conference.",
+      "ans": "opportunity"
+    },
+    {
+      "ques": "They consider time with family to be the most _________ thing.",
+      "ans": "valuable"
+    },
+    {
+      "ques": "They offer low-interest _________s to small businesses.",
+      "ans": "loan"
+    },
+    {
+      "ques": "They decided to _________ on a risky business venture.",
+      "ans": "gamble"
+    },
+    {
+      "ques": "They rely on a global network to source their product _________.",
+      "ans": "supply"
+    },
+    {
+      "ques": "He pays monthly _________ for his office space.",
+      "ans": "rent"
+    },
+    {
+      "ques": "They divided the household _________s among family members.",
+      "ans": "chore"
+    }
+  ],
+  [
+    {
+      "ques": "The scholarship provided her with a life-changing _________.",
+      "ans": "opportunity"
+    },
+    {
+      "ques": "The region is known for its agricultural _________.",
+      "ans": "produce"
+    },
+    {
+      "ques": "The lottery ticket offered a chance to _________ and win big.",
+      "ans": "gamble"
+    },
+    {
+      "ques": "The _________ represents talented actors and actresses.",
+      "ans": "agency"
+    },
+    {
+      "ques": "His job comes with a signing _________ to attract top talent.",
+      "ans": "bonus"
+    },
+    {
+      "ques": "She is skilled in using digital marketing _________s.",
+      "ans": "tool"
+    },
+    {
+      "ques": "The company launched a new product in the global _________.",
+      "ans": "market"
+    },
+    {
+      "ques": "His contributions to the project were immensely _________.",
+      "ans": "valuable"
+    },
+    {
+      "ques": "The vacation home is available for _________ during the summer.",
+      "ans": "rent"
+    },
+    {
+      "ques": "They engaged in an international _________ of knowledge.",
+      "ans": "exchange"
+    },
+    {
+      "ques": "The children take turns doing their assigned _________s.",
+      "ans": "chore"
+    },
+    {
+      "ques": "She needed a personal _________ to cover unexpected expenses.",
+      "ans": "loan"
+    },
+    {
+      "ques": "The company honored its _________ing employees with a celebration.",
+      "ans": "retire"
+    },
+    {
+      "ques": "The disaster disrupted the _________ of essential goods.",
+      "ans": "supply"
+    },
+    {
+      "ques": "The organization relies on the generosity of people who _________.",
+      "ans": "donate"
+    },
+    {
+      "ques": "The political campaign had a memorable _________.",
+      "ans": "slogan"
+    },
+    {
+      "ques": "The airline expanded its _________ with new aircraft.",
+      "ans": "fleet"
+    }
+  ],
+  [
+    {
+      "ques": "He studied sustainable farming methods to grow organic _________.",
+      "ans": "produce"
+    },
+    {
+      "ques": "He invested in the cryptocurrency _________.",
+      "ans": "market"
+    },
+    {
+      "ques": "He doesn't like to _________ with his hard-earned money.",
+      "ans": "gamble"
+    },
+    {
+      "ques": "He decided to _________ early and travel the world.",
+      "ans": "retire"
+    },
+    {
+      "ques": "She completed her assigned _________s before starting homework.",
+      "ans": "chore"
+    },
+    {
+      "ques": "The university offers a student _________ program with partner institutions.",
+      "ans": "exchange"
+    },
+    {
+      "ques": "The mortgage _________ helped them purchase their first home.",
+      "ans": "loan"
+    },
+    {
+      "ques": "The environmental _________ focuses on conservation efforts.",
+      "ans": "agency"
+    },
+    {
+      "ques": "The mechanic carefully selected the right _________ for the job.",
+      "ans": "tool"
+    },
+    {
+      "ques": "The data is a _________ resource for research and analysis.",
+      "ans": "valuable"
+    },
+    {
+      "ques": "The unexpected windfall was a pleasant _________.",
+      "ans": "bonus"
+    },
+    {
+      "ques": "He works in _________ chain management to optimize operations.",
+      "ans": "supply"
+    },
+    {
+      "ques": "The fishing company has a large _________ of trawlers.",
+      "ans": "fleet"
+    },
+    {
+      "ques": "He couldn't forget the _________ of the charity event.",
+      "ans": "slogan"
+    },
+    {
+      "ques": "The organization offers career development _________s to employees.",
+      "ans": "opportunity"
+    },
+    {
+      "ques": "The landlord increased the _________ for the apartment.",
+      "ans": "rent"
+    },
+    {
+      "ques": "He plans to _________ a portion of his earnings to a good cause.",
+      "ans": "donate"
+    }
+  ]
+]

@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "ques": "She regularly _________ her important files to an external hard drive.",
+      "ans": "back up"
+    },
+    {
+      "ques": "She didn't _________ going to the party because she was tired.",
+      "ans": "feel up to"
+    },
+    {
+      "ques": "She had to _________ her computer to start working.",
+      "ans": "boot up"
+    },
+    {
+      "ques": "She decided to _________ her old house and make it look new.",
+      "ans": "fix up"
+    },
+    {
+      "ques": "She had to _________ money for her dream vacation.",
+      "ans": "save up"
+    },
+    {
+      "ques": "She decided to _________ for recommendations before choosing a restaurant.",
+      "ans": "ask around"
+    },
+    {
+      "ques": "She liked to _________ with her friends and make them laugh.",
+      "ans": "joke around"
+    },
+    {
+      "ques": "She warned him to _________ for traffic when crossing the street.",
+      "ans": "watch out"
+    },
+    {
+      "ques": "She made the difficult decision to _________ of college due to financial issues.",
+      "ans": "drop out"
+    },
+    {
+      "ques": "She didn't expect the solution to _________ her until later.",
+      "ans": "occur to"
+    },
+    {
+      "ques": "She needed to _________ all the missing items in the inventory.",
+      "ans": "account for"
+    },
+    {
+      "ques": "She decided to _________ her business after years of operation.",
+      "ans": "close down"
+    },
+    {
+      "ques": "She was disappointed when her plans to travel _________ due to unforeseen circumstances.",
+      "ans": "fall through"
+    },
+    {
+      "ques": "She knew she could always _________ her best friend for support.",
+      "ans": "count on"
+    },
+    {
+      "ques": "She decided to _________ the possibility of going on a road trip.",
+      "ans": "rule out"
+    }
+  ],
+  [
+    {
+      "ques": "He had high hopes for the project, but it _________ because of budget constraints.",
+      "ans": "fall through"
+    },
+    {
+      "ques": "He would often _________ with his coworkers during breaks.",
+      "ans": "joke around"
+    },
+    {
+      "ques": "He didn't _________ taking on the extra workload.",
+      "ans": "feel up to"
+    },
+    {
+      "ques": "He wanted to _________ any potential risks before starting the project.",
+      "ans": "rule out"
+    },
+    {
+      "ques": "He forgot to _________ his laptop before the presentation.",
+      "ans": "boot up"
+    },
+    {
+      "ques": "He needed to _________ his car before it broke down completely.",
+      "ans": "fix up"
+    },
+    {
+      "ques": "He was disappointed when his friend chose to _________ of the race.",
+      "ans": "drop out"
+    },
+    {
+      "ques": "He was forced to _________ the factory due to financial losses.",
+      "ans": "close down"
+    },
+    {
+      "ques": "He needed to _________ his claims with evidence.",
+      "ans": "back up"
+    },
+    {
+      "ques": "He decided to _________ for a new car instead of taking out a loan.",
+      "ans": "save up"
+    },
+    {
+      "ques": "He wondered why the idea hadn't _________ him sooner.",
+      "ans": "occur to"
+    },
+    {
+      "ques": "He told his friend to _________ for slippery ice on the sidewalk.",
+      "ans": "watch out"
+    },
+    {
+      "ques": "He wanted to _________ about the best places to visit in the city.",
+      "ans": "ask around"
+    },
+    {
+      "ques": "He would often _________ his team to deliver great results.",
+      "ans": "count on"
+    },
+    {
+      "ques": "He was asked to _________ his actions during the meeting.",
+      "ans": "account for"
+    }
+  ],
+  [
+    {
+      "ques": "They realized that it had never _________ them to try that approach.",
+      "ans": "occur to"
+    },
+    {
+      "ques": "They reminded each other to always _________ for potential dangers.",
+      "ans": "watch out"
+    },
+    {
+      "ques": "They needed to _________ certain options to make the right decision.",
+      "ans": "rule out"
+    },
+    {
+      "ques": "They needed to _________ the server for maintenance.",
+      "ans": "boot up"
+    },
+    {
+      "ques": "They encouraged him not to _________ of the project.",
+      "ans": "drop out"
+    },
+    {
+      "ques": "They weren't sure if they _________ hiking after a long day.",
+      "ans": "feel up to"
+    },
+    {
+      "ques": "They would always _________ each other in times of need.",
+      "ans": "back up"
+    },
+    {
+      "ques": "They didn't expect their deal to _________ at the last minute.",
+      "ans": "fall through"
+    },
+    {
+      "ques": "They planned to _________ the garden for the summer.",
+      "ans": "fix up"
+    },
+    {
+      "ques": "They had to _________ their expenses for the project.",
+      "ans": "account for"
+    },
+    {
+      "ques": "They had learned to _________ each other in times of crisis.",
+      "ans": "count on"
+    },
+    {
+      "ques": "They planned to _________ for information on local events.",
+      "ans": "ask around"
+    },
+    {
+      "ques": "They enjoyed _________ and having a good time together.",
+      "ans": "joke around"
+    },
+    {
+      "ques": "They planned to _________ the store for renovation.",
+      "ans": "close down"
+    },
+    {
+      "ques": "They planned to _________ for their children's education.",
+      "ans": "save up"
+    }
+  ],
+  [
+    {
+      "ques": "It's nice to _________ and have fun with your loved ones.",
+      "ans": "joke around"
+    },
+    {
+      "ques": "It can take a while for some things to _________ you.",
+      "ans": "occur to"
+    },
+    {
+      "ques": "It's difficult to _________ a long-standing family-owned restaurant.",
+      "ans": "close down"
+    },
+    {
+      "ques": "It's important to _________ every dollar in the budget.",
+      "ans": "account for"
+    },
+    {
+      "ques": "It's reassuring to _________ reliable people in your life.",
+      "ans": "count on"
+    },
+    {
+      "ques": "It's satisfying to _________ a space and see the transformation.",
+      "ans": "fix up"
+    },
+    {
+      "ques": "It's frustrating when things _________ despite your efforts.",
+      "ans": "fall through"
+    },
+    {
+      "ques": "It's a good idea to _________ for unexpected expenses.",
+      "ans": "save up"
+    },
+    {
+      "ques": "It's important to think carefully before deciding to _________ of any commitment.",
+      "ans": "drop out"
+    },
+    {
+      "ques": "It's important to _________ the system after installing updates.",
+      "ans": "boot up"
+    },
+    {
+      "ques": "It's essential to _________ for any hazards in your environment.",
+      "ans": "watch out"
+    },
+    {
+      "ques": "It's important to _________ any potential causes of the problem.",
+      "ans": "rule out"
+    },
+    {
+      "ques": "It's crucial to _________ your statements with facts.",
+      "ans": "back up"
+    },
+    {
+      "ques": "It's okay to decline an invitation if you don't _________ it.",
+      "ans": "feel up to"
+    },
+    {
+      "ques": "It's a good idea to _________ for advice when making decisions.",
+      "ans": "ask around"
+    }
+  ],
+  [
+    {
+      "ques": "He was frustrated when his computer took a long time to _________.",
+      "ans": "boot up"
+    },
+    {
+      "ques": "He was prepared for the possibility that his job offer might _________.",
+      "ans": "fall through"
+    },
+    {
+      "ques": "He didn't want to _________ the idea without considering its benefits.",
+      "ans": "rule out"
+    },
+    {
+      "ques": "He didn't _________ the challenge of running a marathon.",
+      "ans": "feel up to"
+    },
+    {
+      "ques": "He was glad he had _________ his computer data before it crashed.",
+      "ans": "back up"
+    },
+    {
+      "ques": "He could _________ his parents to be there for him.",
+      "ans": "count on"
+    },
+    {
+      "ques": "He had to _________ of the marathon due to an injury.",
+      "ans": "drop out"
+    },
+    {
+      "ques": "He was cautious and always _________ for signs of danger.",
+      "ans": "watch out"
+    },
+    {
+      "ques": "He was proud of how much he had _________ over the years.",
+      "ans": "save up"
+    },
+    {
+      "ques": "He had to _________ the website temporarily for maintenance.",
+      "ans": "close down"
+    },
+    {
+      "ques": "He would often _________ his bike to keep it in good condition.",
+      "ans": "fix up"
+    },
+    {
+      "ques": "He was surprised when the answer suddenly _________ him.",
+      "ans": "occur to"
+    },
+    {
+      "ques": "He couldn't _________ the time he spent on the task.",
+      "ans": "account for"
+    },
+    {
+      "ques": "He would often _________ to find out if anyone had seen his lost keys.",
+      "ans": "ask around"
+    },
+    {
+      "ques": "He would sometimes _________ to lighten the mood in tense situations.",
+      "ans": "joke around"
+    }
+  ]
+]

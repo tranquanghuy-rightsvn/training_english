@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "ques": "She is an _________ thinker who doesn't rely on others for her opinions.",
+      "ans": "independent"
+    },
+    {
+      "ques": "The news of the accident was absolutely _________; I hope everyone is okay.",
+      "ans": "horrible"
+    },
+    {
+      "ques": "Her _________ decision-making process ensured careful consideration of all options.",
+      "ans": "deliberate"
+    },
+    {
+      "ques": "She took a _________ walk in the park to energize herself.",
+      "ans": "brisk"
+    },
+    {
+      "ques": "The _________ smell in the room made everyone nauseous.",
+      "ans": "foul"
+    },
+    {
+      "ques": "They visited the _________ market to buy fresh produce.",
+      "ans": "local"
+    },
+    {
+      "ques": "Her _________ nature made her empathetic toward others' feelings.",
+      "ans": "sensitive"
+    },
+    {
+      "ques": "The room was _________, with no furniture or decorations.",
+      "ans": "empty"
+    },
+    {
+      "ques": "The _________ decision required a lot of thought and consideration.",
+      "ans": "tough"
+    },
+    {
+      "ques": "He is known for his _________ fashion sense and always looks stylish.",
+      "ans": "smart"
+    },
+    {
+      "ques": "The _________ rainfall had a positive impact on the drought-stricken region.",
+      "ans": "recent"
+    },
+    {
+      "ques": "She noticed a _________ change in his behavior after the incident.",
+      "ans": "slight"
+    },
+    {
+      "ques": "Her face turned _________ when she heard the shocking news.",
+      "ans": "pale"
+    },
+    {
+      "ques": "The view from the mountaintop was absolutely _________.",
+      "ans": "fabulous"
+    },
+    {
+      "ques": "The new software system made their workflow more _________.",
+      "ans": "efficient"
+    }
+  ],
+  [
+    {
+      "ques": "The _________ community came together to support a local charity.",
+      "ans": "local"
+    },
+    {
+      "ques": "He made a _________ comment that offended others.",
+      "ans": "foul"
+    },
+    {
+      "ques": "She felt a sense of _________ after completing her tasks.",
+      "ans": "empty"
+    },
+    {
+      "ques": "The company operates as an _________ entity and is not affiliated with any larger corporation.",
+      "ans": "independent"
+    },
+    {
+      "ques": "The _________ moonlight illuminated the night sky.",
+      "ans": "pale"
+    },
+    {
+      "ques": "She has a _________ job that requires physical strength.",
+      "ans": "tough"
+    },
+    {
+      "ques": "The jury's _________ discussions led to a fair verdict.",
+      "ans": "deliberate"
+    },
+    {
+      "ques": "The _________ equipment required careful handling to prevent damage.",
+      "ans": "sensitive"
+    },
+    {
+      "ques": "Her performance in the play was truly _________; she received a standing ovation.",
+      "ans": "fabulous"
+    },
+    {
+      "ques": "She is known for her _________ time management skills.",
+      "ans": "efficient"
+    },
+    {
+      "ques": "His illness has caused him _________ pain and suffering.",
+      "ans": "horrible"
+    },
+    {
+      "ques": "The _________ pace of the meeting kept everyone engaged.",
+      "ans": "brisk"
+    },
+    {
+      "ques": "She published a _________ article in a prestigious journal.",
+      "ans": "recent"
+    },
+    {
+      "ques": "The _________ improvement in his health was a positive sign.",
+      "ans": "slight"
+    },
+    {
+      "ques": "The _________ technology in the car makes driving more convenient.",
+      "ans": "smart"
+    }
+  ],
+  [
+    {
+      "ques": "The weather took a _________ turn, with heavy rain and strong winds.",
+      "ans": "foul"
+    },
+    {
+      "ques": "The coach gave a _________ speech to motivate the team.",
+      "ans": "tough"
+    },
+    {
+      "ques": "The company's _________ success is attributed to its innovative products.",
+      "ans": "recent"
+    },
+    {
+      "ques": "His _________ spirit drove him to pursue his own path in life.",
+      "ans": "independent"
+    },
+    {
+      "ques": "She is a _________ student who excels in all her subjects.",
+      "ans": "smart"
+    },
+    {
+      "ques": "He felt a _________ sense of unease in the unfamiliar environment.",
+      "ans": "slight"
+    },
+    {
+      "ques": "The bottle was _________, and there was no more water left.",
+      "ans": "empty"
+    },
+    {
+      "ques": "His _________ complexion was due to his recent illness.",
+      "ans": "pale"
+    },
+    {
+      "ques": "He chose his words with _________ precision during the interview.",
+      "ans": "deliberate"
+    },
+    {
+      "ques": "The topic is _________, and it's important to approach it with care.",
+      "ans": "sensitive"
+    },
+    {
+      "ques": "The _________ wind made the morning feel invigorating.",
+      "ans": "brisk"
+    },
+    {
+      "ques": "The restaurant sources its ingredients from _________ farmers.",
+      "ans": "local"
+    },
+    {
+      "ques": "The _________ use of resources minimized waste.",
+      "ans": "efficient"
+    },
+    {
+      "ques": "The chef prepared a _________ meal that delighted the guests.",
+      "ans": "fabulous"
+    },
+    {
+      "ques": "The weather took a _________ turn, with heavy rain and strong winds.",
+      "ans": "horrible"
+    }
+  ],
+  [
+    {
+      "ques": "He set a _________ schedule to complete the project ahead of time.",
+      "ans": "brisk"
+    },
+    {
+      "ques": "His _________ promises meant nothing in the end.",
+      "ans": "empty"
+    },
+    {
+      "ques": "The _________ transportation system reduced commuting time for residents.",
+      "ans": "efficient"
+    },
+    {
+      "ques": "The movie we watched last night was truly _________; the acting was terrible.",
+      "ans": "foul"
+    },
+    {
+      "ques": "The _________ events in the news have captured the public's attention.",
+      "ans": "recent"
+    },
+    {
+      "ques": "The _________ decision to invest in the stock market paid off handsomely.",
+      "ans": "smart"
+    },
+    {
+      "ques": "The _________ challenges they faced only made them stronger.",
+      "ans": "tough"
+    },
+    {
+      "ques": "The _________ planning for the event paid off in its success.",
+      "ans": "deliberate"
+    },
+    {
+      "ques": "He has a _________ palate and can detect subtle flavors in food.",
+      "ans": "sensitive"
+    },
+    {
+      "ques": "The movie we watched last night was truly _________; the acting was terrible.",
+      "ans": "horrible"
+    },
+    {
+      "ques": "The _________ delay in the flight didn't significantly impact their plans.",
+      "ans": "slight"
+    },
+    {
+      "ques": "The colors in the painting had faded, making them look _________.",
+      "ans": "pale"
+    },
+    {
+      "ques": "The concert received _________ reviews from music critics.",
+      "ans": "fabulous"
+    },
+    {
+      "ques": "The child displayed a strong _________ streak from a young age.",
+      "ans": "independent"
+    },
+    {
+      "ques": "He is a _________ artist known for his work in the area.",
+      "ans": "local"
+    }
+  ],
+  [
+    {
+      "ques": "The company made a _________ effort to improve workplace safety.",
+      "ans": "deliberate"
+    },
+    {
+      "ques": "She had a _________ experience with customer service at that store.",
+      "ans": "foul"
+    },
+    {
+      "ques": "She had a _________ experience with customer service at that store.",
+      "ans": "horrible"
+    },
+    {
+      "ques": "The hotel offered _________ amenities and services to its guests.",
+      "ans": "fabulous"
+    },
+    {
+      "ques": "The organization aims to promote _________ journalism.",
+      "ans": "independent"
+    },
+    {
+      "ques": "The issue required only a _________ adjustment to be resolved.",
+      "ans": "slight"
+    },
+    {
+      "ques": "The _________ feeling of loneliness weighed heavily on him.",
+      "ans": "empty"
+    },
+    {
+      "ques": "The company uses _________ strategies to stay competitive.",
+      "ans": "smart"
+    },
+    {
+      "ques": "The _________ sales at the store attracted many customers.",
+      "ans": "brisk"
+    },
+    {
+      "ques": "He endured a _________ training program to prepare for the competition.",
+      "ans": "tough"
+    },
+    {
+      "ques": "He provided _________ updates on the project's progress.",
+      "ans": "recent"
+    },
+    {
+      "ques": "The _________ data must be protected to maintain privacy.",
+      "ans": "sensitive"
+    },
+    {
+      "ques": "The _________ production process increased productivity.",
+      "ans": "efficient"
+    },
+    {
+      "ques": "The _________ light of dawn signaled the beginning of a new day.",
+      "ans": "pale"
+    },
+    {
+      "ques": "The _________ news station covers events in the region.",
+      "ans": "local"
+    }
+  ]
+]

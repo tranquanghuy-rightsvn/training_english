@@ -1,0 +1,332 @@
+[
+  [
+    {
+      "ques": "Regular exercise can help you build _________ muscles.",
+      "ans": "strong"
+    },
+    {
+      "ques": "Time and rest can help the body _________ naturally.",
+      "ans": "heal"
+    },
+    {
+      "ques": "The car accident had a _________ outcome.",
+      "ans": "fatal"
+    },
+    {
+      "ques": "The doctor was able to _________ the illness quickly.",
+      "ans": "diagnose"
+    },
+    {
+      "ques": "He became _________ of his surroundings after waking up.",
+      "ans": "conscious"
+    },
+    {
+      "ques": "He had a persistent _________ due to a cold.",
+      "ans": "cough"
+    },
+    {
+      "ques": "The _________ was examined under a microscope for abnormalities.",
+      "ans": "tissue"
+    },
+    {
+      "ques": "She felt a rumbling in her _________ after skipping breakfast.",
+      "ans": "stomach"
+    },
+    {
+      "ques": "The delicious aroma of food whetted her _________.",
+      "ans": "appetite"
+    },
+    {
+      "ques": "He decided to stay _________ and not drink alcohol.",
+      "ans": "sober"
+    },
+    {
+      "ques": "She lost her sight and became _________.",
+      "ans": "blind"
+    },
+    {
+      "ques": "Regular exercise helps you stay physically _________.",
+      "ans": "active"
+    },
+    {
+      "ques": "She felt _________ and decided to stay home.",
+      "ans": "ill"
+    },
+    {
+      "ques": "She overcame her physical _________ with determination.",
+      "ans": "handicap"
+    },
+    {
+      "ques": "The doctor will _________ medication to treat the infection.",
+      "ans": "prescribe"
+    },
+    {
+      "ques": "She felt embarrassed when she realized she was _________.",
+      "ans": "naked"
+    }
+  ],
+  [
+    {
+      "ques": "_________ accessible facilities are essential for inclusivity.",
+      "ans": "handicap"
+    },
+    {
+      "ques": "She admired his _________ physique.",
+      "ans": "strong"
+    },
+    {
+      "ques": "_________ individuals can make sound decisions.",
+      "ans": "sober"
+    },
+    {
+      "ques": "A healthy diet is crucial for maintaining a happy _________.",
+      "ans": "stomach"
+    },
+    {
+      "ques": "_________ people often rely on other senses.",
+      "ans": "blind"
+    },
+    {
+      "ques": "_________s play a role in repairing damaged cells.",
+      "ans": "tissue"
+    },
+    {
+      "ques": "Stress can affect one's _________ for eating.",
+      "ans": "appetite"
+    },
+    {
+      "ques": "It's important to be environmentally _________.",
+      "ans": "conscious"
+    },
+    {
+      "ques": "It's important to follow the _________d dosage.",
+      "ans": "prescribe"
+    },
+    {
+      "ques": "_________ness can be caused by various factors.",
+      "ans": "ill"
+    },
+    {
+      "ques": "_________ness is common in certain spa treatments.",
+      "ans": "naked"
+    },
+    {
+      "ques": "She leads an _________ lifestyle with daily workouts.",
+      "ans": "active"
+    },
+    {
+      "ques": "A _________ can be a symptom of respiratory issues.",
+      "ans": "cough"
+    },
+    {
+      "ques": "Some diseases can be _________ if left untreated.",
+      "ans": "fatal"
+    },
+    {
+      "ques": "The doctor provided a treatment plan to help _________ the injury.",
+      "ans": "heal"
+    },
+    {
+      "ques": "_________ing medical conditions requires expertise.",
+      "ans": "diagnose"
+    }
+  ],
+  [
+    {
+      "ques": "She was _________d antibiotics for her condition.",
+      "ans": "prescribe"
+    },
+    {
+      "ques": "He suffered an injury to his muscle _________.",
+      "ans": "tissue"
+    },
+    {
+      "ques": "_________ individuals often have high endurance.",
+      "ans": "strong"
+    },
+    {
+      "ques": "His _________ for pizza is insatiable.",
+      "ans": "appetite"
+    },
+    {
+      "ques": "Early _________is can lead to more effective treatment.",
+      "ans": "diagnose"
+    },
+    {
+      "ques": "Her positive attitude helped her _________ faster.",
+      "ans": "heal"
+    },
+    {
+      "ques": "She tried to stifle her _________ during the meeting.",
+      "ans": "cough"
+    },
+    {
+      "ques": "The patient's condition took a _________ turn.",
+      "ans": "fatal"
+    },
+    {
+      "ques": "The organization provides support for the _________.",
+      "ans": "blind"
+    },
+    {
+      "ques": "He caught a cold and became _________.",
+      "ans": "ill"
+    },
+    {
+      "ques": "_________ individuals tend to have more energy.",
+      "ans": "active"
+    },
+    {
+      "ques": "Overeating can lead to indigestion and an upset _________.",
+      "ans": "stomach"
+    },
+    {
+      "ques": "She was _________ of the need to save money.",
+      "ans": "conscious"
+    },
+    {
+      "ques": "She remained _________ and focused during the meeting.",
+      "ans": "sober"
+    },
+    {
+      "ques": "He faced challenges due to his _________.",
+      "ans": "handicap"
+    },
+    {
+      "ques": "_________ people often wear clothing for protection.",
+      "ans": "naked"
+    }
+  ],
+  [
+    {
+      "ques": "_________s can regenerate over time.",
+      "ans": "tissue"
+    },
+    {
+      "ques": "A hearty breakfast can satisfy a morning _________.",
+      "ans": "appetite"
+    },
+    {
+      "ques": "_________ity is important when operating heavy machinery.",
+      "ans": "sober"
+    },
+    {
+      "ques": "The surgeon did everything possible to prevent a _________ outcome.",
+      "ans": "fatal"
+    },
+    {
+      "ques": "_________s don't define a person's worth.",
+      "ans": "handicap"
+    },
+    {
+      "ques": "He was relieved when the doctor couldn't _________ a serious problem.",
+      "ans": "diagnose"
+    },
+    {
+      "ques": "Being _________ contributes to overall well-being.",
+      "ans": "active"
+    },
+    {
+      "ques": "Being _________ can affect one's productivity.",
+      "ans": "ill"
+    },
+    {
+      "ques": "He experienced a sharp pain in his _________.",
+      "ans": "stomach"
+    },
+    {
+      "ques": "The accident left her temporarily _________.",
+      "ans": "conscious"
+    },
+    {
+      "ques": "Mental strength is just as important as physical _________.",
+      "ans": "strong"
+    },
+    {
+      "ques": "Persistent _________ing can be annoying and uncomfortable.",
+      "ans": "cough"
+    },
+    {
+      "ques": "_________ing requires patience and self-care.",
+      "ans": "heal"
+    },
+    {
+      "ques": "He covered himself with a towel to avoid feeling _________.",
+      "ans": "naked"
+    },
+    {
+      "ques": "A guide dog can assist _________ individuals.",
+      "ans": "blind"
+    },
+    {
+      "ques": "_________ing the right treatment is essential for recovery.",
+      "ans": "prescribe"
+    }
+  ],
+  [
+    {
+      "ques": "The _________ is responsible for digesting food.",
+      "ans": "stomach"
+    },
+    {
+      "ques": "The flu vaccine can help prevent falling _________.",
+      "ans": "ill"
+    },
+    {
+      "ques": "His _________ lifestyle keeps him fit and healthy.",
+      "ans": "active"
+    },
+    {
+      "ques": "A soothing tea can help alleviate a sore _________.",
+      "ans": "cough"
+    },
+    {
+      "ques": "A _________ accident claimed many lives.",
+      "ans": "fatal"
+    },
+    {
+      "ques": "The organization advocates for the rights of those with _________s.",
+      "ans": "handicap"
+    },
+    {
+      "ques": "Getting _________ after a night of drinking is essential for safety.",
+      "ans": "sober"
+    },
+    {
+      "ques": "The tests were necessary to _________ the underlying cause.",
+      "ans": "diagnose"
+    },
+    {
+      "ques": "A poor _________ can lead to malnutrition.",
+      "ans": "appetite"
+    },
+    {
+      "ques": "Being _________ in nature can be liberating.",
+      "ans": "naked"
+    },
+    {
+      "ques": "_________ness doesn't define a person's abilities.",
+      "ans": "blind"
+    },
+    {
+      "ques": "The pharmacist will _________ the medication for you.",
+      "ans": "prescribe"
+    },
+    {
+      "ques": "A good night's sleep can aid in the _________ing process.",
+      "ans": "heal"
+    },
+    {
+      "ques": "A _________ support system can help during tough times.",
+      "ans": "strong"
+    },
+    {
+      "ques": "The doctor removed a small _________ for testing.",
+      "ans": "tissue"
+    },
+    {
+      "ques": "Making _________ choices can lead to a healthier lifestyle.",
+      "ans": "conscious"
+    }
+  ]
+]

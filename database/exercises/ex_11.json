@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "ques": "His performance was _________ compared to his peers.",
+      "ans": "average"
+    },
+    {
+      "ques": "The _________ changes in her appearance went unnoticed.",
+      "ans": "subtle"
+    },
+    {
+      "ques": "The graffiti made the building look _________.",
+      "ans": "ugly"
+    },
+    {
+      "ques": "They enjoyed a _________ climate with mild temperatures.",
+      "ans": "moderate"
+    },
+    {
+      "ques": "The _________ knife was not suitable for cutting.",
+      "ans": "blunt"
+    },
+    {
+      "ques": "Oxygen is _________ for breathing.",
+      "ans": "necessary"
+    },
+    {
+      "ques": "The movie had a _________ plot that kept the audience guessing.",
+      "ans": "bizarre"
+    },
+    {
+      "ques": "She lived in a _________ room apartment.",
+      "ans": "single"
+    },
+    {
+      "ques": "She introduced herself as a _________ employee of the company.",
+      "ans": "former"
+    },
+    {
+      "ques": "The _________ growth of the city led to increased traffic.",
+      "ans": "rapid"
+    },
+    {
+      "ques": "Water is _________ for human survival.",
+      "ans": "essential"
+    },
+    {
+      "ques": "His _________ response to the emergency saved lives.",
+      "ans": "prompt"
+    },
+    {
+      "ques": "He ate the _________ pizza by himself.",
+      "ans": "whole"
+    },
+    {
+      "ques": "She had a _________ interest in ancient history.",
+      "ans": "particular"
+    },
+    {
+      "ques": "They had _________ time to prepare for the journey.",
+      "ans": "ample"
+    }
+  ],
+  [
+    {
+      "ques": "He gave a _________ response to the question.",
+      "ans": "blunt"
+    },
+    {
+      "ques": "She wanted to understand the _________ truth of the matter.",
+      "ans": "whole"
+    },
+    {
+      "ques": "She provided _________ evidence to support her claim.",
+      "ans": "ample"
+    },
+    {
+      "ques": "Her outfit was _________ and drew attention from everyone.",
+      "ans": "bizarre"
+    },
+    {
+      "ques": "His experience is _________ for the success of the project.",
+      "ans": "essential"
+    },
+    {
+      "ques": "She appreciated the _________ nuances of the painting.",
+      "ans": "subtle"
+    },
+    {
+      "ques": "She considered his behavior to be _________ and offensive.",
+      "ans": "ugly"
+    },
+    {
+      "ques": "She received a _________ reply to her email inquiry.",
+      "ans": "prompt"
+    },
+    {
+      "ques": "She considered it _________ to complete the project on time.",
+      "ans": "necessary"
+    },
+    {
+      "ques": "The _________ temperature for this time of year is around 70°F.",
+      "ans": "average"
+    },
+    {
+      "ques": "He didn't receive a _________ response to his job application.",
+      "ans": "single"
+    },
+    {
+      "ques": "She made _________ progress in her language studies.",
+      "ans": "rapid"
+    },
+    {
+      "ques": "She had a _________ approach to managing her time.",
+      "ans": "moderate"
+    },
+    {
+      "ques": "He paid _________ attention to detail in his work.",
+      "ans": "particular"
+    },
+    {
+      "ques": "The _________ president of the club attended the event.",
+      "ans": "former"
+    }
+  ],
+  [
+    {
+      "ques": "The doctor recommended _________ exercise for her patients.",
+      "ans": "moderate"
+    },
+    {
+      "ques": "The teacher had a _________ way of explaining complex concepts.",
+      "ans": "particular"
+    },
+    {
+      "ques": "His _________ sense of humor often made people laugh.",
+      "ans": "subtle"
+    },
+    {
+      "ques": "She received _________ grades in her classes.",
+      "ans": "average"
+    },
+    {
+      "ques": "The company experienced _________ expansion in the market.",
+      "ans": "rapid"
+    },
+    {
+      "ques": "He lived in his _________ hometown for many years.",
+      "ans": "former"
+    },
+    {
+      "ques": "The _________ end of the pencil needed to be sharpened.",
+      "ans": "blunt"
+    },
+    {
+      "ques": "The _________ documents were submitted for approval.",
+      "ans": "necessary"
+    },
+    {
+      "ques": "The _________ ingredients for the recipe are readily available.",
+      "ans": "essential"
+    },
+    {
+      "ques": "The buffet offered _________ choices of food.",
+      "ans": "ample"
+    },
+    {
+      "ques": "The divorce was a _________ and painful experience.",
+      "ans": "ugly"
+    },
+    {
+      "ques": "The team worked together as a _________ to achieve their goals.",
+      "ans": "whole"
+    },
+    {
+      "ques": "The company had a _________ goal: to provide quality service.",
+      "ans": "single"
+    },
+    {
+      "ques": "The alarm system provided a _________ warning of danger.",
+      "ans": "prompt"
+    },
+    {
+      "ques": "They encountered a _________ occurrence during their travels.",
+      "ans": "bizarre"
+    }
+  ],
+  [
+    {
+      "ques": "The fragrance had a _________ and captivating scent.",
+      "ans": "subtle"
+    },
+    {
+      "ques": "The restaurant catered to _________ dietary preferences.",
+      "ans": "particular"
+    },
+    {
+      "ques": "His skills and experience were _________ for the job.",
+      "ans": "ample"
+    },
+    {
+      "ques": "The _________ family gathered for the holiday celebration.",
+      "ans": "whole"
+    },
+    {
+      "ques": "The restaurant offered _________ portion sizes for healthier dining.",
+      "ans": "moderate"
+    },
+    {
+      "ques": "His _________ recovery surprised the doctors.",
+      "ans": "rapid"
+    },
+    {
+      "ques": "They expected _________ action to address the issue.",
+      "ans": "prompt"
+    },
+    {
+      "ques": "The _________ owner of the house left behind a legacy.",
+      "ans": "former"
+    },
+    {
+      "ques": "The dispute escalated into an _________ argument.",
+      "ans": "ugly"
+    },
+    {
+      "ques": "Her _________ remarks offended some people.",
+      "ans": "blunt"
+    },
+    {
+      "ques": "The story of his disappearance was truly _________.",
+      "ans": "bizarre"
+    },
+    {
+      "ques": "His cooperation was _________ for the success of the team.",
+      "ans": "necessary"
+    },
+    {
+      "ques": "The _________ person spends about two hours on social media daily.",
+      "ans": "average"
+    },
+    {
+      "ques": "Good communication is an _________ skill in any profession.",
+      "ans": "essential"
+    },
+    {
+      "ques": "The _________ most important factor in the decision was cost.",
+      "ans": "single"
+    }
+  ],
+  [
+    {
+      "ques": "His _________ views on the topic allowed for productive discussions.",
+      "ans": "moderate"
+    },
+    {
+      "ques": "The artist used _________ shades of blue in the artwork.",
+      "ans": "subtle"
+    },
+    {
+      "ques": "He had an _________ level of fitness for his age.",
+      "ans": "average"
+    },
+    {
+      "ques": "The book offered a _________ new perspective on the topic.",
+      "ans": "whole"
+    },
+    {
+      "ques": "The _________ tree in the garden produced abundant fruit.",
+      "ans": "single"
+    },
+    {
+      "ques": "The _________ behavior of the cat puzzled its owner.",
+      "ans": "bizarre"
+    },
+    {
+      "ques": "The situation took an unexpectedly _________ turn.",
+      "ans": "ugly"
+    },
+    {
+      "ques": "The _________ version of the software had more features.",
+      "ans": "former"
+    },
+    {
+      "ques": "The spacious room had _________ seating for all the guests.",
+      "ans": "ample"
+    },
+    {
+      "ques": "The play began at 7:30 PM _________.",
+      "ans": "prompt"
+    },
+    {
+      "ques": "They discussed the _________ steps to resolve the issue.",
+      "ans": "necessary"
+    },
+    {
+      "ques": "The team discussed the _________ details of the plan.",
+      "ans": "essential"
+    },
+    {
+      "ques": "The impact caused the tool to become _________.",
+      "ans": "blunt"
+    },
+    {
+      "ques": "In this _________ case, the rules do not apply.",
+      "ans": "particular"
+    },
+    {
+      "ques": "The _________ changes in technology revolutionized the industry.",
+      "ans": "rapid"
+    }
+  ]
+]
