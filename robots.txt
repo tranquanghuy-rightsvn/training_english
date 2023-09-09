@@ -6,4 +6,5 @@ Allow: /exersice.html
 Allow: /topic.html
 
 Disallow: /database/
+Disallow: /exer.html
 Sitemap: https://3000vocab.com/sitemap-index.xml

@@ -24,7 +24,7 @@ $(document).ready(function() {
         html += "<p>"+ k +". " + word.ques + "</p>"
         html += "</div>"
         html += "<div class='col-sm-12 col-md-3'>"
-        html += "<h6>" + "<select class='form-select' id='select-" + k +"' data-success='" + word.ans +"'><option selected>Select a word</option>"
+        html += "<h6>" + "<select class='form-select' data-success='" + word.ans +"'><option selected>Select a word</option>"
         shuffle_array(ansArray).map(function(word){
           html += '<option>' + word + "</option>"
         })
