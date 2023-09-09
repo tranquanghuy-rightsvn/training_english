@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "ques": "Could you please provide a ________ on this matter?",
+      "ans": "comment"
+    },
+    {
+      "ques": "Please make sure your actions ________ with your words.",
+      "ans": "correspond"
+    },
+    {
+      "ques": "She has mastered the ________ of playing the piano.",
+      "ans": "technique"
+    },
+    {
+      "ques": "How did she ________ when she heard the news?",
+      "ans": "react"
+    },
+    {
+      "ques": "The team is working hard to achieve a positive ________.",
+      "ans": "outcome"
+    },
+    {
+      "ques": "The ________ should be on safety measures.",
+      "ans": "emphasis"
+    },
+    {
+      "ques": "Budget limitations may ________ our plans.",
+      "ans": "constrain"
+    },
+    {
+      "ques": "________ education is part of the curriculum.",
+      "ans": "sex"
+    },
+    {
+      "ques": "The cake has a delicious ________ of chocolate.",
+      "ans": "layer"
+    },
+    {
+      "ques": "Many people ________ to other countries for better opportunities.",
+      "ans": "immigrate"
+    }
+  ],
+  [
+    {
+      "ques": "The teacher placed great ________ on critical thinking.",
+      "ans": "emphasis"
+    },
+    {
+      "ques": "Learning effective study ________ is essential.",
+      "ans": "technique"
+    },
+    {
+      "ques": "You can see the different ________ of rock in this cliff.",
+      "ans": "layer"
+    },
+    {
+      "ques": "We can't predict the ________ of the negotiations.",
+      "ans": "outcome"
+    },
+    {
+      "ques": "Her ________ sparked an interesting discussion.",
+      "ans": "comment"
+    },
+    {
+      "ques": "People ________ differently to stressful situations.",
+      "ans": "react"
+    },
+    {
+      "ques": "He chose to ________ to Canada for a better life.",
+      "ans": "immigrate"
+    },
+    {
+      "ques": "The rules and regulations can ________ our actions.",
+      "ans": "constrain"
+    },
+    {
+      "ques": "Her story didn't ________ with the facts.",
+      "ans": "correspond"
+    },
+    {
+      "ques": "The ________ of the baby was a surprise.",
+      "ans": "sex"
+    }
+  ],
+  [
+    {
+      "ques": "The painter added another ________ of color to the canvas.",
+      "ans": "layer"
+    },
+    {
+      "ques": "We need to ensure our records ________ with theirs.",
+      "ans": "correspond"
+    },
+    {
+      "ques": "The chef's cooking ________ are impressive.",
+      "ans": "technique"
+    },
+    {
+      "ques": "In this presentation, I will put ________ on innovation.",
+      "ans": "emphasis"
+    },
+    {
+      "ques": "It's important to ________ calmly in emergencies.",
+      "ans": "react"
+    },
+    {
+      "ques": "The ________ of the experiment was unexpected.",
+      "ans": "outcome"
+    },
+    {
+      "ques": "Feel free to leave a ________ below the article.",
+      "ans": "comment"
+    },
+    {
+      "ques": "We shouldn't let fear ________ our creativity.",
+      "ans": "constrain"
+    },
+    {
+      "ques": "The decision to ________ was not easy for them.",
+      "ans": "immigrate"
+    },
+    {
+      "ques": "In some cultures, ________ is a taboo topic.",
+      "ans": "sex"
+    }
+  ],
+  [
+    {
+      "ques": "The survey will determine the ________ of the project.",
+      "ans": "outcome"
+    },
+    {
+      "ques": "I appreciate your ________ and feedback.",
+      "ans": "comment"
+    },
+    {
+      "ques": "The atmosphere consists of several ________.",
+      "ans": "layer"
+    },
+    {
+      "ques": "The family's plan is to ________ to Europe next year.",
+      "ans": "immigrate"
+    },
+    {
+      "ques": "The ________ on teamwork is evident in their work.",
+      "ans": "emphasis"
+    },
+    {
+      "ques": "Personal commitments can sometimes ________ our time.",
+      "ans": "constrain"
+    },
+    {
+      "ques": "The doctor will determine the ________ of the fetus.",
+      "ans": "sex"
+    },
+    {
+      "ques": "He tends to ________ quickly in challenging situations.",
+      "ans": "react"
+    },
+    {
+      "ques": "I will ________ with you via email.",
+      "ans": "correspond"
+    },
+    {
+      "ques": "The artist used unique ________ to create this masterpiece.",
+      "ans": "technique"
+    }
+  ],
+  [
+    {
+      "ques": "The athlete is known for his impeccable ________.",
+      "ans": "technique"
+    },
+    {
+      "ques": "The ________ of an organism is determined by its genes.",
+      "ans": "sex"
+    },
+    {
+      "ques": "He made a brief ________ about the topic.",
+      "ans": "comment"
+    },
+    {
+      "ques": "His speech lacked ________ on important issues.",
+      "ans": "emphasis"
+    },
+    {
+      "ques": "The final ________ of the competition was a tie.",
+      "ans": "outcome"
+    },
+    {
+      "ques": "They tried to ________ his freedom.",
+      "ans": "constrain"
+    },
+    {
+      "ques": "Their team didn't ________ well to the defeat.",
+      "ans": "react"
+    },
+    {
+      "ques": "She wore a dress with a beautiful ________ of lace.",
+      "ans": "layer"
+    },
+    {
+      "ques": "Their behavior doesn't ________ with company values.",
+      "ans": "correspond"
+    },
+    {
+      "ques": "People ________ for various reasons, including work and family reunification.",
+      "ans": "immigrate"
+    }
+  ]
+]

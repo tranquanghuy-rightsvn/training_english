@@ -1,1 +1,212 @@
-ex_23.json
+[
+  [
+    {
+      "ques": "Overcoming this ________ won't be easy.",
+      "ans": "challenge"
+    },
+    {
+      "ques": "He built a strong professional ________.",
+      "ans": "network"
+    },
+    {
+      "ques": "His ________ is impeccable.",
+      "ans": "logic"
+    },
+    {
+      "ques": "This is the ________ time to invest.",
+      "ans": "prime"
+    },
+    {
+      "ques": "New technology can ________ communication.",
+      "ans": "facilitate"
+    },
+    {
+      "ques": "The ________ system is efficient.",
+      "ans": "transit"
+    },
+    {
+      "ques": "The economy is in ________.",
+      "ans": "decline"
+    },
+    {
+      "ques": "The corporation is a legal ________.",
+      "ans": "entity"
+    },
+    {
+      "ques": "The ________ offers a wide range of courses.",
+      "ans": "academy"
+    },
+    {
+      "ques": "The company aims for ________ growth.",
+      "ans": "stable"
+    }
+  ],
+  [
+    {
+      "ques": "He is in the ________ of his career.",
+      "ans": "prime"
+    },
+    {
+      "ques": "They use public ________ for their commute.",
+      "ans": "transit"
+    },
+    {
+      "ques": "They provide a ________ environment for employees.",
+      "ans": "stable"
+    },
+    {
+      "ques": "She enjoys a good ________.",
+      "ans": "challenge"
+    },
+    {
+      "ques": "She applied ________ to solve the problem.",
+      "ans": "logic"
+    },
+    {
+      "ques": "She attended an art ________ in Paris.",
+      "ans": "academy"
+    },
+    {
+      "ques": "The company has a global ________.",
+      "ans": "network"
+    },
+    {
+      "ques": "The new system will ________ the process.",
+      "ans": "facilitate"
+    },
+    {
+      "ques": "They consider the organization as a single ________.",
+      "ans": "entity"
+    },
+    {
+      "ques": "Sales have been on a steady ________.",
+      "ans": "decline"
+    }
+  ],
+  [
+    {
+      "ques": "The project presents a significant ________.",
+      "ans": "challenge"
+    },
+    {
+      "ques": "The house is in ________ condition.",
+      "ans": "prime"
+    },
+    {
+      "ques": "Efficient processes can ________ productivity.",
+      "ans": "facilitate"
+    },
+    {
+      "ques": "The economy is relatively ________.",
+      "ans": "stable"
+    },
+    {
+      "ques": "She had to ________ the invitation.",
+      "ans": "decline"
+    },
+    {
+      "ques": "The ________ behind the decision was sound.",
+      "ans": "logic"
+    },
+    {
+      "ques": "The ________ provides quality education.",
+      "ans": "academy"
+    },
+    {
+      "ques": "Each nation is a separate ________.",
+      "ans": "entity"
+    },
+    {
+      "ques": "The ________ connects various departments.",
+      "ans": "network"
+    },
+    {
+      "ques": "The city's ________ options are diverse.",
+      "ans": "transit"
+    }
+  ],
+  [
+    {
+      "ques": "We need to ________ access to information.",
+      "ans": "facilitate"
+    },
+    {
+      "ques": "He prefers a direct ________ to work.",
+      "ans": "transit"
+    },
+    {
+      "ques": "The project is at its ________.",
+      "ans": "prime"
+    },
+    {
+      "ques": "We need to expand our business ________.",
+      "ans": "network"
+    },
+    {
+      "ques": "The program follows a strict ________.",
+      "ans": "logic"
+    },
+    {
+      "ques": "A ________ income is important.",
+      "ans": "stable"
+    },
+    {
+      "ques": "Many students aspire to join the ________.",
+      "ans": "academy"
+    },
+    {
+      "ques": "The concept of a soul as a separate ________.",
+      "ans": "entity"
+    },
+    {
+      "ques": "There has been a ________ in quality.",
+      "ans": "decline"
+    },
+    {
+      "ques": "We need to tackle this ________ head-on.",
+      "ans": "challenge"
+    }
+  ],
+  [
+    {
+      "ques": "The company's fortunes started to ________.",
+      "ans": "decline"
+    },
+    {
+      "ques": "Facing ________ is a part of life.",
+      "ans": "challenge"
+    },
+    {
+      "ques": "The goal is to ________ collaboration.",
+      "ans": "facilitate"
+    },
+    {
+      "ques": "The ________ time between flights is short.",
+      "ans": "transit"
+    },
+    {
+      "ques": "The company is a distinct ________.",
+      "ans": "entity"
+    },
+    {
+      "ques": "The film won several awards at the ________.",
+      "ans": "academy"
+    },
+    {
+      "ques": "A ________ relationship is built on trust.",
+      "ans": "stable"
+    },
+    {
+      "ques": "She is at the ________ of her life.",
+      "ans": "prime"
+    },
+    {
+      "ques": "Using ________ can lead to better decisions.",
+      "ans": "logic"
+    },
+    {
+      "ques": "A strong ________ can lead to opportunities.",
+      "ans": "network"
+    }
+  ]
+]

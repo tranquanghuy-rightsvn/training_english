@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "ques": "Please ________ the boxes with their contents.",
+      "ans": "label"
+    },
+    {
+      "ques": "The ________ performance of the company improved.",
+      "ans": "overall"
+    },
+    {
+      "ques": "The evidence may ________ him in the crime.",
+      "ans": "implicate"
+    },
+    {
+      "ques": "His discomfort was ________ in his facial expression.",
+      "ans": "apparent"
+    },
+    {
+      "ques": "I had a meeting ________ to the main event.",
+      "ans": "prior"
+    },
+    {
+      "ques": "The city has a rich ________ diversity.",
+      "ans": "ethnic"
+    },
+    {
+      "ques": "The candidates will ________ the important issues tonight.",
+      "ans": "debate"
+    },
+    {
+      "ques": "Can you provide a brief ________ of the report?",
+      "ans": "sum"
+    },
+    {
+      "ques": "We aim to ________ our best employees.",
+      "ans": "retain"
+    },
+    {
+      "ques": "He decided to ________ to the project wholeheartedly.",
+      "ans": "commit"
+    }
+  ],
+  [
+    {
+      "ques": "The ________ of their expenses was surprising.",
+      "ans": "sum"
+    },
+    {
+      "ques": "It's essential to ________ to a regular exercise routine.",
+      "ans": "commit"
+    },
+    {
+      "ques": "The product comes with a clear ________.",
+      "ans": "label"
+    },
+    {
+      "ques": "It's important to ________ important documents.",
+      "ans": "retain"
+    },
+    {
+      "ques": "She didn't want to ________ anyone in the matter.",
+      "ans": "implicate"
+    },
+    {
+      "ques": "Please submit your report well in ________.",
+      "ans": "prior"
+    },
+    {
+      "ques": "The festival celebrates various ________ cultures.",
+      "ans": "ethnic"
+    },
+    {
+      "ques": "The ________ consensus is that the plan is viable.",
+      "ans": "overall"
+    },
+    {
+      "ques": "The ________ reason for the delay was technical issues.",
+      "ans": "apparent"
+    },
+    {
+      "ques": "The ________ over the policy change was intense.",
+      "ans": "debate"
+    }
+  ],
+  [
+    {
+      "ques": "It became ________ that changes were needed.",
+      "ans": "apparent"
+    },
+    {
+      "ques": "She had no ________ knowledge of the situation.",
+      "ans": "prior"
+    },
+    {
+      "ques": "They decided to ________ the item as 'limited edition.'",
+      "ans": "label"
+    },
+    {
+      "ques": "The company wants to ________ its competitive edge.",
+      "ans": "retain"
+    },
+    {
+      "ques": "His actions could ________ the entire team.",
+      "ans": "implicate"
+    },
+    {
+      "ques": "She calculated the total ________ of the project.",
+      "ans": "sum"
+    },
+    {
+      "ques": "She didn't want to ________ to a decision just yet.",
+      "ans": "commit"
+    },
+    {
+      "ques": "Let's look at the ________ impact of these decisions.",
+      "ans": "overall"
+    },
+    {
+      "ques": "We need to have a ________ about our future plans.",
+      "ans": "debate"
+    },
+    {
+      "ques": "The ________ background of the neighborhood is diverse.",
+      "ans": "ethnic"
+    }
+  ],
+  [
+    {
+      "ques": "The ________ on the package was illegible.",
+      "ans": "label"
+    },
+    {
+      "ques": "She hopes to ________ the lessons learned.",
+      "ans": "retain"
+    },
+    {
+      "ques": "The cause of the problem was not immediately ________.",
+      "ans": "apparent"
+    },
+    {
+      "ques": "The documents may ________ a larger conspiracy.",
+      "ans": "implicate"
+    },
+    {
+      "ques": "His ________ goal is to achieve financial stability.",
+      "ans": "overall"
+    },
+    {
+      "ques": "The suspect was unwilling to ________ to the crime.",
+      "ans": "commit"
+    },
+    {
+      "ques": "The ________ on the topic continued for hours.",
+      "ans": "debate"
+    },
+    {
+      "ques": "In ________, the project was a great success.",
+      "ans": "sum"
+    },
+    {
+      "ques": "________ tensions in the region have existed for years.",
+      "ans": "ethnic"
+    },
+    {
+      "ques": "His ________ experience prepared him for the role.",
+      "ans": "prior"
+    }
+  ],
+  [
+    {
+      "ques": "We should ________ to environmentally friendly practices.",
+      "ans": "commit"
+    },
+    {
+      "ques": "We need a ________ of the main points discussed.",
+      "ans": "sum"
+    },
+    {
+      "ques": "The clothing has a designer ________.",
+      "ans": "label"
+    },
+    {
+      "ques": "The ________ goal is to improve efficiency.",
+      "ans": "apparent"
+    },
+    {
+      "ques": "We must be careful not to ________ innocent people.",
+      "ans": "implicate"
+    },
+    {
+      "ques": "The key is to ________ information for future use.",
+      "ans": "retain"
+    },
+    {
+      "ques": "We need to consider the ________ consequences.",
+      "ans": "overall"
+    },
+    {
+      "ques": "We discussed the matter ________ to the deadline.",
+      "ans": "prior"
+    },
+    {
+      "ques": "The students organized a ________ on climate change.",
+      "ans": "debate"
+    },
+    {
+      "ques": "The museum features art from different ________ groups.",
+      "ans": "ethnic"
+    }
+  ]
+]

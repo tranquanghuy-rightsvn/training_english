@@ -1,4 +1,8 @@
 $(document).ready(function() {
+  if(parseInt(get_params()['id']) > 174 || parseInt(get_params()['id']) < 1 ){
+    window.location.href = "/";
+  }
+
   $.getJSON('./database/exercises/ex_' + get_params()['id'] + '.json', function(teams) {
     var ansArray = [];
 
@@ -33,6 +37,41 @@ $(document).ready(function() {
       $('#exercise-' + i).append("<div class='box-button mgt-20 d-flex justify-content-end'><button class='btn btn-danger mgr-20' onclick='reset_exersice(" + i +")'> Restart </button><button class='btn btn-success' onclick='submit_exersice(" + i +")'> Submit </button></div>")
 
     });
+  });
+
+
+  $.getJSON('./database/general_topics.json', function(groups){
+    if(parseInt(get_params()['id']) > 111){
+      return
+    }else{
+      var id = parseInt(get_params()['id']);
+      var k = 0;
+      groups.map(function(group, index){
+        if(id >= parseInt(group['id_start'])){
+          k = index;
+          return;
+        }
+      });
+
+      $('#back_word_list').attr("href", "topic.html?topic=" + groups[k]['brief'])
+    }
+  });
+
+  $.getJSON('./database/academic_topics.json', function(groups){
+    if(parseInt(get_params()['id']) < 112){
+      return
+    }else{
+      var id = parseInt(get_params()['id']);
+      var k = 0;
+      groups.map(function(group, index){
+        if(id >= parseInt(group['id_start'])){
+          k = index;
+          return;
+        }
+      });
+
+      $('#back_word_list').attr("href", "topic.html?topic=" + groups[k]['brief'])
+    }
   });
 
 });

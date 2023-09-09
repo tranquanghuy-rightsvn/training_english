@@ -1,1 +1,292 @@
-ex_23.json
+[
+  [
+    {
+      "ques": "Please don't _________ with their conversation.",
+      "ans": "interfere"
+    },
+    {
+      "ques": "Please _________ your seatbelt before the flight takes off.",
+      "ans": "fasten"
+    },
+    {
+      "ques": "The Earth _________ on its axis, causing day and night.",
+      "ans": "rotate"
+    },
+    {
+      "ques": "The aroma of freshly baked cookies can _________ anyone.",
+      "ans": "tempt"
+    },
+    {
+      "ques": "He decided to _________ the old wallpaper and repaint the room.",
+      "ans": "strip"
+    },
+    {
+      "ques": "I will _________ the meeting scheduled for tomorrow.",
+      "ans": "attend"
+    },
+    {
+      "ques": "He couldn't help but _________ at the breathtaking sunset.",
+      "ans": "stare"
+    },
+    {
+      "ques": "I _________ to receive an email confirmation soon.",
+      "ans": "expect"
+    },
+    {
+      "ques": "I expect to _________ an invitation to the event.",
+      "ans": "receive"
+    },
+    {
+      "ques": "He quickly _________ his coat before heading out into the cold.",
+      "ans": "grab"
+    },
+    {
+      "ques": "He received _________ for his outstanding performance.",
+      "ans": "praise"
+    },
+    {
+      "ques": "The heavy rain began to _________ our outdoor plans.",
+      "ans": "hamper"
+    },
+    {
+      "ques": "The boat began to _________ along with the current.",
+      "ans": "drift"
+    },
+    {
+      "ques": "The weather forecast _________ of an approaching storm.",
+      "ans": "warn"
+    }
+  ],
+  [
+    {
+      "ques": "It's essential to _________ the safety harness securely.",
+      "ans": "fasten"
+    },
+    {
+      "ques": "Lack of funding can _________ the progress of the project.",
+      "ans": "hamper"
+    },
+    {
+      "ques": "She began to _________ the layers of clothing as the day grew warmer.",
+      "ans": "strip"
+    },
+    {
+      "ques": "She felt uncomfortable under the intense _________ of the audience.",
+      "ans": "stare"
+    },
+    {
+      "ques": "He _________ his friend about the potential risks involved.",
+      "ans": "warn"
+    },
+    {
+      "ques": "External noise can _________ with concentration.",
+      "ans": "interfere"
+    },
+    {
+      "ques": "The teacher always encourages and _________ her students.",
+      "ans": "praise"
+    },
+    {
+      "ques": "She couldn't resist the _________ to buy the beautiful dress.",
+      "ans": "tempt"
+    },
+    {
+      "ques": "They _________ a successful outcome of the project.",
+      "ans": "expect"
+    },
+    {
+      "ques": "She managed to _________ the last piece of cake.",
+      "ans": "grab"
+    },
+    {
+      "ques": "The clouds seemed to _________ across the sky.",
+      "ans": "drift"
+    },
+    {
+      "ques": "She was thrilled to _________ a surprise gift in the mail.",
+      "ans": "receive"
+    },
+    {
+      "ques": "It's important to _________ the tires on your car for even wear.",
+      "ans": "rotate"
+    },
+    {
+      "ques": "Many people _________ the annual conference to gain knowledge.",
+      "ans": "attend"
+    }
+  ],
+  [
+    {
+      "ques": "The vandals attempted to _________ the car of its valuable parts.",
+      "ans": "strip"
+    },
+    {
+      "ques": "He was honored to _________ a prestigious award.",
+      "ans": "receive"
+    },
+    {
+      "ques": "It's important to _________ the efforts of your team.",
+      "ans": "praise"
+    },
+    {
+      "ques": "She didn't _________ such a warm welcome from her new neighbors.",
+      "ans": "expect"
+    },
+    {
+      "ques": "The curious child would often _________ at strangers.",
+      "ans": "stare"
+    },
+    {
+      "ques": "The child tried to _________ the colorful balloons floating by.",
+      "ans": "grab"
+    },
+    {
+      "ques": "She didn't want to _________ in their personal matters.",
+      "ans": "interfere"
+    },
+    {
+      "ques": "She allowed her thoughts to _________ as she gazed out the window.",
+      "ans": "drift"
+    },
+    {
+      "ques": "It's important to _________ to the details during the presentation.",
+      "ans": "attend"
+    },
+    {
+      "ques": "He tried to _________ her with an enticing offer.",
+      "ans": "tempt"
+    },
+    {
+      "ques": "He struggled to _________ the buttons on his shirt.",
+      "ans": "fasten"
+    },
+    {
+      "ques": "He refused to let obstacles _________ his determination.",
+      "ans": "hamper"
+    },
+    {
+      "ques": "The sign _________ visitors to be cautious of slippery floors.",
+      "ans": "warn"
+    },
+    {
+      "ques": "The staff members take turns to _________ weekend shifts.",
+      "ans": "rotate"
+    }
+  ],
+  [
+    {
+      "ques": "They showered her with _________ for her achievements.",
+      "ans": "praise"
+    },
+    {
+      "ques": "The traffic jam may _________ our arrival time.",
+      "ans": "hamper"
+    },
+    {
+      "ques": "I'll _________ a coffee on my way to work.",
+      "ans": "grab"
+    },
+    {
+      "ques": "The company will _________ applications until the deadline.",
+      "ans": "receive"
+    },
+    {
+      "ques": "The technical glitch didn't _________ with the presentation.",
+      "ans": "interfere"
+    },
+    {
+      "ques": "She always makes an effort to _________ important events.",
+      "ans": "attend"
+    },
+    {
+      "ques": "It's essential to _________ children about the dangers of playing with fire.",
+      "ans": "warn"
+    },
+    {
+      "ques": "The windstorm threatened to _________ the trees of their leaves.",
+      "ans": "strip"
+    },
+    {
+      "ques": "The strong winds threatened to _________ the tent's stakes.",
+      "ans": "fasten"
+    },
+    {
+      "ques": "It's considered impolite to _________ at someone for too long.",
+      "ans": "stare"
+    },
+    {
+      "ques": "The fallen leaves started to _________ on the surface of the pond.",
+      "ans": "drift"
+    },
+    {
+      "ques": "It's natural to _________ some challenges when starting a new job.",
+      "ans": "expect"
+    },
+    {
+      "ques": "It's essential to avoid situations that might _________ your willpower.",
+      "ans": "tempt"
+    },
+    {
+      "ques": "You can _________ the image on the screen to view it from different angles.",
+      "ans": "rotate"
+    }
+  ],
+  [
+    {
+      "ques": "A messy workspace can _________ productivity.",
+      "ans": "hamper"
+    },
+    {
+      "ques": "The cat tried to _________ the elusive toy mouse.",
+      "ans": "grab"
+    },
+    {
+      "ques": "The fans eagerly awaited their favorite band to _________ on stage.",
+      "ans": "rotate"
+    },
+    {
+      "ques": "Their eyes met, and they shared a long, meaningful _________.",
+      "ans": "stare"
+    },
+    {
+      "ques": "The tempting scent of the barbecue _________ him to join the party.",
+      "ans": "tempt"
+    },
+    {
+      "ques": "Make sure to _________ the lid tightly to avoid spills.",
+      "ans": "fasten"
+    },
+    {
+      "ques": "The detective had to _________ the case down to its essentials.",
+      "ans": "strip"
+    },
+    {
+      "ques": "The restaurant will _________ reservations for special occasions.",
+      "ans": "receive"
+    },
+    {
+      "ques": "The conversation started to _________ into unrelated topics.",
+      "ans": "drift"
+    },
+    {
+      "ques": "He couldn't _________ the party due to prior commitments.",
+      "ans": "attend"
+    },
+    {
+      "ques": "He didn't _________ to encounter so much traffic on the way home.",
+      "ans": "expect"
+    },
+    {
+      "ques": "His hard work and dedication deservedly earned him _________.",
+      "ans": "praise"
+    },
+    {
+      "ques": "It's best not to _________ in their decision-making process.",
+      "ans": "interfere"
+    },
+    {
+      "ques": "She received a _________ about the consequences of her actions.",
+      "ans": "warn"
+    }
+  ]
+]

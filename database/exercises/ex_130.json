@@ -1,1 +1,212 @@
-ex_23.json
+[
+  [
+    {
+      "ques": "They have a ________ helper to assist with household chores.",
+      "ans": "domestic"
+    },
+    {
+      "ques": "Several students will ________ the conference room.",
+      "ans": "occupy"
+    },
+    {
+      "ques": "The board will ________ on the matter at the next meeting.",
+      "ans": "confer"
+    },
+    {
+      "ques": "The weather is bad; ________ we should stay indoors.",
+      "ans": "hence"
+    },
+    {
+      "ques": "The company aims to ________ a culture of innovation.",
+      "ans": "promote"
+    },
+    {
+      "ques": "The company is facing some ________ challenges.",
+      "ans": "internal"
+    },
+    {
+      "ques": "What is the current ________ of the project?",
+      "ans": "status"
+    },
+    {
+      "ques": "You need a password to gain ________ to the system.",
+      "ans": "access"
+    },
+    {
+      "ques": "Her intelligence is a notable ________.",
+      "ans": "attribute"
+    },
+    {
+      "ques": "We are in the planning ________ of the project.",
+      "ans": "phase"
+    }
+  ],
+  [
+    {
+      "ques": "The ________ to the building is restricted to authorized personnel.",
+      "ans": "access"
+    },
+    {
+      "ques": "His dedication and hard work will help ________ him.",
+      "ans": "promote"
+    },
+    {
+      "ques": "We can ________ the success to teamwork.",
+      "ans": "attribute"
+    },
+    {
+      "ques": "He plans to ________ a leadership position in the company.",
+      "ans": "occupy"
+    },
+    {
+      "ques": "The ________ structure of the organization is complex.",
+      "ans": "internal"
+    },
+    {
+      "ques": "The project will be completed in three ________.",
+      "ans": "phase"
+    },
+    {
+      "ques": "The company focuses on ________ production.",
+      "ans": "domestic"
+    },
+    {
+      "ques": "She achieved a high ________ in her career.",
+      "ans": "status"
+    },
+    {
+      "ques": "He forgot his ID card and ________ couldn't enter the building.",
+      "ans": "hence"
+    },
+    {
+      "ques": "They decided to ________ the award to her.",
+      "ans": "confer"
+    }
+  ],
+  [
+    {
+      "ques": "_______ updates will be provided regularly.",
+      "ans": "status"
+    },
+    {
+      "ques": "The building will ________ both offices and apartments.",
+      "ans": "occupy"
+    },
+    {
+      "ques": "The ________ of the moon affects ocean tides.",
+      "ans": "phase"
+    },
+    {
+      "ques": "Let's ________ and discuss the options.",
+      "ans": "confer"
+    },
+    {
+      "ques": "_______ violence is a serious social issue.",
+      "ans": "domestic"
+    },
+    {
+      "ques": "_______ communication is crucial for a team's success.",
+      "ans": "internal"
+    },
+    {
+      "ques": "The deadline is approaching, ________ the need to work faster.",
+      "ans": "hence"
+    },
+    {
+      "ques": "One of his key ________ is his determination.",
+      "ans": "attribute"
+    },
+    {
+      "ques": "It's essential to ________ gender equality in the workplace.",
+      "ans": "promote"
+    },
+    {
+      "ques": "We have limited ________ to certain files.",
+      "ans": "access"
+    }
+  ],
+  [
+    {
+      "ques": "We need to address these ________ issues.",
+      "ans": "internal"
+    },
+    {
+      "ques": "How can we effectively ________ this product?",
+      "ans": "promote"
+    },
+    {
+      "ques": "How can we ________ this information?",
+      "ans": "access"
+    },
+    {
+      "ques": "Can you explain the different ________ of this process?",
+      "ans": "phase"
+    },
+    {
+      "ques": "The university will ________ an honorary degree on the speaker.",
+      "ans": "confer"
+    },
+    {
+      "ques": "_______ flights are often more convenient than international ones.",
+      "ans": "domestic"
+    },
+    {
+      "ques": "Who will ________ the vacant seat on the board?",
+      "ans": "occupy"
+    },
+    {
+      "ques": "She had a meeting; ________ her absence at lunch.",
+      "ans": "hence"
+    },
+    {
+      "ques": "He doesn't like to take ________ for his mistakes.",
+      "ans": "attribute"
+    },
+    {
+      "ques": "The company's ________ in the market has improved.",
+      "ans": "status"
+    }
+  ],
+  [
+    {
+      "ques": "The ________ economy is showing signs of improvement.",
+      "ans": "domestic"
+    },
+    {
+      "ques": "The construction project is entering its final ________.",
+      "ans": "phase"
+    },
+    {
+      "ques": "She hopes to ________ the role of project manager.",
+      "ans": "occupy"
+    },
+    {
+      "ques": "The committee will ________ about potential changes.",
+      "ans": "confer"
+    },
+    {
+      "ques": "Your ________ in society should not define your worth.",
+      "ans": "status"
+    },
+    {
+      "ques": "The organization seeks to ________ environmental awareness.",
+      "ans": "promote"
+    },
+    {
+      "ques": "You should have ________ to the data you need.",
+      "ans": "access"
+    },
+    {
+      "ques": "He is unwell; ________ his inability to attend the event.",
+      "ans": "hence"
+    },
+    {
+      "ques": "What ________ do you admire in a person?",
+      "ans": "attribute"
+    },
+    {
+      "ques": "The problem is ________ and needs immediate attention.",
+      "ans": "internal"
+    }
+  ]
+]

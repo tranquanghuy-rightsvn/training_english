@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "ques": "Please ________ your application by the deadline.",
+      "ans": "submit"
+    },
+    {
+      "ques": "Many environmentalists ________ for sustainable practices.",
+      "ans": "advocate"
+    },
+    {
+      "ques": "From the data, we can ________ that the trend is positive.",
+      "ans": "infer"
+    },
+    {
+      "ques": "The car has a special ________ for off-road driving.",
+      "ans": "mode"
+    },
+    {
+      "ques": "The committee will ________ members from various departments.",
+      "ans": "comprise"
+    },
+    {
+      "ques": "Can you provide a ________ answer to this question?",
+      "ans": "definite"
+    },
+    {
+      "ques": "The scientist conducted ________ research to gather data.",
+      "ans": "empirical"
+    },
+    {
+      "ques": "The ________ is divided into continents and oceans.",
+      "ans": "globe"
+    },
+    {
+      "ques": "Can you ________ that passage from the book?",
+      "ans": "quote"
+    },
+    {
+      "ques": "Winning the championship is the ________ goal.",
+      "ans": "ultimate"
+    }
+  ],
+  [
+    {
+      "ques": "Based on her tone, I can ________ that she's upset.",
+      "ans": "infer"
+    },
+    {
+      "ques": "You can ________ your proposal online.",
+      "ans": "submit"
+    },
+    {
+      "ques": "She had a ________ plan for the weekend.",
+      "ans": "definite"
+    },
+    {
+      "ques": "The study is based on ________ evidence.",
+      "ans": "empirical"
+    },
+    {
+      "ques": "The ________ decision rests with the judge.",
+      "ans": "ultimate"
+    },
+    {
+      "ques": "She is known for her role as an ________ of women's rights.",
+      "ans": "advocate"
+    },
+    {
+      "ques": "The team is ________ of experts in different fields.",
+      "ans": "comprise"
+    },
+    {
+      "ques": "She dreams of traveling the world and seeing the ________.",
+      "ans": "globe"
+    },
+    {
+      "ques": "In silent ________, communication is nonverbal.",
+      "ans": "mode"
+    },
+    {
+      "ques": "He often likes to ________ famous sayings.",
+      "ans": "quote"
+    }
+  ],
+  [
+    {
+      "ques": "The schedule is not ________ yet.",
+      "ans": "definite"
+    },
+    {
+      "ques": "Their ________ aim is to achieve world peace.",
+      "ans": "ultimate"
+    },
+    {
+      "ques": "He had to ________ his report to the committee.",
+      "ans": "submit"
+    },
+    {
+      "ques": "The device offers different ________ of operation.",
+      "ans": "mode"
+    },
+    {
+      "ques": "The book will ________ several chapters on this topic.",
+      "ans": "comprise"
+    },
+    {
+      "ques": "He tried to ________ the meaning of the message.",
+      "ans": "infer"
+    },
+    {
+      "ques": "The article begins with a powerful ________.",
+      "ans": "quote"
+    },
+    {
+      "ques": "Their conclusions are backed by ________ observations.",
+      "ans": "empirical"
+    },
+    {
+      "ques": "The ________ is a representation of our planet.",
+      "ans": "globe"
+    },
+    {
+      "ques": "The organization was founded to ________ for animal welfare.",
+      "ans": "advocate"
+    }
+  ],
+  [
+    {
+      "ques": "She decided to end her speech with a meaningful ________.",
+      "ans": "quote"
+    },
+    {
+      "ques": "The smartphone has a flight ________ for airplane use.",
+      "ans": "mode"
+    },
+    {
+      "ques": "You can ________ a lot from a person's body language.",
+      "ans": "infer"
+    },
+    {
+      "ques": "He has a collection of ________ souvenirs from his trips.",
+      "ans": "globe"
+    },
+    {
+      "ques": "He likes to ________ for a healthier lifestyle.",
+      "ans": "advocate"
+    },
+    {
+      "ques": "The students need to ________ their assignments by Friday.",
+      "ans": "submit"
+    },
+    {
+      "ques": "We need a ________ decision by tomorrow.",
+      "ans": "definite"
+    },
+    {
+      "ques": "We need to rely on ________ data for this analysis.",
+      "ans": "empirical"
+    },
+    {
+      "ques": "What's the ________ purpose of this project?",
+      "ans": "ultimate"
+    },
+    {
+      "ques": "The collection will ________ artworks from different eras.",
+      "ans": "comprise"
+    }
+  ],
+  [
+    {
+      "ques": "It's difficult to ________ his intentions.",
+      "ans": "infer"
+    },
+    {
+      "ques": "He was looking for a ________ explanation.",
+      "ans": "definite"
+    },
+    {
+      "ques": "She prefers to work in a creative ________.",
+      "ans": "mode"
+    },
+    {
+      "ques": "The ________ outcome will be determined later.",
+      "ans": "ultimate"
+    },
+    {
+      "ques": "It's important to ________ reliable sources in research.",
+      "ans": "quote"
+    },
+    {
+      "ques": "The festival will ________ music, art, and food.",
+      "ans": "comprise"
+    },
+    {
+      "ques": "She was asked to ________ her findings for review.",
+      "ans": "submit"
+    },
+    {
+      "ques": "The research project aims to provide ________ insights.",
+      "ans": "empirical"
+    },
+    {
+      "ques": "The ________ is displayed in the classroom.",
+      "ans": "globe"
+    },
+    {
+      "ques": "The group will ________ for policy changes at the conference.",
+      "ans": "advocate"
+    }
+  ]
+]

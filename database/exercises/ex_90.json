@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "ques": "Did you hear about the accident that _________ed on the highway?",
+      "ans": "happen"
+    },
+    {
+      "ques": "The police conducted a raid and made a _________ at the illegal gambling den.",
+      "ans": "bust"
+    },
+    {
+      "ques": "The stars in the night sky _________d brilliantly.",
+      "ans": "sparkle"
+    },
+    {
+      "ques": "She decided to _________ the river using the old bridge.",
+      "ans": "cross"
+    },
+    {
+      "ques": "The event had to be _________d due to inclement weather.",
+      "ans": "postpone"
+    },
+    {
+      "ques": "He managed to _________ the opportunity and secure the deal.",
+      "ans": "seize"
+    },
+    {
+      "ques": "The noisy construction work began to _________ her from her studies.",
+      "ans": "distract"
+    },
+    {
+      "ques": "The two siblings strongly _________ each other in appearance.",
+      "ans": "resemble"
+    },
+    {
+      "ques": "She had to _________ the stubborn stains from the kitchen counter.",
+      "ans": "scrub"
+    },
+    {
+      "ques": "She couldn't help but _________ her coworker's success.",
+      "ans": "resent"
+    },
+    {
+      "ques": "She decided to _________ a table at the restaurant for their anniversary dinner.",
+      "ans": "reserve"
+    },
+    {
+      "ques": "He used a scanner to _________ the documents into digital format.",
+      "ans": "scan"
+    },
+    {
+      "ques": "She was always willing to _________ her knowledge with others.",
+      "ans": "share"
+    },
+    {
+      "ques": "I _________ to finish the project by the end of the week.",
+      "ans": "intend"
+    }
+  ],
+  [
+    {
+      "ques": "The sudden noise outside the window served to _________ her attention.",
+      "ans": "distract"
+    },
+    {
+      "ques": "The police had to _________ the suspect before he could escape.",
+      "ans": "seize"
+    },
+    {
+      "ques": "He began to _________ the way he was treated by his boss.",
+      "ans": "resent"
+    },
+    {
+      "ques": "The hotel requires guests to _________ rooms in advance.",
+      "ans": "reserve"
+    },
+    {
+      "ques": "They decided to _________ the meeting until next week.",
+      "ans": "postpone"
+    },
+    {
+      "ques": "He diligently _________ed the floors until they shone.",
+      "ans": "scrub"
+    },
+    {
+      "ques": "They _________ to visit their family during the holidays.",
+      "ans": "intend"
+    },
+    {
+      "ques": "They discovered a _________ of stolen artwork in the suspect's home.",
+      "ans": "bust"
+    },
+    {
+      "ques": "The actor's performance in the movie made him _________ the real historical figure.",
+      "ans": "resemble"
+    },
+    {
+      "ques": "The crystal chandelier _________d with a thousand tiny lights.",
+      "ans": "sparkle"
+    },
+    {
+      "ques": "The security personnel carefully _________ed the crowd for any suspicious activity.",
+      "ans": "scan"
+    },
+    {
+      "ques": "The hikers had to _________ a treacherous mountain pass.",
+      "ans": "cross"
+    },
+    {
+      "ques": "It's strange how coincidences can _________ at the right moment.",
+      "ans": "happen"
+    },
+    {
+      "ques": "They decided to _________ the cost of the trip equally.",
+      "ans": "share"
+    }
+  ],
+  [
+    {
+      "ques": "It's not healthy to _________ the achievements of others.",
+      "ans": "resent"
+    },
+    {
+      "ques": "She quickly _________ed through the pages of the book to find the relevant information.",
+      "ans": "scan"
+    },
+    {
+      "ques": "He tried to _________ himself by focusing on a book.",
+      "ans": "distract"
+    },
+    {
+      "ques": "The cat managed to _________ the busy street safely.",
+      "ans": "cross"
+    },
+    {
+      "ques": "The antique chair closely _________ed those from the same period.",
+      "ans": "resemble"
+    },
+    {
+      "ques": "The mechanic used a wire brush to _________ the rust from the car's surface.",
+      "ans": "scrub"
+    },
+    {
+      "ques": "Her eyes would _________ with excitement when she talked about her dreams.",
+      "ans": "sparkle"
+    },
+    {
+      "ques": "The wedding had to be _________d because of a family emergency.",
+      "ans": "postpone"
+    },
+    {
+      "ques": "He had to _________ a spot in the crowded parking lot.",
+      "ans": "reserve"
+    },
+    {
+      "ques": "The detective was determined to solve the art _________ case.",
+      "ans": "bust"
+    },
+    {
+      "ques": "She tried to _________ the moment and express her feelings.",
+      "ans": "seize"
+    },
+    {
+      "ques": "The siblings had a close bond and would often _________ their secrets.",
+      "ans": "share"
+    },
+    {
+      "ques": "Sometimes unexpected opportunities can _________ when you least expect them.",
+      "ans": "happen"
+    },
+    {
+      "ques": "She didn't _________ to offend anyone with her comments.",
+      "ans": "intend"
+    }
+  ],
+  [
+    {
+      "ques": "The two friends agreed to _________ the desert on a daring adventure.",
+      "ans": "cross"
+    },
+    {
+      "ques": "The fresh snow on the ground seemed to _________ in the sunlight.",
+      "ans": "sparkle"
+    },
+    {
+      "ques": "He wanted to _________ his success story to inspire others.",
+      "ans": "share"
+    },
+    {
+      "ques": "Her handwriting oddly _________ed her mother's.",
+      "ans": "resemble"
+    },
+    {
+      "ques": "After gardening, she needed to _________ the dirt from her hands.",
+      "ans": "scrub"
+    },
+    {
+      "ques": "The computer program can automatically _________ and detect viruses.",
+      "ans": "scan"
+    },
+    {
+      "ques": "The soldiers were ordered to _________ the enemy's stronghold.",
+      "ans": "seize"
+    },
+    {
+      "ques": "The unexpected phone call served to _________ her while she was working.",
+      "ans": "distract"
+    },
+    {
+      "ques": "She wondered if the meeting would _________ as planned.",
+      "ans": "happen"
+    },
+    {
+      "ques": "The museum showcased a collection of ancient _________s.",
+      "ans": "bust"
+    },
+    {
+      "ques": "They couldn't hide their _________ment when they were overlooked for promotion.",
+      "ans": "resent"
+    },
+    {
+      "ques": "She chose to _________ her vacation until after the busy season.",
+      "ans": "postpone"
+    },
+    {
+      "ques": "His actions were well-considered, and he _________ed no harm.",
+      "ans": "intend"
+    },
+    {
+      "ques": "The group managed to _________ seats for the concert.",
+      "ans": "reserve"
+    }
+  ],
+  [
+    {
+      "ques": "The sculpture was designed to _________ a famous work of art.",
+      "ans": "resemble"
+    },
+    {
+      "ques": "Sometimes it's necessary to _________ plans for unforeseen circumstances.",
+      "ans": "postpone"
+    },
+    {
+      "ques": "It took hours to _________ the grime off the old tiles.",
+      "ans": "scrub"
+    },
+    {
+      "ques": "In a true partnership, both parties _________ the responsibilities.",
+      "ans": "share"
+    },
+    {
+      "ques": "They used a small boat to _________ the narrow channel.",
+      "ans": "cross"
+    },
+    {
+      "ques": "The entrepreneur was quick to _________ the emerging market trends.",
+      "ans": "seize"
+    },
+    {
+      "ques": "It's important not to let distractions _________ you from your goals.",
+      "ans": "distract"
+    },
+    {
+      "ques": "Do you _________ to pursue a career in medicine?",
+      "ans": "intend"
+    },
+    {
+      "ques": "He couldn't shake the feeling of _________ment toward his former friend.",
+      "ans": "resent"
+    },
+    {
+      "ques": "The gemstone's facets caught the light and _________d beautifully.",
+      "ans": "sparkle"
+    },
+    {
+      "ques": "They made a _________ation for a guided tour of the national park.",
+      "ans": "reserve"
+    },
+    {
+      "ques": "The art _________ was a significant achievement for law enforcement.",
+      "ans": "bust"
+    },
+    {
+      "ques": "The doctor asked the patient to _________ the barcode on the medication.",
+      "ans": "scan"
+    },
+    {
+      "ques": "The event didn't _________ by chance; it was meticulously planned.",
+      "ans": "happen"
+    }
+  ]
+]

@@ -1,1 +1,292 @@
-ex_23.json
+[
+  [
+    {
+      "ques": "Let's _________ the prices before making a decision.",
+      "ans": "compare"
+    },
+    {
+      "ques": "He tried to _________ her with false promises.",
+      "ans": "deceive"
+    },
+    {
+      "ques": "Don't _________ to ask questions if you're unsure.",
+      "ans": "hesitate"
+    },
+    {
+      "ques": "He used a knife to _________ his initials into the tree.",
+      "ans": "carve"
+    },
+    {
+      "ques": "Please _________ the secret; don't tell anyone.",
+      "ans": "keep"
+    },
+    {
+      "ques": "Children often _________ their parents' behavior.",
+      "ans": "imitate"
+    },
+    {
+      "ques": "They plan to _________ the statue onto a pedestal.",
+      "ans": "elevate"
+    },
+    {
+      "ques": "I can _________ to your feelings of uncertainty.",
+      "ans": "relate"
+    },
+    {
+      "ques": "The mayor will _________ the new project tomorrow.",
+      "ans": "announce"
+    },
+    {
+      "ques": "The noisy construction work will _________ our meeting.",
+      "ans": "disrupt"
+    },
+    {
+      "ques": "Please _________ with your work; don't stop now.",
+      "ans": "continue"
+    },
+    {
+      "ques": "Can you _________ a good restaurant for dinner?",
+      "ans": "suggest"
+    },
+    {
+      "ques": "Be careful not to _________ on the wet floor.",
+      "ans": "slip"
+    },
+    {
+      "ques": "She gave her cat a gentle _________ on the back.",
+      "ans": "stroke"
+    }
+  ],
+  [
+    {
+      "ques": "They have a strong ability to _________ to others.",
+      "ans": "relate"
+    },
+    {
+      "ques": "They will _________ new ideas for the project.",
+      "ans": "suggest"
+    },
+    {
+      "ques": "He can _________ various accents perfectly.",
+      "ans": "imitate"
+    },
+    {
+      "ques": "His grandfather suffered a _________ and needed care.",
+      "ans": "stroke"
+    },
+    {
+      "ques": "She didn't _________ to voice her concerns.",
+      "ans": "hesitate"
+    },
+    {
+      "ques": "He accidentally _________ and dropped the glass.",
+      "ans": "slip"
+    },
+    {
+      "ques": "They plan to _________ their engagement at the party.",
+      "ans": "announce"
+    },
+    {
+      "ques": "The sculptor will _________ a beautiful statue from marble.",
+      "ans": "carve"
+    },
+    {
+      "ques": "They decided to _________ their promise to help.",
+      "ans": "keep"
+    },
+    {
+      "ques": "They wanted to _________ the monopoly in the market.",
+      "ans": "disrupt"
+    },
+    {
+      "ques": "Hard work can _________ your position in the company.",
+      "ans": "elevate"
+    },
+    {
+      "ques": "It's not advisable to _________ your friends.",
+      "ans": "deceive"
+    },
+    {
+      "ques": "She will _________ her studies abroad next year.",
+      "ans": "continue"
+    },
+    {
+      "ques": "She likes to _________ different brands of chocolate.",
+      "ans": "compare"
+    }
+  ],
+  [
+    {
+      "ques": "She didn't want to _________ and reveal the surprise.",
+      "ans": "slip"
+    },
+    {
+      "ques": "She didn't want to _________ anyone with the surprise party.",
+      "ans": "deceive"
+    },
+    {
+      "ques": "They plan to _________ the project into the next phase.",
+      "ans": "continue"
+    },
+    {
+      "ques": "It's impressive how he can _________ intricate designs on wood.",
+      "ans": "carve"
+    },
+    {
+      "ques": "The therapist used a soothing _________ technique.",
+      "ans": "stroke"
+    },
+    {
+      "ques": "The artist can _________ famous paintings with precision.",
+      "ans": "imitate"
+    },
+    {
+      "ques": "The new project will _________ our brand's reputation.",
+      "ans": "elevate"
+    },
+    {
+      "ques": "The protesters aimed to _________ the event.",
+      "ans": "disrupt"
+    },
+    {
+      "ques": "It's interesting to _________ the two cultures.",
+      "ans": "compare"
+    },
+    {
+      "ques": "She often _________ solutions to complex problems.",
+      "ans": "suggest"
+    },
+    {
+      "ques": "He didn't _________ to offer help when needed.",
+      "ans": "hesitate"
+    },
+    {
+      "ques": "It's essential to _________ important news to the team.",
+      "ans": "announce"
+    },
+    {
+      "ques": "It's important to _________ your commitments.",
+      "ans": "keep"
+    },
+    {
+      "ques": "The book's characters are easy to _________ to.",
+      "ans": "relate"
+    }
+  ],
+  [
+    {
+      "ques": "The company will _________ the product launch date soon.",
+      "ans": "announce"
+    },
+    {
+      "ques": "He wanted to _________ a different approach.",
+      "ans": "suggest"
+    },
+    {
+      "ques": "The successful launch will _________ our team's spirits.",
+      "ans": "elevate"
+    },
+    {
+      "ques": "The artist will _________ a pumpkin for Halloween.",
+      "ans": "carve"
+    },
+    {
+      "ques": "They decided to _________ their test scores.",
+      "ans": "compare"
+    },
+    {
+      "ques": "They didn't want to _________ their competitors about their plans.",
+      "ans": "deceive"
+    },
+    {
+      "ques": "It's essential to _________ learning throughout life.",
+      "ans": "continue"
+    },
+    {
+      "ques": "The thief tried to _________ away unnoticed.",
+      "ans": "slip"
+    },
+    {
+      "ques": "The sudden power outage could _________ our work.",
+      "ans": "disrupt"
+    },
+    {
+      "ques": "The musician played a beautiful _________ on the piano.",
+      "ans": "stroke"
+    },
+    {
+      "ques": "The counselor can help you _________ your experiences.",
+      "ans": "relate"
+    },
+    {
+      "ques": "They shouldn't _________ to express their opinions.",
+      "ans": "hesitate"
+    },
+    {
+      "ques": "He vowed to _________ his distance from the situation.",
+      "ans": "keep"
+    },
+    {
+      "ques": "Some animals can _________ human actions.",
+      "ans": "imitate"
+    }
+  ],
+  [
+    {
+      "ques": "He decided to _________ his career in a different field.",
+      "ans": "continue"
+    },
+    {
+      "ques": "Positive feedback can _________ your self-esteem.",
+      "ans": "elevate"
+    },
+    {
+      "ques": "I almost _________ on the icy sidewalk this morning.",
+      "ans": "slip"
+    },
+    {
+      "ques": "It's important not to _________ in making decisions.",
+      "ans": "hesitate"
+    },
+    {
+      "ques": "She decided to _________ her decision to run for office.",
+      "ans": "announce"
+    },
+    {
+      "ques": "She could _________ to his struggles with adversity.",
+      "ans": "relate"
+    },
+    {
+      "ques": "She learned to _________ detailed patterns on jewelry.",
+      "ans": "carve"
+    },
+    {
+      "ques": "The data _________ that there may be a correlation.",
+      "ans": "suggest"
+    },
+    {
+      "ques": "The con artist would often _________ people out of their money.",
+      "ans": "deceive"
+    },
+    {
+      "ques": "A _________ of luck helped them succeed in their venture.",
+      "ans": "stroke"
+    },
+    {
+      "ques": "It's natural for humans to _________ and learn from others.",
+      "ans": "imitate"
+    },
+    {
+      "ques": "He often _________ the advantages and disadvantages of options.",
+      "ans": "compare"
+    },
+    {
+      "ques": "It's crucial not to _________ the flow of the conversation.",
+      "ans": "disrupt"
+    },
+    {
+      "ques": "She will _________ her focus on her studies.",
+      "ans": "keep"
+    }
+  ]
+]

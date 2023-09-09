@@ -1,74 +1,92 @@
 [
   {
     "name": "All Adjectives",
-    "brief": "all_adjective"
+    "brief": "all_adjective",
+    "id_start": 1
   },
   {
     "name": "Arts, Entertainment & Literature",
-    "brief": "arts_entertainment_literature"
+    "brief": "arts_entertainment_literature",
+    "id_start": 12
   },
   {
     "name": "Basic Science & Academia",
-    "brief": "basic_science_academia"
+    "brief": "basic_science_academia",
+    "id_start": 13
   },
   {
     "name": "Crime & the Law",
-    "brief": "crime_the_law"
+    "brief": "crime_the_law",
+    "id_start": 16
   },
   {
     "name": "Feelings, Qualities & States",
-    "brief": "feeling_qualities_states"
+    "brief": "feeling_qualities_states",
+    "id_start": 19
   },
   {
     "name": "Food & Eating",
-    "brief": "food_eating"
+    "brief": "food_eating",
+    "id_start": 24
   },
   {
     "name": "Health & the Body",
-    "brief": "heal_the_body"
+    "brief": "heal_the_body",
+    "id_start": 25
   },
   {
     "name": "Lots of Nouns",
-    "brief": "lots_of_nouns"
+    "brief": "lots_of_nouns",
+    "id_start": 29
   },
   {
     "name": "Money & Work",
-    "brief": "money_work"
+    "brief": "money_work",
+    "id_start": 35
   },
   {
     "name": "Nouns? Verbs? Both!",
-    "brief": "nouns_verbs_both"
+    "brief": "nouns_verbs_both",
+    "id_start": 41
   },
   {
     "name": "Phrasal Verbs",
-    "brief": "phrasal_verbs"
+    "brief": "phrasal_verbs",
+    "id_start": 56
   },
   {
     "name": "Structures, Places & Objects",
-    "brief": "structures_places_objects"
+    "brief": "structures_places_objects",
+    "id_start": 75
   },
   {
     "name": "The Natural World",
-    "brief": "the_natural_wolrd"
+    "brief": "the_natural_world",
+    "id_start": 76
   },
   {
     "name": "The Political World",
-    "brief": "the_political_world"
+    "brief": "the_political_world",
+    "id_start": 81
   },
   {
     "name": "The Social World",
-    "brief": "the_social_world"
+    "brief": "the_social_world",
+    "id_start": 84
   },
   {
     "name": "Transitions",
-    "brief": "transitions"
+    "brief": "transitions",
+    "id_start": 89
   },
   {
     "name": "Verbs, Verbs and Verbs",
-    "brief": "verbs_verbs_and_verbs"
+    "brief": "verbs_verbs_and_verbs",
+    "id_start": 90
   },
   {
     "name": "War, Violence & Conflict",
-    "brief": "war_violence_conflict"
+    "brief": "war_violence_conflict",
+    "id_start": 108
   }
 ]

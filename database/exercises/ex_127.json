@@ -1,1 +1,212 @@
-ex_23.json
+[
+  [
+    {
+      "ques": "The rapid advancement of ________ has transformed many industries.",
+      "ans": "technology"
+    },
+    {
+      "ques": "Please ________ for the upcoming conference.",
+      "ans": "register"
+    },
+    {
+      "ques": "The company will ________ employees for their overtime work.",
+      "ans": "compensate"
+    },
+    {
+      "ques": "There is a strong ________ between smoking and lung cancer.",
+      "ans": "link"
+    },
+    {
+      "ques": "His comments seemed to ________ that he knew more than he was saying.",
+      "ans": "imply"
+    },
+    {
+      "ques": "We encourage our employees to ________ to the community.",
+      "ans": "contribute"
+    },
+    {
+      "ques": "There has been a noticeable ________ in public opinion.",
+      "ans": "shift"
+    },
+    {
+      "ques": "The ________ for the job position are very specific.",
+      "ans": "criteria"
+    },
+    {
+      "ques": "We must ________ that safety protocols are followed.",
+      "ans": "ensure"
+    },
+    {
+      "ques": "He decided to ________ with her on the project.",
+      "ans": "partner"
+    }
+  ],
+  [
+    {
+      "ques": "What are the main ________ for selecting a winner?",
+      "ans": "criteria"
+    },
+    {
+      "ques": "The study aims to establish a direct ________ between the two variables.",
+      "ans": "link"
+    },
+    {
+      "ques": "What does the author ________ with this metaphor?",
+      "ans": "imply"
+    },
+    {
+      "ques": "You need to ________ your vehicle with the local authorities.",
+      "ans": "register"
+    },
+    {
+      "ques": "The company is seeking a new business ________.",
+      "ans": "partner"
+    },
+    {
+      "ques": "What can you ________ to this project?",
+      "ans": "contribute"
+    },
+    {
+      "ques": "I work the night ________ at the hospital.",
+      "ans": "shift"
+    },
+    {
+      "ques": "The goal is to ________ the quality of the product.",
+      "ans": "ensure"
+    },
+    {
+      "ques": "In case of any damage, the insurance will ________ you.",
+      "ans": "compensate"
+    },
+    {
+      "ques": "We are witnessing groundbreaking developments in ________.",
+      "ans": "technology"
+    }
+  ],
+  [
+    {
+      "ques": "This company specializes in cutting-edge ________ solutions.",
+      "ans": "technology"
+    },
+    {
+      "ques": "Her silence seemed to ________ guilt.",
+      "ans": "imply"
+    },
+    {
+      "ques": "The ________ for admission to the university are rigorous.",
+      "ans": "criteria"
+    },
+    {
+      "ques": "It's our responsibility to ________ the well-being of our employees.",
+      "ans": "ensure"
+    },
+    {
+      "ques": "It's important to ________ workers fairly for their efforts.",
+      "ans": "compensate"
+    },
+    {
+      "ques": "The website provides a ________ to additional resources.",
+      "ans": "link"
+    },
+    {
+      "ques": "The company is going through a major ________ in its business model.",
+      "ans": "shift"
+    },
+    {
+      "ques": "I will ________ for the online course next semester.",
+      "ans": "register"
+    },
+    {
+      "ques": "His dedication to the cause has led him to ________ significantly.",
+      "ans": "contribute"
+    },
+    {
+      "ques": "They make great ________ in both work and life.",
+      "ans": "partner"
+    }
+  ],
+  [
+    {
+      "ques": "The use of ________ has improved efficiency in various fields.",
+      "ans": "technology"
+    },
+    {
+      "ques": "The tone of his voice ________ a sense of urgency.",
+      "ans": "imply"
+    },
+    {
+      "ques": "Every little bit helps; even small donations can ________ to a good cause.",
+      "ans": "contribute"
+    },
+    {
+      "ques": "The event requires attendees to ________ in advance.",
+      "ans": "register"
+    },
+    {
+      "ques": "The project's success will be measured by several ________.",
+      "ans": "criteria"
+    },
+    {
+      "ques": "The law requires employers to ________ workers for injuries on the job.",
+      "ans": "compensate"
+    },
+    {
+      "ques": "The success of this venture depends on finding the right ________.",
+      "ans": "partner"
+    },
+    {
+      "ques": "Regular inspections help ________ that the equipment is functioning properly.",
+      "ans": "ensure"
+    },
+    {
+      "ques": "We need to make a ________ in our approach to this problem.",
+      "ans": "shift"
+    },
+    {
+      "ques": "The ________ between these two events is significant.",
+      "ans": "link"
+    }
+  ],
+  [
+    {
+      "ques": "Don't forget to ________ for the workshop before the deadline.",
+      "ans": "register"
+    },
+    {
+      "ques": "She decided to ________ her time and skills to help those in need.",
+      "ans": "contribute"
+    },
+    {
+      "ques": "The ________ for eligibility are clearly stated in the document.",
+      "ans": "criteria"
+    },
+    {
+      "ques": "The airline offered to ________ passengers affected by the delay.",
+      "ans": "compensate"
+    },
+    {
+      "ques": "The results of the study ________ a need for further research.",
+      "ans": "imply"
+    },
+    {
+      "ques": "A ________ in the market conditions affected our sales.",
+      "ans": "shift"
+    },
+    {
+      "ques": "He's been my ________ in this business for years.",
+      "ans": "partner"
+    },
+    {
+      "ques": "________ plays a crucial role in our daily lives.",
+      "ans": "technology"
+    },
+    {
+      "ques": "The report will ________ the findings of various studies.",
+      "ans": "link"
+    },
+    {
+      "ques": "Please double-check to ________ accuracy in your report.",
+      "ans": "ensure"
+    }
+  ]
+]

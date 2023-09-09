@@ -1,0 +1,252 @@
+[
+  [
+    {
+      "ques": "A ________ decision was made to cut costs.",
+      "ans": "judicious"
+    },
+    {
+      "ques": "The museum displayed a rare fossil ________.",
+      "ans": "specimen"
+    },
+    {
+      "ques": "He attempted to ________ the allegations against him.",
+      "ans": "refute"
+    },
+    {
+      "ques": "The virus can ________ and become more dangerous.",
+      "ans": "mutate"
+    },
+    {
+      "ques": "One major ________ of this product is its cost.",
+      "ans": "drawback"
+    },
+    {
+      "ques": "The ________ of key information led to confusion.",
+      "ans": "omission"
+    },
+    {
+      "ques": "The accident left her with emotional ________.",
+      "ans": "trauma"
+    },
+    {
+      "ques": "A simple explanation should ________ for now.",
+      "ans": "suffice"
+    },
+    {
+      "ques": "This product is considered the ________ in its category.",
+      "ans": "benchmark"
+    },
+    {
+      "ques": "We value your ________ on our services.",
+      "ans": "feedback"
+    },
+    {
+      "ques": "Traffic congestion can ________ daily commutes.",
+      "ans": "impede"
+    },
+    {
+      "ques": "Please draw a ________ to illustrate the process.",
+      "ans": "diagram"
+    }
+  ],
+  [
+    {
+      "ques": "A brief summary should ________ for the presentation.",
+      "ans": "suffice"
+    },
+    {
+      "ques": "The genetic code can ________ over time.",
+      "ans": "mutate"
+    },
+    {
+      "ques": "His ________ from the report was a mistake.",
+      "ans": "omission"
+    },
+    {
+      "ques": "The manager provided constructive ________.",
+      "ans": "feedback"
+    },
+    {
+      "ques": "The lab received a biological ________ for analysis.",
+      "ans": "specimen"
+    },
+    {
+      "ques": "The scientist provided evidence to ________ the theory.",
+      "ans": "refute"
+    },
+    {
+      "ques": "He experienced a childhood ________ that affected him.",
+      "ans": "trauma"
+    },
+    {
+      "ques": "The ________ clearly shows the relationship.",
+      "ans": "diagram"
+    },
+    {
+      "ques": "Despite its advantages, the system has some ________.",
+      "ans": "drawback"
+    },
+    {
+      "ques": "His ________ use of resources saved the project.",
+      "ans": "judicious"
+    },
+    {
+      "ques": "We need to establish a new ________ for performance.",
+      "ans": "benchmark"
+    },
+    {
+      "ques": "The obstacles didn't ________ their progress.",
+      "ans": "impede"
+    }
+  ],
+  [
+    {
+      "ques": "The manager's ________ approach led to success.",
+      "ans": "judicious"
+    },
+    {
+      "ques": "Scientists study how organisms ________.",
+      "ans": "mutate"
+    },
+    {
+      "ques": "The war veterans suffered from post-traumatic ________.",
+      "ans": "trauma"
+    },
+    {
+      "ques": "The main ________ of living here is the commute.",
+      "ans": "drawback"
+    },
+    {
+      "ques": "The ________ of this detail is significant.",
+      "ans": "omission"
+    },
+    {
+      "ques": "The basic model will ________ for most users.",
+      "ans": "suffice"
+    },
+    {
+      "ques": "The textbook includes a detailed ________.",
+      "ans": "diagram"
+    },
+    {
+      "ques": "Efficiency is hindered when obstacles ________.",
+      "ans": "impede"
+    },
+    {
+      "ques": "The company aims to set a new ________ in quality.",
+      "ans": "benchmark"
+    },
+    {
+      "ques": "The survey collected customer ________.",
+      "ans": "feedback"
+    },
+    {
+      "ques": "The biologist collected a plant ________ in the field.",
+      "ans": "specimen"
+    },
+    {
+      "ques": "The lawyer tried to ________ the opposing argument.",
+      "ans": "refute"
+    }
+  ],
+  [
+    {
+      "ques": "The DNA of species can ________ through evolution.",
+      "ans": "mutate"
+    },
+    {
+      "ques": "The document's ________ of critical data was noticed.",
+      "ans": "omission"
+    },
+    {
+      "ques": "There are a few ________ to this approach.",
+      "ans": "drawback"
+    },
+    {
+      "ques": "Can you ________ the claims made by the author?",
+      "ans": "refute"
+    },
+    {
+      "ques": "The scientist examined the insect ________ closely.",
+      "ans": "specimen"
+    },
+    {
+      "ques": "The teacher used a ________ to explain the concept.",
+      "ans": "diagram"
+    },
+    {
+      "ques": "The lack of resources can ________ development.",
+      "ans": "impede"
+    },
+    {
+      "ques": "The CEO made a ________ choice for the company.",
+      "ans": "judicious"
+    },
+    {
+      "ques": "Their success serves as a ________ for others.",
+      "ans": "benchmark"
+    },
+    {
+      "ques": "Please provide your honest ________ on the product.",
+      "ans": "feedback"
+    },
+    {
+      "ques": "In some cases, a quick response may not ________.",
+      "ans": "suffice"
+    },
+    {
+      "ques": "Survivors of natural disasters often face ________.",
+      "ans": "trauma"
+    }
+  ],
+  [
+    {
+      "ques": "Can you create a flow ________ for the project?",
+      "ans": "diagram"
+    },
+    {
+      "ques": "We use customer ________ to improve our products.",
+      "ans": "feedback"
+    },
+    {
+      "ques": "We need to make ________ choices to achieve our goals.",
+      "ans": "judicious"
+    },
+    {
+      "ques": "The industry standard is often used as a ________.",
+      "ans": "benchmark"
+    },
+    {
+      "ques": "Weigh the benefits against the ________ before deciding.",
+      "ans": "drawback"
+    },
+    {
+      "ques": "The team worked together to ________ any delays.",
+      "ans": "impede"
+    },
+    {
+      "ques": "Each ________ was carefully labeled and stored.",
+      "ans": "specimen"
+    },
+    {
+      "ques": "Understanding how genes ________ is important.",
+      "ans": "mutate"
+    },
+    {
+      "ques": "Counselors help people cope with psychological ________.",
+      "ans": "trauma"
+    },
+    {
+      "ques": "A single dose may not ________ to cure the illness.",
+      "ans": "suffice"
+    },
+    {
+      "ques": "There was an unfortunate ________ in the document.",
+      "ans": "omission"
+    },
+    {
+      "ques": "It's challenging to ________ deeply ingrained beliefs.",
+      "ans": "refute"
+    }
+  ]
+]

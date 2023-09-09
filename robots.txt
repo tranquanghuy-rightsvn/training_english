@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /index.html
+Allow: /academic_vocabulary.html
+Allow: /general_vocabulary.html
+Allow: /exersice.html
+Allow: /topic.html
+
+Disallow: /database/
+Sitemap: https://3000vocab.com/sitemap-index.xml

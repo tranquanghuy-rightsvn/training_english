@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "ques": "The manual provides ________ instructions.",
+      "ans": "technical"
+    },
+    {
+      "ques": "Can you ________ your decision to the team?",
+      "ans": "justify"
+    },
+    {
+      "ques": "His apology did not ________ the harm he caused.",
+      "ans": "negate"
+    },
+    {
+      "ques": "The company's ________ culture values teamwork.",
+      "ans": "corporate"
+    },
+    {
+      "ques": "Could you ________ your point with an example?",
+      "ans": "illustrate"
+    },
+    {
+      "ques": "They plan to ________ their research findings.",
+      "ans": "publish"
+    },
+    {
+      "ques": "The team aims to ________ the competition.",
+      "ans": "dominate"
+    },
+    {
+      "ques": "Change is the only ________ in life.",
+      "ans": "constant"
+    },
+    {
+      "ques": "Can you explain the ________ of events?",
+      "ans": "sequence"
+    },
+    {
+      "ques": "Despite the difficult ________, he remained positive.",
+      "ans": "circumstance"
+    }
+  ],
+  [
+    {
+      "ques": "The project's success depends on the ________.",
+      "ans": "circumstance"
+    },
+    {
+      "ques": "He maintains a ________ presence in the industry.",
+      "ans": "constant"
+    },
+    {
+      "ques": "His job requires a strong ________ background.",
+      "ans": "technical"
+    },
+    {
+      "ques": "The player's skills allowed them to ________ the game.",
+      "ans": "dominate"
+    },
+    {
+      "ques": "His actions are hard to ________ in this context.",
+      "ans": "justify"
+    },
+    {
+      "ques": "She works in a ________ environment.",
+      "ans": "corporate"
+    },
+    {
+      "ques": "The movie's plot follows a specific ________.",
+      "ans": "sequence"
+    },
+    {
+      "ques": "The author will ________ a new book next month.",
+      "ans": "publish"
+    },
+    {
+      "ques": "The diagrams will ________ the complex process.",
+      "ans": "illustrate"
+    },
+    {
+      "ques": "The positive effects of the project can't be ________.",
+      "ans": "negate"
+    }
+  ],
+  [
+    {
+      "ques": "She has a ________ understanding of the subject.",
+      "ans": "technical"
+    },
+    {
+      "ques": "Your argument may ________ some of my points.",
+      "ans": "negate"
+    },
+    {
+      "ques": "The artist used colors to ________ emotions.",
+      "ans": "illustrate"
+    },
+    {
+      "ques": "The evidence will ________ our claims.",
+      "ans": "justify"
+    },
+    {
+      "ques": "Our decision will be influenced by the ________.",
+      "ans": "circumstance"
+    },
+    {
+      "ques": "The company sought to ________ the market.",
+      "ans": "dominate"
+    },
+    {
+      "ques": "Her ________ support helped me through tough times.",
+      "ans": "constant"
+    },
+    {
+      "ques": "Understanding the ________ is crucial.",
+      "ans": "sequence"
+    },
+    {
+      "ques": "The newspaper will ________ the article tomorrow.",
+      "ans": "publish"
+    },
+    {
+      "ques": "________ policies need to be updated regularly.",
+      "ans": "corporate"
+    }
+  ],
+  [
+    {
+      "ques": "She needed to ________ her absence from work.",
+      "ans": "justify"
+    },
+    {
+      "ques": "________ responsibility is important for businesses.",
+      "ans": "corporate"
+    },
+    {
+      "ques": "The ________ noise in the background was distracting.",
+      "ans": "constant"
+    },
+    {
+      "ques": "In this particular ________, we need to act fast.",
+      "ans": "circumstance"
+    },
+    {
+      "ques": "Her charismatic personality tends to ________ discussions.",
+      "ans": "dominate"
+    },
+    {
+      "ques": "We should avoid actions that ________ our goals.",
+      "ans": "negate"
+    },
+    {
+      "ques": "Pictures often help ________ concepts better than words.",
+      "ans": "illustrate"
+    },
+    {
+      "ques": "The ________ of the story is well-crafted.",
+      "ans": "sequence"
+    },
+    {
+      "ques": "It's essential to ________ accurate information.",
+      "ans": "publish"
+    },
+    {
+      "ques": "The project involves some complex ________ aspects.",
+      "ans": "technical"
+    }
+  ],
+  [
+    {
+      "ques": "We need to identify the correct ________ of steps.",
+      "ans": "sequence"
+    },
+    {
+      "ques": "The evidence seemed to ________ their claims.",
+      "ans": "negate"
+    },
+    {
+      "ques": "The ________ of the accident are still unclear.",
+      "ans": "circumstance"
+    },
+    {
+      "ques": "They aim to ________ their work internationally.",
+      "ans": "publish"
+    },
+    {
+      "ques": "They provided ________ updates on the situation.",
+      "ans": "constant"
+    },
+    {
+      "ques": "The circumstances didn't ________ his behavior.",
+      "ans": "justify"
+    },
+    {
+      "ques": "The mountain seems to ________ the landscape.",
+      "ans": "dominate"
+    },
+    {
+      "ques": "The book is filled with images that ________ the story.",
+      "ans": "illustrate"
+    },
+    {
+      "ques": "The ________ details are beyond my expertise.",
+      "ans": "technical"
+    },
+    {
+      "ques": "The ________ office is in the city center.",
+      "ans": "corporate"
+    }
+  ]
+]
