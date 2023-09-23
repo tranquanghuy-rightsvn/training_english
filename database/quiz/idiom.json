@@ -1,0 +1,1958 @@
+[
+  {
+  "id": 1,
+  "quizzes": [
+  {
+    "title": "The political candidate knew the issue was a hot _______, so he deferred to his chief of staff, who directed questions to the committee chairperson.",
+    "a": "tomato",
+    "b": "potato",
+    "c": "pot",
+    "d": "dog",
+    "correct": "b"
+  },
+  {
+    "title": "Don't let my mother watch any of those sappy movies—she cries at the drop of a _______.",
+    "a": "hat",
+    "b": "bag",
+    "c": "cat",
+    "d": "rag",
+    "correct": "a"
+  },
+  {
+    "title": "When your program first started I thought it was the best thing since sliced _______.",
+    "a": "cake",
+    "b": "break",
+    "c": "bread",
+    "d": "bead",
+    "correct": "c"
+  },
+  {
+    "title": "Denise has been burning the midnight _______ trying to finish this report, so she must be exhausted.",
+    "a": "lamp",
+    "b": "candle",
+    "c": "oil",
+    "d": "gas",
+    "correct": "c"
+  },
+  {
+    "title": "I was excited to start taking night classes after work, but now, without enough time to devote either to school or to my job, I feel like I'm falling between _______ stools.",
+    "a": "one",
+    "b": "two",
+    "c": "three",
+    "d": "four",
+    "correct": "b"
+  },
+  {
+    "title": "You’d better leave now if you want to arrive early for the exam. <u>Break a leg</u>!",
+    "a": "good luck",
+    "b": "Good night",
+    "c": "Good bye",
+    "d": "Good job",
+    "correct": "a"
+  },
+  {
+    "title": "You’d better _______ the books if you want to pass your exam on Friday.",
+    "a": "hit",
+    "b": "beat",
+    "c": "stab",
+    "d": "bite",
+    "correct": "a"
+  },
+  {
+    "title": "I think he’ll pay you back your money – when _______ fly.",
+    "a": "birds",
+    "b": "cats",
+    "c": "cocks",
+    "d": "pigs",
+    "correct": "d"
+  },
+  {
+    "title": "I don't mind driving this time-she's scratched my _______ plenty of times.",
+    "a": "head",
+    "b": "back",
+    "c": "stomach",
+    "d": "heart",
+    "correct": "b"
+  },
+  {
+    "title": "Duncan Smith hit the nail on the _______ when he said that the Prime Minister promised so much and yet changed so little.",
+    "a": "head",
+    "b": "back",
+    "c": "leg",
+    "d": "foot",
+    "correct": "a"
+  },
+   {
+    "title": "At school, people always used to take the _______ out of him for having red hair.",
+    "a": "cat",
+    "b": "dog",
+    "c": "mickey",
+    "d": "rat",
+    "correct": "c"
+  },
+  {
+    "title": "They _______ their car at our disposal for our entire stay.",
+    "a": "had",
+    "b": "took",
+    "c": "put",
+    "d": "got",
+    "correct": "c"
+  },
+  {
+    "title": "I'm sorry, I can't. I have a _______ headache.",
+    "a": "splitting",
+    "b": "biting",
+    "c": "sleeping",
+    "d": "chipping",
+    "correct": "a"
+  },
+  {
+    "title": "This food is _______ the house, you don’t have to pay for it.",
+    "a": "at",
+    "b": "on",
+    "c": "in",
+    "d": "at",
+    "correct": "b"
+  },
+  {
+    "title": "My parents are going to <u>hit the roof</u> if they find out we had a party here.",
+    "a": "become angry",
+    "b": "become sad",
+    "c": "become worried",
+    "d": "become nervous",
+    "correct": "a"
+  },
+  {
+    "title": "When I hear stories of cruelty to animals, it makes my _______ boil.",
+    "a": "stomach",
+    "b": "oil",
+    "c": "blood",
+    "d": "head",
+    "correct": "c"
+  },
+  {
+    "title": "She is a rising star as a standup comedian, always able to bring down the _______ during each performance.",
+    "a": "house",
+    "b": "rain",
+    "c": "roof",
+    "d": "kennel",
+    "correct": "a"
+  },
+  {
+    "title": "We paid through the _______ to get the car fixed.",
+    "a": "head",
+    "b": "nose",
+    "c": "lips",
+    "d": "mouth",
+    "correct": "b"
+  },
+  {
+    "title": "Stop _______ about the bush, John! Just tell me exactly what the problem is.",
+    "a": "rushing",
+    "b": "hiding",
+    "c": "beating",
+    "d": "moving",
+    "correct": "c"
+  },
+  {
+    "title": "I usually buy my clothes _______. It’s cheaper than going to a dressmaker.",
+    "a": "off the peg",
+    "b": "on the house",
+    "c": "in public",
+    "d": "on the shelf",
+    "correct": "a"
+  },
+  {
+    "title": "I caught the last bus by the skin of my _______ .",
+    "a": "mouth",
+    "b": "leg",
+    "c": "neck",
+    "d": "teeth",
+    "correct": "d"
+  },
+  {
+    "title": "It was a joke! I was pulling your _______ .",
+    "a": "thumb",
+    "b": "hair",
+    "c": "toe",
+    "d": "leg",
+    "correct": "d"
+  },
+  {
+    "title": "I always get _______ in my stomach before visiting the dentist.",
+    "a": "worms",
+    "b": "butterflies",
+    "c": "crabs",
+    "d": "hedgehogs",
+    "correct": "b"
+  },
+  {
+    "title": "Those smart phones are selling like _______. If you want one, you’d better buy one now before they’re all gone.",
+    "a": "shooting stars",
+    "b": "fresh bread",
+    "c": "hot cakes",
+    "d": "wild oats",
+    "correct": "c"
+  },
+  {
+    "title": "I haven’t had an accident yet but I’ve had a number of _______.",
+    "a": "narrow",
+    "b": "near",
+    "c": "close",
+    "d": "tiny",
+    "correct": "c"
+  },
+  {
+    "title": "My father refused to eat meat that had been fired. He had _______ in his bonnet about causing cancer.",
+    "a": "bug",
+    "b": "a bee",
+    "c": "a bull",
+    "d": "an ant",
+    "correct": "b"
+  },
+  {
+    "title": "I dropped a _______ when talking with my best friend, and now he doesn't want to talk to me.",
+    "a": "rock",
+    "b": "stone",
+    "c": "brick",
+    "d": "sand",
+    "correct": "c"
+  },
+  {
+    "title": "What the president said is not to be printed. It's _______ the record.",
+    "a": "on",
+    "b": "of",
+    "c": "off",
+    "d": "without",
+    "correct": "c"
+  },
+  {
+    "title": "I can’t stand Mr. Brian. He’s always blowing his own _______ - telling everyone how good he is at everything.",
+    "a": "balloon",
+    "b": "breath",
+    "c": "mind",
+    "d": "trumpet",
+    "correct": "d"
+  },
+  {
+    "title": "He could always find _______ with something, either in my writing or in my personality.",
+    "a": "error",
+    "b": "fault",
+    "c": "mistakes",
+    "d": "wrong",
+    "correct": "b"
+  },
+  {
+    "title": "The two groups of bullies fought tooth and _____ before the police came last night.",
+    "a": "claw",
+    "b": "nail",
+    "c": "feet",
+    "d": "both A and B",
+    "correct": "d"
+  },
+  {
+    "title": "The complaints he received were like water off a duck’s ___________.",
+    "a": "back",
+    "b": "wings",
+    "c": "feather",
+    "d": "body",
+    "correct": "a"
+  },
+  {
+    "title": "I couldn't think of a way to present my view so that no one would take it …….",
+    "a": "miss",
+    "b": "amiss",
+    "c": "easy",
+    "d": "relax",
+    "correct": "b"
+  },
+  {
+    "title": "Where were you? I have been looking for you <u>high and low</u>.",
+    "a": "here and there",
+    "b": "everywhere",
+    "c": "nowhere",
+    "d": "both A and B",
+    "correct": "d"
+  },
+  {
+    "title": "My little house is <u>spick and span</u>",
+    "a": "neat",
+    "b": "clean",
+    "c": "well looked after",
+    "d": "all are correct",
+    "correct": "d"
+  },
+  {
+    "title": "Working irregular hours is all <u>part and parcel</u> of being a journalist.",
+    "a": "integral",
+    "b": "crucial",
+    "c": "essential",
+    "d": "all are correct",
+    "correct": "d"
+  },
+  {
+    "title": "The opposition will be elected into government at the next election, without a ________ of a doubt",
+    "a": "shade",
+    "b": "shadow",
+    "c": "benefit",
+    "d": "hue",
+    "correct": "b"
+  },
+  {
+    "title": "He <u>didn’t hat an eye</u> when he realized he failed the exam again.",
+    "a": "didn’t want to see",
+    "b": "didn’t show surprise",
+    "c": "wasn’t happy",
+    "d": "didn’t care",
+    "correct": "b"
+  },
+  {
+    "title": "They are getting married. They have just ______ the news to their friends.",
+    "a": "told",
+    "b": "informed",
+    "c": "broken",
+    "d": "had",
+    "correct": "c"
+  },
+  {
+    "title": "In the future, the robot will not cost an ______ and a leg.",
+    "a": "arm",
+    "b": "hand",
+    "c": "foot",
+    "d": "nail",
+    "correct": "a"
+   }
+  ]
+  },
+  {
+    "id": 2,
+    "quizzes": [
+      {
+    "title": "I could see the finish line and thought I was <u>home and dry</u>.",
+    "a": "hopeless",
+    "b": "hopeful",
+    "c": "unsuccessful",
+    "d": "successful",
+    "correct": "d"
+  },
+  {
+    "title": "Don't let all this praise go to your _______.",
+    "a": "mind",
+    "b": "brain",
+    "c": "head",
+    "d": "mouth",
+    "correct": "c"
+  },
+  {
+    "title": "He was arrested on the _______ on the way to the airport.",
+    "a": "spot",
+    "b": "sport",
+    "c": "slot",
+    "d": "top",
+    "correct": "b"
+  },
+  {
+    "title": "It never rains but it _____.",
+    "a": "clouds",
+    "b": "pours",
+    "c": "storms",
+    "d": "dries",
+    "correct": "b"
+  },
+  {
+    "title": "She always turned her term paper in at the eleventh _____.",
+    "a": "minute",
+    "b": "second",
+    "c": "hour",
+    "d": "time",
+    "correct": "c"
+  },
+  {
+    "title": "Boss: So, Rita, you left work early yesterday?       Worker: Yeah, and did I ever get in hot water for that!",
+    "a": "be in trouble.",
+    "b": "take a warm bath.",
+    "c": "get so tired",
+    "d": "be sorry",
+    "correct": "a"
+  },
+  {
+    "title": "A: What did you think of Chuck?    B: Oh, we hit it off right away.",
+    "a": "argued as soon as they met.",
+    "b": "quickly became friends.",
+    "c": "didn’t like each other.",
+    "d": "stopped talking soon.",
+    "correct": "b"
+  },
+  {
+    "title": "We don't go there often - just off _______ on.",
+    "a": "or",
+    "b": "and",
+    "c": "but",
+    "d": "then",
+    "correct": "b"
+  },
+  {
+    "title": "I'm worried she may be getting cold ______ about our trip to Patagonia.",
+    "a": "blood",
+    "b": "head",
+    "c": "heart",
+    "d": "feet",
+    "correct": "d"
+  },
+  {
+    "title": "We ______ good time and were at the hotel by lunchtime.",
+    "a": "have",
+    "b": "made",
+    "c": "spent",
+    "d": "took",
+    "correct": "b"
+  },
+  {
+    "title": "If everyone chips _____, we'll be able to buy her a really nice present.",
+    "a": "on",
+    "b": "at",
+    "c": "in",
+    "d": "out",
+    "correct": "c"
+  },
+  {
+    "title": "It’s a ______date. I have never gone out with him before.",
+    "a": "hot",
+    "b": "blind",
+    "c": "secret",
+    "d": "first",
+    "correct": "b"
+  },
+  {
+    "title": "I don’t have anything in common with my brother. We’re like chalk and ______.",
+    "a": "cheese",
+    "b": "butter",
+    "c": "milk",
+    "d": "bread",
+    "correct": "a"
+  },
+  {
+    "title": "If you need me, just call me. I can come at the drop of a ______.",
+    "a": "hat",
+    "b": "bag",
+    "c": "cat",
+    "d": "rag",
+    "correct": "a"
+  },
+  {
+    "title": "They simply didn’t know what they were doing and they were led by the _______ by a manipulative government.",
+    "a": "head",
+    "b": "hand",
+    "c": "leg",
+    "d": "nose",
+    "correct": "d"
+  },
+  {
+    "title": "The old man has been _____ his head for at least a year.",
+    "a": "on",
+    "b": "off",
+    "c": "in",
+    "d": "at",
+    "correct": "b"
+  },
+  {
+    "title": "I’ve got to <u>run an errand</u>. I’ll be back in a minute.",
+    "a": "manage the company",
+    "b": "do the household chores",
+    "c": "work on a night shift",
+    "d": "do the homework",
+    "correct": "b"
+  },
+  {
+    "title": "They ignore people who _________ the traffic lights.",
+    "a": "pass",
+    "b": "jump",
+    "c": "get",
+    "d": "play",
+    "correct": "b"
+  },
+  {
+    "title": "No one will _____ off the handle for no reason.",
+    "a": "fly",
+    "b": "turn",
+    "c": "put",
+    "d": "cut",
+    "correct": "a"
+  },
+  {
+    "title": "Only allowing half an hour to get from the station to the airport is cutting it _____, isn’t it?",
+    "a": "good",
+    "b": "nice",
+    "c": "fine",
+    "d": "well",
+    "correct": "c"
+  },
+  {
+    "title": "The manager got early retirement and a 600,000$ golden _____ when the company was restructed.",
+    "a": "handshake",
+    "b": "ring",
+    "c": "crown",
+    "d": "money",
+    "correct": "a"
+  },
+  {
+    "title": "We’ve known you are a good swimmer – stop <u>putting on an act</u>.",
+    "a": "making believe",
+    "b": "pretending",
+    "c": "lying",
+    "d": "both A and B",
+    "correct": "d"
+  },
+  {
+    "title": "Four soldiers have faced charges since the scandal <u>came to light</u> last fall.",
+    "a": "hiden",
+    "b": "revealed",
+    "c": "believed",
+    "d": "relieved",
+    "correct": "b"
+  },
+  {
+    "title": "I really put my ______ in it when I asked her about her job. I didn’t know she’d just been fired.",
+    "a": "head",
+    "b": "foot",
+    "c": "feet",
+    "d": "minds",
+    "correct": "b"
+  },
+  {
+    "title": "The rest of the team complained that Sarah wasn’t _____ her weight.",
+    "a": "pushing",
+    "b": "pulling",
+    "c": "losing",
+    "d": "gaining",
+    "correct": "b"
+  },
+  {
+    "title": "I have to work at two jobs to make _____ meet.",
+    "a": "end",
+    "b": "ends",
+    "c": "ending",
+    "d": "ended",
+    "correct": "b"
+  },
+  {
+    "title": "I think I must explain to her that she got hold of the wrong _____ of the stick again.",
+    "a": "end",
+    "b": "ends",
+    "c": "ending",
+    "d": "ended",
+    "correct": "a"
+  },
+  {
+    "title": "Although a deal has been agreed, it is not yet ______-and-dried.",
+    "a": "fried",
+    "b": "tried",
+    "c": "cut",
+    "d": "run",
+    "correct": "c"
+  },
+  {
+    "title": "We had better keep on our _____ while we’re walking along the dark portions of this street.",
+    "a": "eyes",
+    "b": "ears",
+    "c": "toes",
+    "d": "faces",
+    "correct": "c"
+  },
+  {
+    "title": "I don’t want to see a movie now, I have _____ mind going to the park.",
+    "a": "on",
+    "b": "in",
+    "c": "at",
+    "d": "of",
+    "correct": "b"
+  },
+  {
+    "title": "It seems that Charles will give it up. I suppose he is a lost ______.",
+    "a": "cause",
+    "b": "reason",
+    "c": "aim",
+    "d": "purpose",
+    "correct": "a"
+  },
+  {
+    "title": "You’re _____ to be late if you don’t hurry.",
+    "a": "bound",
+    "b": "about",
+    "c": "able",
+    "d": "all are correct",
+    "correct": "d"
+  },
+  {
+    "title": "James sometimes seems quite unfriendly but _____ heart he’s a good person.",
+    "a": "at",
+    "b": "by",
+    "c": "in",
+    "d": "on",
+    "correct": "a"
+  },
+  {
+    "title": "woman said that she would know the thief by ______ if she ever saw him again.",
+    "a": "chance",
+    "b": "mistake",
+    "c": "sight",
+    "d": "accident",
+    "correct": "c"
+  },
+  {
+    "title": "She takes _____to do everything well.",
+    "a": "paints",
+    "b": "pains",
+    "c": "rains",
+    "d": "chances",
+    "correct": "b"
+  },
+  {
+    "title": "Mary broke a dining-room window and had to face the _____.",
+    "a": "wall",
+    "b": "music",
+    "c": "stick",
+    "d": "water",
+    "correct": "b"
+  },
+  {
+    "title": "Tommy is the ________ sheep in his family: he is the only member who has not made a success of his life.",
+    "a": "black",
+    "b": "grey",
+    "c": "yellow",
+    "d": "white",
+    "correct": "a"
+  },
+  {
+    "title": "He argued with her until he was _______ in the face.",
+    "a": "black",
+    "b": "grey",
+    "c": "yellow",
+    "d": "blue",
+    "correct": "d"
+  },
+  {
+    "title": "It was a ______-letter day when she finally received her graduation diploma.",
+    "a": "black",
+    "b": "grey",
+    "c": "red",
+    "d": "white",
+    "correct": "c"
+  },
+  {
+    "title": "My sister became ______ as a ghost when she saw the man at the window.",
+    "a": "black",
+    "b": "grey",
+    "c": "yellow",
+    "d": "white",
+    "correct": "d"
+  }
+
+    ]
+  },
+  {
+    "id": 3,
+    "quizzes": [
+      {
+        "title": "She passed her exam with flying ____ and now wants to go out and celebrate.",
+        "a": "colors",
+        "b": "colours",
+        "c": "bays",
+        "d": "objects",
+        "correct": "a"
+      },
+      {
+        "title": "My sister was always the teacher's ____ when she was in the first grade at school.",
+        "a": "pets",
+        "b": "cats",
+        "c": "dogs",
+        "d": "doves",
+        "correct": "a"
+      },
+      {
+        "title": "Drop me a ______ when you get there.",
+        "a": "line",
+        "b": "note",
+        "c": "letter",
+        "d": "both A and B",
+        "correct": "a"
+      },
+      {
+        "title": "This is where I grew up. I know this area like the back of my ______.",
+        "a": "arms",
+        "b": "hand",
+        "c": "legs",
+        "d": "foot",
+        "correct": "b"
+      },
+      {
+        "title": "I'll be back in the twinkling of ____.",
+        "a": "an eye",
+        "b": "a lightning bolt",
+        "c": "a smile",
+        "d": "a laugh",
+        "correct": "a"
+      },
+      {
+        "title": "I'm afraid hip hop isn't my cup of ____.",
+        "a": "tea",
+        "b": "java",
+        "c": "coffee",
+        "d": "wine",
+        "correct": "a"
+      },
+      {
+        "title": "Just a moment. I've got the answer on the ____ of my tongue.",
+        "a": "top",
+        "b": "tap",
+        "c": "tip",
+        "d": "back",
+        "correct": "c"
+      },
+      {
+        "title": "Oh, I'm sorry. I shouldn't have said that. I guess I really put my ____ in my mouth.",
+        "a": "foot",
+        "b": "hand",
+        "c": "elbow",
+        "d": "knee",
+        "correct": "a"
+      },
+      {
+        "title": "Sharon always sticks her __________ into everyone else’s business.",
+        "a": "head",
+        "b": "lips",
+        "c": "nose",
+        "d": "mouth",
+        "correct": "c"
+      },
+      {
+        "title": "In Florida, the temperature drops below freezing only once in a __________ moon.",
+        "a": "green",
+        "b": "purple",
+        "c": "blue",
+        "d": "middle",
+        "correct": "c"
+      },
+      {
+        "title": "Brady’s surprise party is going to be great if you don’t let the _____ out of the bag.",
+        "a": "dog",
+        "b": "mouse",
+        "c": "bat",
+        "d": "cat",
+        "correct": "d"
+      },
+      {
+        "title": "Someone who is inexperienced is ___.",
+        "a": "red",
+        "b": "blue",
+        "c": "black",
+        "d": "green",
+        "correct": "d"
+      },
+      {
+        "title": "The sheep were huddled into a ____ to protect them from overnight frosts.",
+        "a": "cage",
+        "b": "pen",
+        "c": "kennel",
+        "d": "hutch",
+        "correct": "b"
+      },
+      {
+        "title": "My English is progressing______.",
+        "a": "and ends",
+        "b": "leaps and bounds",
+        "c": "bounds and leaps",
+        "d": "ends and odds",
+        "correct": "b"
+      },
+      {
+        "title": "When you do something, you should _________.",
+        "a": "get through to",
+        "b": "turn over a new leaf",
+        "c": "weigh up the pros and cons",
+        "d": "go down well with",
+        "correct": "c"
+      },
+      {
+        "title": "The weather is going to change soon; I feel it in my ______",
+        "a": "body",
+        "b": "legs",
+        "c": "skin",
+        "d": "bones",
+        "correct": "d"
+      },
+      {
+        "title": "As it was very hot in summer, sales of bottles of water went _________ the roof.",
+        "a": "through",
+        "b": "to",
+        "c": "above",
+        "d": "over",
+        "correct": "a"
+      },
+      {
+        "title": "She is the black _______of her family.",
+        "a": "goat",
+        "b": "deer",
+        "c": "sheep",
+        "d": "sleep",
+        "correct": "c"
+      },
+      {
+        "title": "She comes to see me once in a ______moon.",
+        "a": "red",
+        "b": "glouse",
+        "c": "blue",
+        "d": "green",
+        "correct": "c"
+      },
+      {
+        "title": "She is walking on the ______ she doesn’t know how to say.",
+        "a": "air",
+        "b": "road",
+        "c": "street",
+        "d": "garden",
+        "correct": "a"
+      },
+  {
+    "title": "Her husband is a rich and successful businessman, so she eats _____ and dresses ______ Without hard work.",
+    "a": "delicious/nice",
+    "b": "well/beautifully",
+    "c": "good/beautiful",
+    "d": "well/beautiful",
+    "correct": "b"
+  },
+  {
+    "title": "He takes after his father very much. It is like father like ______",
+    "a": "son",
+    "b": "children",
+    "c": "father",
+    "d": "girl",
+    "correct": "a"
+  },
+  {
+    "title": "Enjoy your meal! Home grow, home _____ .",
+    "a": "make",
+    "b": "made",
+    "c": "makes",
+    "d": "making",
+    "correct": "b"
+  },
+  {
+    "title": "I’ve never really enjoyed going to the ballet or the opera; they’re not really my______.",
+    "a": "piece of cake",
+    "b": "sweets and candy",
+    "c": "biscuit",
+    "d": "cup of tea",
+    "correct": "d"
+  },
+  {
+    "title": "He travels___ for 20 years and then he decided to return home.",
+    "a": "father away",
+    "b": "far and wide",
+    "c": "far from it",
+    "d": "farthest of all",
+    "correct": "b"
+  },
+  {
+    "title": "Remember to appreciate what your friends do for you. You shouldn’t take them______________.",
+    "a": "as a rule",
+    "b": "as usual",
+    "c": "out of habit",
+    "d": "for granted",
+    "correct": "d"
+  },
+  {
+    "title": "I know his name, but I can’t recall it at the moment. It’s on the tip of ______.",
+    "a": "tongue",
+    "b": "brain",
+    "c": "mind",
+    "d": "memory",
+    "correct": "a"
+  },
+  {
+    "title": "The sixth time he called me at night was the______.",
+    "a": "last cause",
+    "b": "last straw",
+    "c": "touch and go",
+    "d": "hot air",
+    "correct": "b"
+  },
+  {
+    "title": "Now that they have read it in_______. they believe me.",
+    "a": "red and blue",
+    "b": "blue and red",
+    "c": "white and black",
+    "d": "black and white",
+    "correct": "d"
+  },
+  {
+    "title": "I couldn't believe that they were brothers. They were as different as_______.",
+    "a": "Mars from Jupiter",
+    "b": "chalk from cheese",
+    "c": "salt and sugar",
+    "d": "milk from honey",
+    "correct": "b"
+  },
+  {
+    "title": "It is raining_______.",
+    "a": "cats and mice",
+    "b": "goats and sheep",
+    "c": "horses and goats",
+    "d": "cats and dogs",
+    "correct": "d"
+  },
+  {
+    "title": "They tried <u>in vain</u> to save enough money to buy a house and so finally they rented one.",
+    "a": "without money",
+    "b": "without trial",
+    "c": "without success",
+    "d": "without work",
+    "correct": "c"
+  },
+  {
+    "title": "You shouldn’t worry about the exam because you have prepared well and you will probably find it a <u>piece of cake</u>.",
+    "a": "easy to digest",
+    "b": "easy to read",
+    "c": "easy to start",
+    "d": "very easy",
+    "correct": "d"
+  },
+  {
+    "title": "My son would love to have a Buzz Lightmonth toy for his birthday. Do you have any at your store? - Sorry, madam. They are <u>out of stock</u>.",
+    "a": "bankrupt",
+    "b": "broken",
+    "c": "not available",
+    "d": "stacked",
+    "correct": "c"
+  },
+  {
+    "title": "You certainly couldn’t call him modest because he is always <u>blowing his own trumpet</u>.",
+    "a": "saying how fit he is",
+    "b": "saying how healthy he is",
+    "c": "saying how clever he is",
+    "d": "saying how tall he is",
+    "correct": "c"
+  },
+  {
+    "title": "I invested all my money in that failed company and now I find my whole investment has gone <u>down the drain</u>.",
+    "a": "has been overtaken",
+    "b": "has been confirmed",
+    "c": "has been wasted",
+    "d": "has been confused",
+    "correct": "c"
+  },
+  {
+    "title": "As far as Alex was concerned this was <u>the last straw</u> and he vowed he would never risk money on a horse ever again.",
+    "a": "the final decision",
+    "b": "the final moment",
+    "c": "the final disaster",
+    "d": "the final occasion",
+    "correct": "a"
+  },
+  {
+    "title": "I would advise you to do that as well and in that way you will <u>kill two birds with one stone.</u>",
+    "a": "get things done twice",
+    "b": "get something done two times",
+    "c": "get two things done at the same time",
+    "d": "get two things done twice",
+    "correct": "c"
+  },
+  {
+    "title": "I suppose she was <u>the apple of your eye</u> at the time.",
+    "a": "your favourite fruit",
+    "b": "your favourite meal",
+    "c": "your favourite person",
+    "d": "your favourite book",
+    "correct": "c"
+  },
+  {
+    "title": "Where did you hear about that? - Just word of ____.",
+    "a": "eyes",
+    "b": "nose",
+    "c": "mouth",
+    "d": "ears",
+    "correct": "c"
+  }
+
+
+    ]
+  },
+  {
+    "id": 4,
+    "quizzes": [
+      {
+        "title": "What's wrong? - I'm a bit _____ the weather.",
+        "a": "in",
+        "b": "under",
+        "c": "at",
+        "d": "off",
+        "correct": "b"
+      },
+  {
+    "title": "You've been rude to me all day, and I've had it. That's the last _____________!",
+    "a": "moment",
+    "b": "second",
+    "c": "minute",
+    "d": "straw",
+    "correct": "d"
+  },
+  {
+    "title": "Let's all be very careful what we say at the meeting tomorrow. I don't want anyone putting their ___________ in their mouth.",
+    "a": "arm",
+    "b": "hand",
+    "c": "Fingure",
+    "d": "foot",
+    "correct": "d"
+  },
+  {
+    "title": "I wanted to ask her what she thought of her ex-husband, but I figured it was better to let sleeping _____________ lie.",
+    "a": "cat",
+    "b": "dog",
+    "c": "fish",
+    "d": "cow",
+    "correct": "b"
+  },
+  {
+    "title": "Her husband is awful; they fight all the time but I think it takes _____________ to tango.",
+    "a": "one",
+    "b": "two",
+    "c": "three",
+    "d": "four",
+    "correct": "b"
+  },
+  {
+    "title": "I have decided that this summer I am going to learn how to scuba dive. -- Me too! I have already paid for the course. Great minds ______________ alike!",
+    "a": "think",
+    "b": "hear",
+    "c": "listen",
+    "d": "tell",
+    "correct": "a"
+  },
+  {
+    "title": "When my girl friend and my brother got in a fight I had to help my brother because blood is _____________ than water.",
+    "a": "thinner",
+    "b": "thicker",
+    "c": "better",
+    "d": "more",
+    "correct": "b"
+  },
+  {
+    "title": "Whenever that professor says something I don't like, I have to bite my ________________.",
+    "a": "tougue",
+    "b": "mouth",
+    "c": "lips",
+    "d": "eyes",
+    "correct": "a"
+  },
+  {
+    "title": "Sorry I was late for the meeting today; I got stuck in traffic. -- That's okay; better late than ____________.",
+    "a": "never",
+    "b": "no",
+    "c": "not",
+    "d": "none",
+    "correct": "a"
+  },
+  {
+    "title": "Don't tell me how to do this; show me because Actions speak louder than ____________.",
+    "a": "words",
+    "b": "speech",
+    "c": "work",
+    "d": "jobs",
+    "correct": "a"
+  },
+  {
+    "title": "I'd like to do something to change the world but whatever I do seems like a drop in the _____________.",
+    "a": "bucket",
+    "b": "garbage",
+    "c": "rubbish",
+    "d": "river",
+    "correct": "a"
+  },
+  {
+    "title": "I think the time has now come when we'll simply have to <u>call it a day</u>.",
+    "a": "stop trying",
+    "b": "stop thinking",
+    "c": "stop working",
+    "d": "stop going",
+    "correct": "b"
+  },
+  {
+    "title": "All right then if you like <u>I'll put my cards on the table</u>.",
+    "a": "I'll tell you a story",
+    "b": "I'll tell you what to do",
+    "c": "I'll tell you something",
+    "d": "I'll tell you my honest opinion",
+    "correct": "d"
+  },
+  {
+    "title": "Well in the first place all the windows are broken, which is <u> a real pain in the neck</u>.",
+    "a": "a bad ache",
+    "b": "a serious ache",
+    "c": "a serious problem",
+    "d": "a bad shock",
+    "correct": "c"
+  },
+  {
+    "title": "Yes, I agree but at the same time it's not <u>the end of the world</u>.",
+    "a": "worth worrying about",
+    "b": "worth talking about",
+    "c": "worth looking at",
+    "d": "worth speaking about",
+    "correct": "a"
+  },
+  {
+    "title": "I prefer to talk to people <u>face to face</u> rather than to talk on the phone.",
+    "a": "in person",
+    "b": "facing them",
+    "c": "looking at them",
+    "d": "seeing them",
+    "correct": "a"
+  },
+  {
+    "title": "He does not really go around with many People because-he's a bit of a <u>lone wolf</u>.",
+    "a": "single person",
+    "b": "lonely person",
+    "c": "unhappy person",
+    "d": "simple person",
+    "correct": "b"
+  },
+  {
+    "title": "He is <u>like a fish out of water</u> whenever he goes to the party.",
+    "a": "feels uncomfortable",
+    "b": "feels dry",
+    "c": "feels thirsty",
+    "d": "feels silly",
+    "correct": "d"
+  },
+  {
+    "title": "No one mentions him because he is regarded as the <u>black sheep of the family</u>.",
+    "a": "the one with the sense of humor",
+    "b": "the one with a bad reputation",
+    "c": "the one who is always late",
+    "d": "the one who never washes",
+    "correct": "b"
+  },
+  {
+    "title": "I wouldn’t say I never see <u>eye to eye</u> with my employers but sometimes they can make extraordinary demands.",
+    "a": "totally side",
+    "b": "totally work",
+    "c": "totally agree",
+    "d": "totally disagree",
+    "correct": "c"
+  },
+  {
+    "title": "It was a serious operation but he made a complete recovery and was soon <u>as fit as a fiddle</u>.",
+    "a": "in careful health",
+    "b": "in easy health",
+    "c": "in quiet health",
+    "d": "in good health",
+    "correct": "d"
+  },
+  {
+    "title": "Since she won the lottery last week she has been feeling <u>on the top of the world</u>.",
+    "a": "very proud",
+    "b": "very happy",
+    "c": "very excited",
+    "d": "very wealthy",
+    "correct": "b"
+  },
+  {
+    "title": "Chales is having a lot of problems with his business but at least he is <u>keeping his head above the water</u>.",
+    "a": "not downing",
+    "b": "keeping dry",
+    "c": "managing to survive",
+    "d": "trying to swim",
+    "correct": "c"
+  },
+  {
+    "title": "In the end she lost her temper and told her daughter to <u>hold her tongue</u>.",
+    "a": "stand still",
+    "b": "speak up",
+    "c": "start speaking",
+    "d": "be quiet",
+    "correct": "d"
+  },
+  {
+    "title": "Jack has egg ______ because he couldn't remember how to spell 'Batman'!",
+    "a": "on his teeth",
+    "b": "on his face",
+    "c": "on his shirt",
+    "d": "on his fingers",
+    "correct": "b"
+  },
+  {
+    "title": "He seems like a good ______ I'll take a chance on him.",
+    "a": "yolk",
+    "b": "leave",
+    "c": "egg",
+    "d": "ink",
+    "correct": "c"
+  },
+  {
+    "title": "As the maestro lifted his baton the theater was so still you could hear _____.",
+    "a": "his heartbeat",
+    "b": "a pin drop",
+    "c": "bird wings",
+    "d": "the drum beating",
+    "correct": "b"
+  },
+  {
+    "title": "I think I understand the nuts and _____ of the operation.",
+    "a": "screws",
+    "b": "hammer",
+    "c": "nails",
+    "d": "bolts",
+    "correct": "d"
+  },
+  {
+    "title": "He likes being a big ______ in a small pond.",
+    "a": "cat",
+    "b": "snail",
+    "c": "shark",
+    "d": "fish",
+    "correct": "d"
+  },
+  {
+    "title": "Honesty and patience are part and _____ in this job.",
+    "a": "smart",
+    "b": "card",
+    "c": "parcel",
+    "d": "hard",
+    "correct": "c"
+  },
+  {
+    "title": "While Anne was _____ probation, she reported to the police regularly.",
+    "a": "on",
+    "b": "in",
+    "c": "at",
+    "d": "off",
+    "correct": "a"
+  },
+  {
+    "title": "The company can’t expect me to move my home and family at the drop of ______.",
+    "a": "blood",
+    "b": "a water",
+    "c": "rain",
+    "d": "at hat",
+    "correct": "d"
+  },
+  {
+      "title": "He longs ___________ to see his family again.",
+      "a": "above all",
+      "b": "all of a sudden",
+      "c": "as a rule",
+      "d": "all at once",
+      "correct": "a"
+    },
+    {
+      "title": "What’s wrong with you today? Did you get out of bed on the wrong ________?",
+      "a": "edge",
+      "b": "foot",
+      "c": "side",
+      "d": "end",
+      "correct": "c"
+    },
+    {
+      "title": "The issue is still ___________ discussion?",
+      "a": "in",
+      "b": "on",
+      "c": "under",
+      "d": "for",
+      "correct": "c"
+    },
+    {
+      "title": "I applied for the job ___________ on the off chance, but I did not seriously expect to get it.",
+      "a": "with",
+      "b": "on",
+      "c": "by",
+      "d": "for",
+      "correct": "b"
+    },
+    {
+      "title": "After their argument, John didn’t know if Rick was a friend or a ___________",
+      "a": "friend",
+      "b": "rival",
+      "c": "blood",
+      "d": "foe",
+      "correct": "d"
+    },
+    {
+      "title": "We’re ___________ if we continue with genetic modification of our food.",
+      "a": "playing out of our skin",
+      "b": "playing with fire",
+      "c": "playing over",
+      "d": "adding fuel to the fire",
+      "correct": "b"
+    },
+    {
+      "title": "Sitting uncomfortably among many people he didn’t know, Joe was like___________.",
+      "a": "water off a duck’s back",
+      "b": "a fish out of water",
+      "c": "a duck to water",
+      "d": "water under the bridge",
+      "correct": "b"
+    },
+    {
+      "title": "They agreed to the changes ___________ that they would be introduced gradually.",
+      "a": "with the conditions",
+      "b": "by the comprehension",
+      "c": "for the interpretation",
+      "d": "on the understanding",
+      "correct": "d"
+    }
+]
+
+  },
+  {
+    "id": 5,
+    "quizzes": [
+      {
+    "title": "My new colleague is quite a rough ______ but I think we can cooperate well on our assigned projects.",
+    "a": "stone",
+    "b": "rock",
+    "c": "diamond",
+    "d": "ruby",
+    "correct": "c"
+  },
+  {
+    "title": "You would understand my feelings of betrayal if you were in my ______.",
+    "a": "shoes",
+    "b": "shirt",
+    "c": "socks",
+    "d": "pants",
+    "correct": "a"
+  },
+  {
+    "title": "He is not the type who can stay in one place for long. He always gets ______ feet and starts a new journey again.",
+    "a": "chilly",
+    "b": "itchy",
+    "c": "painful",
+    "d": "shaky",
+    "correct": "b"
+  },
+  {
+    "title": "It is pointless to persuade him - a ______ can't change its spots.",
+    "a": "tiger",
+    "b": "lion",
+    "c": "leopard",
+    "d": "wolf",
+    "correct": "c"
+  },
+  {
+    "title": "I haven’t seen my old primary teacher in ______ years – I wonder how she has been.",
+    "a": "donkey’s",
+    "b": "monkey’s",
+    "c": "rooster’s",
+    "d": "pigeon’s",
+    "correct": "a"
+  },
+  {
+    "title": "Just grab a green tea biscuit. It is ______.",
+    "a": "on the house",
+    "b": "on the shelf",
+    "c": "off the record",
+    "d": "in public",
+    "correct": "a"
+  },
+  {
+    "title": "I caught the last train to my hometown by the skin of my ______.",
+    "a": "arms",
+    "b": "neck",
+    "c": "nose",
+    "d": "teeth",
+    "correct": "d"
+  },
+  {
+    "title": "All of these assignments have tired me out; let's ______ and grab some cold drinks.",
+    "a": "make up our mind",
+    "b": "call it a day",
+    "c": "get back to the drawing board",
+    "d": "burn the midnight oil",
+    "correct": "b"
+  },
+  {
+    "title": "The situations have been bad lately, Peter, but keep your ______ up; things will soon clear up.",
+    "a": "chin",
+    "b": "head",
+    "c": "nose",
+    "d": "mind",
+    "correct": "a"
+  },
+  {
+    "title": "Those lipsticks are selling like ______ since many fans want the products that their idols endorse.",
+    "a": "burning pancakes",
+    "b": "fresh shrimp",
+    "c": "hot cakes",
+    "d": "morning coffee",
+    "correct": "c"
+  },
+  {
+    "title": "She hasn’t been in a traffic accident yet but she’s had a number of ______ shaves.",
+    "a": "narrow",
+    "b": "small",
+    "c": "close",
+    "d": "low",
+    "correct": "c"
+  },
+  {
+    "title": "My brother can’t keep his hands off the broom. He always thinks his room is unclean – he really has ______ in his bonnet about it.",
+    "a": "a butterfly",
+    "b": "a bee",
+    "c": "a fly",
+    "d": "an ant",
+    "correct": "c"
+  },
+  {
+    "title": "My father has a quick temper and easily ______ off the handle.",
+    "a": "walks",
+    "b": "rockets",
+    "c": "runs",
+    "d": "flies",
+    "correct": "b"
+  },
+  {
+    "title": "I was about to go to the concerts in Seoul all by myself, but at the last minute I ______and decided to stay home.",
+    "a": "pulled my finger out",
+    "b": "got cold feet",
+    "c": "hit the roof",
+    "d": "paid through the nose",
+    "correct": "b"
+  },
+  {
+    "title": "Since he started his own business he has been making money hand over ______.",
+    "a": "fist",
+    "b": "heel",
+    "c": "arm",
+    "d": "leg",
+    "correct": "a"
+  },
+  {
+    "title": "My English is progressing by ______.",
+    "a": "odds and ends",
+    "b": "ends and odds",
+    "c": "leaps and bounds",
+    "d": "bounds and leaps",
+    "correct": "c"
+  },
+  {
+    "title": "Please don’t______ it amiss if I make a few suggestions for improvement.",
+    "a": "assume",
+    "b": "judge",
+    "c": "think",
+    "d": "take",
+    "correct": "d"
+  },
+  {
+    "title": "For the first time, the young scientist was given the award ______ for her work with animals.",
+    "a": "on recognition for",
+    "b": "in recognition with",
+    "c": "in recognition for",
+    "d": "in recognition of",
+    "correct": "d"
+  },
+  {
+    "title": "His flat looks so ______ that it is difficult to believe he just had a party last night.",
+    "a": "safe and sound",
+    "b": "sick and tired",
+    "c": "spick and span",
+    "d": "by and large",
+    "correct": "c"
+  },
+  {
+    "title": "I’m not surprised that Tom is ill. He’s been _____ for a long time. It was bound to affect his health sooner or later.",
+    "a": "having his cake and eating it",
+    "b": "burning the candle at both ends",
+    "c": "playing with fire",
+    "d": "going to town",
+    "correct": "b"
+  },
+  {
+    "title": "Just ______, Bill! Let’s think about this for a moment before making up your mind.",
+    "a": "pulled your finger out",
+    "b": "got cold feet",
+    "c": "held your horses",
+    "d": "called it a day",
+    "correct": "c"
+  },
+  {
+    "title": "I didn’t suspect anything at first, but when I noticed her going through the office drawers I began to smell a ______.",
+    "a": "rat",
+    "b": "pig",
+    "c": "thief",
+    "d": "culprit",
+    "correct": "a"
+  },
+  {
+    "title": "When Sarah walked into the room and greeted everyone with a cheery ‘’hello’’, it seemed as if all the gloom in that place was______.",
+    "a": "vanished",
+    "b": "ejected",
+    "c": "driven out",
+    "d": "expelled",
+    "correct": "c"
+  },
+  {
+    "title": "Before she left for Australia she promised her parents that she would drop them______ at least once a month.",
+    "a": "a note",
+    "b": "a word",
+    "c": "the news",
+    "d": "a line",
+    "correct": "a"
+  },
+  {
+    "title": "“What I’ve got to say to you now is strictly______ and most certainly not for publication,” said the government official to the reporter.",
+    "a": "beside the point",
+    "b": "for the time being",
+    "c": "by the way",
+    "d": "off the record",
+    "correct": "d"
+  },
+  {
+    "title": "The President visited the area to see the devastation ______.",
+    "a": "on first hand",
+    "b": "at first hand",
+    "c": "on first hands",
+    "d": "at first hands",
+    "correct": "b"
+  },
+  {
+    "title": "A good stereo system doesn't have to cost ______ and ______. You can find one for a reasonable price.",
+    "a": "an arm - a leg",
+    "b": "a hand - a leg",
+    "c": "a finger - a toe",
+    "d": "a hand - a foot",
+    "correct": "a"
+  },
+  {
+    "title": "Without written evidence, we don't have a ______ on.",
+    "a": "leg to stand",
+    "b": "foot to stand",
+    "c": "leg to lean",
+    "d": "foot to lean",
+    "correct": "a"
+  },
+  {
+    "title": "Living by the ocean really ______ your ______. Once you've lived there, you never want to leave.",
+    "a": "came in - heart",
+    "b": "get in - blood",
+    "c": "get in - heart",
+    "d": "came in - blood",
+    "correct": "b"
+  },
+  {
+    "title": "______, Carlos is very punctual, but he was late tonight.",
+    "a": "For a rule",
+    "b": "Like a rule",
+    "c": "As a rule",
+    "d": "For a rule of thump",
+    "correct": "c"
+  },
+  {
+    "title": "Their team won the game, but they ______ dominated it. It was a very close game.",
+    "a": "at no means",
+    "b": "by not means",
+    "c": "not with any means",
+    "d": "by no means",
+    "correct": "d"
+  },
+  {
+    "title": "I was taking a quiet walk last night when, ______, there was a loud explosion.",
+    "a": "all in all",
+    "b": "all at once",
+    "c": "suddenly at once",
+    "d": "once at all",
+    "correct": "b"
+  },
+  {
+    "title": "We'll start very soon. Roll up your ______.",
+    "a": "sleeves",
+    "b": "hands",
+    "c": "pants",
+    "d": "shirt",
+    "correct": "a"
+  },
+  {
+    "title": "Prevention is better than ______.",
+    "a": "treatment",
+    "b": "pills",
+    "c": "cure",
+    "d": "doctors",
+    "correct": "c"
+  },
+  {
+    "title": "Everything could be done by ______.",
+    "a": "a nod and bow",
+    "b": "a nod and wink",
+    "c": "a wink and a nod",
+    "d": "a nod and a wink",
+    "correct": "d"
+  },
+  {
+    "title": "These workers are at the ______ of the economic ______.",
+    "a": "line - heap",
+    "b": "heap - bottom",
+    "c": "bottom - heap",
+    "d": "heap - line",
+    "correct": "c"
+  },
+  {
+    "title": "Tickets are available on a first-come, ______ basis.",
+    "a": "first got",
+    "b": "early served",
+    "c": "first-served",
+    "d": "early got",
+    "correct": "c"
+  },
+  {
+    "title": "It does my ______ to see the old place being taken care of so well.",
+    "a": "heart well",
+    "b": "heart good",
+    "c": "head well",
+    "d": "head good",
+    "correct": "b"
+  },
+  {
+    "title": "Just take one job and do your best. Don't be a jack ______.",
+    "a": "for all trades",
+    "b": "of all tracks",
+    "c": "of all trades",
+    "d": "for all jobs",
+    "correct": "c"
+  },
+  {
+    "title": "I don't have much cash ______, but I can get some from an automatic teller machine.",
+    "a": "in hand",
+    "b": "on hand",
+    "c": "into hand",
+    "d": "underhand",
+    "correct": "b"
+  }
+
+    ]
+  },
+  {
+    "id": 6,
+    "quizzes": [
+  {
+    "title": "I like that painting you bought. Did it cost much?",
+    "a": "close to nothing",
+    "b": "next to anything",
+    "c": "next to nothing",
+    "d": "anything next",
+    "correct": "c"
+  },
+  {
+    "title": "\"When will you be informed of the test results?\" \"Not until Monday, so I'll be______ all weekend.\"",
+    "a": "at needles and pins",
+    "b": "on pins and needles",
+    "c": "on needles and pins",
+    "d": "at pins and needles",
+    "correct": "b"
+  },
+  {
+    "title": "\"What's Peter's cousin's name?\" \"It's on the tip of my ______, but I can't quite remember.\"",
+    "a": "mouth",
+    "b": "lips",
+    "c": "tongue",
+    "d": "memory",
+    "correct": "c"
+  },
+  {
+    "title": "What a confusing story! I can't make ______ of it.",
+    "a": "sense",
+    "b": "meaning",
+    "c": "logic",
+    "d": "understanding",
+    "correct": "a"
+  },
+  {
+    "title": "Many rare and precious species are now ______ on the verge of extinction.",
+    "a": "in",
+    "b": "on",
+    "c": "from",
+    "d": "by",
+    "correct": "b"
+  },
+  {
+    "title": "The overall aim of the book is to help <u>bridge the gap</u> between theory and practice, particularly in language teaching.",
+    "a": "minimize the limitations",
+    "b": "construct a bridge",
+    "c": "reduce the differences",
+    "d": "increase the understanding",
+    "correct": "c"
+  },
+  {
+    "title": "I don’t like a few things about my job, but______ it is quite enjoyable.",
+    "a": "by and large",
+    "b": "by mistake",
+    "c": "sooner or later",
+    "d": "what is more",
+    "correct": "a"
+  },
+  {
+    "title": "It is______ for us to do anything about the chaotic traffic.",
+    "a": "out of date",
+    "b": "without delay",
+    "c": "out of the question",
+    "d": "out of order",
+    "correct": "c"
+  },
+  {
+    "title": "I just couldn’t remember her name even though it was on the______ of my tongue.",
+    "a": "edge",
+    "b": "tip",
+    "c": "top",
+    "d": "front",
+    "correct": "b"
+  },
+  {
+    "title": "When you do something, you should______.",
+    "a": "get through to it",
+    "b": "turn over a new leaf",
+    "c": "weigh up the pros and cons",
+    "d": "go down well with",
+    "correct": "c"
+  },
+  {
+    "title": "I realized______ that he was a thief.",
+    "a": "sooner or later",
+    "b": "all along",
+    "c": "at the beginning",
+    "d": "eventually",
+    "correct": "b"
+  },
+  {
+    "title": "Even if you are rich, you should save some money for a ______ day.",
+    "a": "windy",
+    "b": "stormy",
+    "c": "rainy",
+    "d": "cloudy",
+    "correct": "c"
+  },
+  {
+    "title": "I do wish you’d stop biting your nails, John. It really______.",
+    "a": "lets me down",
+    "b": "tells me off",
+    "c": "gets me down",
+    "d": "gets on my nerves",
+    "correct": "d"
+  },
+  {
+    "title": "My father ______when he found out that I’d damaged the car.",
+    "a": "hit the roof",
+    "b": "saw pink elephants",
+    "c": "made my blood boil",
+    "d": "brought the house down",
+    "correct": "a"
+  },
+  {
+    "title": "I really must go and lie down for a while; I’ve gone a ______ headache.",
+    "a": "cutting",
+    "b": "cracking",
+    "c": "exploding",
+    "d": "splitting",
+    "correct": "d"
+  },
+  {
+    "title": "Stop______ about the bush, John! Just tell me exactly what the problem is.",
+    "a": "beating",
+    "b": "rushing",
+    "c": "hiding",
+    "d": "coming",
+    "correct": "a"
+  },
+  {
+    "title": "We spent the entire day looking for a new apartment. The phrase “the entire day” is closest in meaning to ______.",
+    "a": "all day long",
+    "b": "the long day",
+    "c": "all long day",
+    "d": "day after day",
+    "correct": "a"
+  },
+  {
+    "title": "I was already fed up with the job, but when the boss walked into my office and told me he expected me to work overtime that was the______.",
+    "a": "final curtain",
+    "b": "last straw",
+    "c": "end of the line",
+    "d": "last waltz",
+    "correct": "b"
+  },
+  {
+    "title": "Li has______; he loves cakes, chocolates, ice-cream-anything which is sweet.",
+    "a": "a sweet mouth",
+    "b": "sweet lips",
+    "c": "a sweet tongue",
+    "d": "a sweet tooth",
+    "correct": "d"
+  },
+  {
+    "title": "I accidentally______ Mike when I was crossing a street downtown yesterday.",
+    "a": "kept an eye on",
+    "b": "lost touch with",
+    "c": "paid attention to",
+    "d": "caught sight of",
+    "correct": "d"
+  },
+  {
+    "title": "If you want a flat in the center of the city you have to pay through the______ for it.",
+    "a": "teeth",
+    "b": "back of your head",
+    "c": "nose",
+    "d": "arm",
+    "correct": "c"
+  },
+  {
+    "title": "Those smartphones are selling like_____. If you want one, you’d better buy one now before they’re all gone.",
+    "a": "shooting stars",
+    "b": "fresh bread",
+    "c": "hot cakes",
+    "d": "wild oats",
+    "correct": "c"
+  },
+  {
+    "title": "She was so frightened that she was shaking like ______.",
+    "a": "a leaf",
+    "b": "the wind",
+    "c": "a flag",
+    "d": "jelly",
+    "correct": "a"
+  },
+  {
+    "title": "Peter was born and brought up in Hastings and knows it like the _____.",
+    "a": "nose on his face",
+    "b": "tip of the tongue",
+    "c": "back of his hand",
+    "d": "hair on his head",
+    "correct": "c"
+  },
+  {
+    "title": "What’s wrong with you today? Did you get out of bed on the wrong ______?",
+    "a": "end",
+    "b": "foot",
+    "c": "side",
+    "d": "edge",
+    "correct": "c"
+  },
+  {
+    "title": "“What’s wrong with Tom today? He’s unusually quiet,” “He’s got something on his ______. I expect”.",
+    "a": "brain",
+    "b": "mind",
+    "c": "thoughts",
+    "d": "brow",
+    "correct": "b"
+  },
+  {
+    "title": "He was wearing very shabby, dirty clothes and looked very______.",
+    "a": "easy-going",
+    "b": "down to earth",
+    "c": "out of shape",
+    "d": "down at heel",
+    "correct": "d"
+  },
+  {
+    "title": "Since he started his own business he has been making money hand over______.",
+    "a": "fist",
+    "b": "heel",
+    "c": "head",
+    "d": "palm",
+    "correct": "a"
+  },
+  {
+    "title": "I can’t see us beating them at tennis this year- we’re so out of______.",
+    "a": "step",
+    "b": "practice",
+    "c": "fitness",
+    "d": "breath",
+    "correct": "b"
+  },
+  {
+    "title": "It finally _________ home to me that it was time to buy a place of my own.",
+    "a": "arrived",
+    "b": "came",
+    "c": "hit",
+    "d": "reached",
+    "correct": "b"
+  },
+  {
+    "title": "Don’t try to bite off more than you can ______ I am afraid you are not so talented.",
+    "a": "take",
+    "b": "swallow",
+    "c": "hold",
+    "d": "chew",
+    "correct": "d"
+  },
+  {
+    "title": "I am trying to ________ for the sundial in the back garden.",
+    "a": "make allowance for",
+    "b": "make up",
+    "c": "put up",
+    "d": "make room",
+    "correct": "d"
+  },
+  {
+    "title": "Christy’s father could not afford to send him to school because he was_________.",
+    "a": "in high spirit",
+    "b": "at loss",
+    "c": "on approval",
+    "d": "in debt",
+    "correct": "d"
+  },
+  {
+    "title": "The worried man walked _______ in the corridor waiting for the announcement.",
+    "a": "back and fro",
+    "b": "to and forth",
+    "c": "to and fro",
+    "d": "to and back",
+    "correct": "c"
+  },
+  {
+    "title": "_________ wait for no man.",
+    "a": "Tide and fire",
+    "b": "Time and tide",
+    "c": "Time and fire",
+    "d": "Tide and time",
+    "correct": "b"
+  },
+  {
+    "title": "Peter was born and brought up in Hasting and he knows it like the ___________.",
+    "a": "nose on his face",
+    "b": "tip of his tongue",
+    "c": "back of his hand",
+    "d": "hair on his head",
+    "correct": "c"
+  },
+  {
+    "title": "Do I have to _____________ my age?",
+    "a": "do",
+    "b": "follow",
+    "c": "act",
+    "d": "see",
+    "correct": "c"
+  },
+  {
+    "title": "A journalist is ______ on a politician in order to damage the politician’s image.",
+    "a": "digging his own grave",
+    "b": "digging up dirt",
+    "c": "digging up out of the earth",
+    "d": "digging it out",
+    "correct": "b"
+  },
+  {
+    "title": "Nothing __________ the ordinary ever happens here.",
+    "a": "out of",
+    "b": "within",
+    "c": "from",
+    "d": "about",
+    "correct": "a"
+  },
+  {
+    "title": "An accident of this magnitude could easily bring the factory’s production to a ___________.",
+    "a": "halt",
+    "b": "quit",
+    "c": "stay",
+    "d": "block",
+    "correct": "a"
+  }
+]
+
+  }
+]

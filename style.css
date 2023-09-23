@@ -51,6 +51,10 @@ h3{
   color: white;
 }
 
+.navbar-custom{
+  background: #90c95a !important;
+}
+
 .nav-custom h1{
   font-size: 22px;
 }
@@ -60,12 +64,33 @@ h3{
   border-radius: 5px;
   display: flex;
   justify-content: center;
-  padding: 20px 10px;
+  padding: 20px 10px 22px;
   text-align: center;
   height: 90%;
   width: 100%;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+
+.topic p{
+  margin: 0;
+}
+
+.topic-custom{
+  border: 2px solid #e8e8e8;
+  border-radius: 5px;
+  display: flex;
+  height: 90%;
+  width: 100%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 10px;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.topic-custom p{
+  margin: 0;
+}
+
 
 #groups_general a{
   text-decoration: none;
@@ -147,4 +172,219 @@ h3{
 
 .back-button{
   margin-bottom: 20px;
+}
+
+.content{
+  margin-top: 50px;
+}
+
+.nav-item a.nav-link.active{
+  color: white !important;
+  font-weight: 400;
+}
+
+.nav-item a.nav-link{
+  color: black !important;
+  font-weight: 400;
+}
+
+.nav-item i{
+  margin-right: 3px;
+}
+
+.writing a{
+  color: black;
+  text-decoration: none;
+}
+
+#exercises a{
+  color: black;
+  text-decoration: none;
+}
+
+.btn-choice{
+  width: 100%;
+  background: white;
+  border: 1px solid #c9c3c3;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 5px 10px;
+}
+
+.checked.btn-choice{
+  border: 2px solid black;
+}
+
+.mark-quiz{
+  font-size: 25px;
+}
+
+.btn-corect{
+  background: #e4ffdf;
+}
+
+
+.btn-incorect{
+  background: #ffe0e1;
+}
+
+.quiz-data{
+  margin-bottom: 20px;
+}
+
+.mr-10{
+  margin-right: 10px;
+}
+.underline{
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+u{
+  font-weight: 600;
+}
+
+.content-ex input{
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  padding-left: 10px;
+  width: 150px;
+  outline: 0;
+  text-align: center;
+}
+
+.box-quiz input{
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  padding-left: 10px;
+  width: 200px;
+  outline: 0;
+  text-align: center;
+}
+
+.mgb-1{
+  margin-bottom: 10px
+}
+
+.ex-correct{
+  color: green;
+  border-bottom: 2px solid green;
+}
+
+.ex-incorrect{
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+audio{
+  width: 100%;
+}
+
+#your-essay{
+  width: 100%;
+  padding: 10px;
+}
+
+.box-quiz{
+  margin-bottom: 70px;
+}
+
+.box-speaking{
+  border: 2px solid #e8e8e8;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.box-speaking textarea{
+  width: 100%;
+  padding: 10px;
+}
+
+.sentence-content{
+  margin-top: 20px;
+}
+
+.box-sentence{
+  padding: 20px;
+  border: 1px solid #e8e8e8;
+  border-left: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-bottom: 20px;
+}
+
+.sentence-content textarea{
+  border: 1px solid #e8e8e8;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sentence-content textarea:focus{
+  border: 1px solid #e8e8e8;
+  outline: 0;
+}
+
+.sentence-content textarea.se-incorrect{
+  background: #ffe0e1;
+}
+
+.sentence-content textarea.se-correct{
+  background: #e4ffdf;
+}
+
+.topic.done::after{
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  content: "";
+  background-image: url('./images/done.png');
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 999;
+  display: inline-block;
+}
+
+.topic.done{
+  position: relative;
+}
+
+
+.topic-custom.done::after{
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  content: "";
+  background-image: url('./images/done.png');
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 999;
+  display: inline-block;
+}
+
+.topic-custom.done{
+  position: relative;
+}
+
+.exercise.done::after{
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  content: "";
+  background-image: url('./images/done.png');
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 999;
+  display: inline-block;
+}
+
+.exercise.done{
+  position: relative;
 }

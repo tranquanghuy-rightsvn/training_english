@@ -9,12 +9,18 @@ $(document).ready(function() {
         html += "<span class='badge bg-custom'>" + item + " </span>"
       });
 
-      $('#topics').append("<div class='col-sm-12 col-md-6'><a href='./exercise.html?id=" + exercise.id + "' ><div class='exercise'>" + html + "</div></a></div>" )
+      let is_done = localStorage.getItem("quiz" + "-done-" + exercise.id);
+
+      if(is_done == 'true'){
+        $('#topics').append("<div class='col-sm-12 col-md-6'><a href='./exercise.html?id=" + exercise.id + "' ><div class='exercise done'>" + html + "</div></a></div>")
+      }else{
+        $('#topics').append("<div class='col-sm-12 col-md-6'><a href='./exercise.html?id=" + exercise.id + "' ><div class='exercise'>" + html + "</div></a></div>")
+      }
     })
   })
   .fail(function() { window.location.href = "/"; });
 
-  const general_topics = ['all_adjective', 'arts_entertainment_literature', 'basic_science_academia', 'crime_the_law', 'feeling_qualities_states', 'food_eating', 'heal_the_body', 'lots_of_nouns', 'money_work', 'nouns_verbs_both', 'phrasal_verbs', 'structures_places_objects', 'the_natural_wolrd', 'the_political_world', 'the_social_world', 'transitions', 'verbs_verbs_and_verbs', 'war_violence_conflict']
+  const general_topics = ['all_adjective', 'arts_entertainment_literature', 'basic_science_academia', 'crime_the_law', 'feeling_qualities_states', 'food_eating', 'heal_the_body', 'lots_of_nouns', 'money_work', 'nouns_verbs_both', , 'structures_places_objects', 'the_natural_wolrd', 'the_political_world', 'the_social_world', 'transitions', 'verbs_verbs_and_verbs', 'war_violence_conflict']
 
   if(general_topics.includes(get_params()['topic'])){
     $('#back_to_category').attr("href", "./general_vocabulary.html")
