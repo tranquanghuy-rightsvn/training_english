@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "url": "11La7R5B-cYduStTbbDnEHnFpSemRb5nL",
+    "title": "How do elite performers automate their habits? ",
+    "content": "asdf",
+    "quizzes" : [
+      {
+        "title": "What is the speaker's opinion on the difference between habits and skills?",
+        "a": "The speaker believes that habits and skills are fundamentally different.",
+        "b": "The speaker believes that habits and skills are similar.",
+        "c": "The speaker does not provide a clear opinion on this issue.",
+        "correct": "b"
+      },
+      {
+        "title": "How does the process of automating a skill work?",
+        "a": "It involves learning new techniques and strategies.",
+        "b": "It involves making conscious decisions and using willpower.",
+        "c": "It involves repeating the skill until it becomes automatic.",
+        "correct": "c"
+      },
+      {
+        "title": "How does the speaker feel about the importance of conscious thought when performing a skill?",
+        "a": "The speaker does not provide a clear opinion on this issue.",
+        "b": "The speaker believes that conscious thought becomes less important over time.",
+        "c": "The speaker believes that conscious thought is always important.",
+        "correct": "b"
+      },
+      {
+        "title": "How do professional cellists ensure a seamless performance?",
+        "a": "By setting cues throughout the piece.",
+        "b": "By memorizing the entire piece of music.",
+        "c": "By improvising during the performance.",
+        "correct": "a"
+      },
+      {
+        "title": "What does the speaker mean by \"innate skills\"?",
+        "a": "Skills that are learned through practice.",
+        "b": "Skills that are present from birth.",
+        "c": "Skills that are specific to a certain domain.",
+        "correct": "b"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "url": "1688zY2jB5CNk8b92igOF_6Nv9jFFS4j7",
+    "title": "Economist explains the two futures of crypto",
+    "quizzes": [
+      {
+        "title": "What is one of the unique features of cryptocurrency mentioned in the passage",
+        "a": "It can easily be regulated by a central authority.",
+        "b": "It can be reversed in case of fraudulent transactions.",
+        "c": "It consumes a significant amount of energy.",
+        "d": "It is widely dismissed as a scam or fraud.",
+        "correct": "c"
+      },
+      {
+        "title": "What is one reason why some people are skeptical about the benefits of cryptocurrency?",
+        "a": "It provides irreversible transactions, making it difficult to recover funds.",
+        "b": "It offers a more affordable banking and financial system.",
+        "c": "It has already fulfilled its promised benefits.",
+        "d": "It has a minimal impact on the environment.",
+        "correct": "a"
+      },
+      {
+        "title": "According to the passage, what is one potential impact of cryptocurrency on the global economy?",
+        "a": "It will lead to a decrease in global trade.",
+        "b": "It will make lending and finance more expensive.",
+        "c": "It will enable easier and cheaper resource movement worldwide.",
+        "d": "It will eliminate the need for new institutions related to recordkeeping and property rights.",
+        "correct": "c"
+      },
+      {
+        "title": "What does the passage suggest about the possibilities of the \"Metaverse\" or the \"expanded internet\"?",
+        "a": "They are unlikely to ever become a reality.",
+        "b": "They will have no impact on global transactions or property rights.",
+        "c": "They may offer secure property rights validated by the blockchain.",
+        "d": "They will exclusively benefit individuals in developed countries.",
+        "correct": "c"
+      },
+      {
+        "title": "What does the passage imply about the future of cryptocurrency?",
+        "a": "It will undoubtedly replace traditional banking systems. ",
+        "b": " It will result in a significant reduction in carbon emissions.",
+        "c": "It may become a crucial component of the global economy.",
+        "d": "It will be considered a fraudulent and unreliable form of payment.",
+        "correct": "c"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "What to do if your inner voice is cruel",
+    "url": "1aF2FYg_Lfi5BlWZD5QCur1MkkKbZdGvd",
+    "quizzes": [
+      {
+        "title": "According to the passage, what is one negative effect of chatter?",
+        "a": "It makes it difficult to focus.",
+        "b": "It leads to increased physical health problems.",
+        "c": "It improves problem-solving abilities.",
+        "d": "It strengthens relationships.",
+        "correct": "a"
+      },
+      {
+        "title": "What is the purpose of rituals mentioned in the passage?",
+        "a": "To regain control of the inner voice.",
+        "b": "To create friction in relationships.",
+        "c": "To increase irritability.",
+        "d": "To perpetuate chronic stress.",
+        "correct": "a"
+      },
+      {
+        "title": "What does the passage imply about the role of the inner voice in our lives?",
+        "a": "It has no impact on our relationships.",
+        "b": "It is always a source of help.",
+        "c": "It can both benefit and harm us.",
+        "d": "It is an unnecessary tool.",
+        "correct": "c"
+      },
+      {
+        "title": "How does the passage describe the impact of chronic chatter on stress?",
+        "a": "It helps to alleviate stress.",
+        "b": "It has no effect on stress levels.",
+        "c": "It can lead to negative physical health effects.",
+        "d": "It helps in controlling our inner thoughts.",
+        "correct": "c"
+      },
+      {
+        "title": "What does the passage suggest about the universality of tools to manage chatter?",
+        "a": "There is no one-size-fits-all solution.",
+        "b": "All individuals can benefit from the same tools. ",
+        "c": "There is only one unique combination of tools that work for everyone.",
+        "d": "No tools are effective in managing chatter.",
+        "correct": "a"
+      }
+
+    ]
+  },
+  {
+    "id": 4,
+    "title": "How to live an intellectual life",
+    "url": "1U5nCCh3eMdycQgiTHSeM_0tq2VCCW4ki",
+    "quizzes": [{ "title": "What led the author to question the nature of intellectual life?", "a": "A successful academic career", "b": "A midlife crisis", "c": "Living in a monastery", "d": "Teaching at St. John's College", "correct": "b" },
+     { "title": "According to Aristotle, what is the purpose of work?", "a": "To achieve leisure", "b": "To acquire knowledge", "c": "To find personal fulfillment", "d": "To serve a higher authority", "correct": "a" }, { "title": "What interests the author in an intellectual life?", "a": "Acquiring knowledge", "b": "Being productive", "c": "Engaging in ordinary activities", "d": "Gaining recognition", "correct": "c" }, { "title": "What was Albert Einstein's job when he made transformative breakthroughs in physics?", "a": "College professor", "b": "Bureaucrat in a patent office", "c": "Research scientist", "d": "Brains trust consultant", "correct": "b" }, { "title": "How does the author describe intellectual life?", "a": "Mysterious and unattainable", "b": "A Hollywood depiction of geniuses", "c": "A private endeavor focused on reading and thinking", "d": "A means to acquire wealth and status", "correct": "c" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Should you bring a kid into this world?",
+    "url": "1UjXJuDmypOVYYWSPCr0UNuMBEhIoABgC",
+    "quizzes": [ { "title": "According to the passage, what are some of the problems in the world right now?", "a": "Climate change", "b": "Race and economic justice", "c": "Both a and b", "d": "None of the above", "correct": "c" }, { "title": "How does the author describe the perspective of looking at things from a hundred-year or even a thousand-year perspective?", "a": "Radical", "b": "Optimistic", "c": "Short-termistic", "d": "Hopeless", "correct": "b" }, { "title": "What does the author say about having children?", "a": "It is an act of hope and courage for a better tomorrow", "b": "It is a short-term strategy to deal with problems", "c": "It is a way of giving up on progress", "d": "It is a means to perpetuate injustice", "correct": "a" }, { "title": "What does the phrase 'sandbag strategies' refer to?", "a": "Short-term solutions to underlying issues", "b": "Long-term plans for a better future", "c": "Constructing flood barriers", "d": "Creating laws to promote justice", "correct": "a" }, { "title": "What is the main idea of the passage?", "a": "Despite the challenges, having children can contribute to a better future", "b": "The world is currently facing insurmountable problems", "c": "It is better to focus on short-term actions rather than long-term strategies", "d": "Only those who have experienced extreme hardship should have children", "correct": "a" } ]
+  },
+  {
+    "id": 6,
+    "title": "Harvard negotiator explains how to argue",
+    "url": "1ykHp4jh4HvPZQFx7K2tg8LkQ3A99_tki",
+    "quizzes": [{ "title": "What is the first barrier mentioned in the passage?", "a": "Appreciation", "b": "Affiliation", "c": "Identity", "d": "Logic", "correct": "c" }, { "title": "According to the author, why do conflicts often become emotional?", "a": "Due to lack of logical arguments", "b": "Because of differing political opinions", "c": "As a result of feeling one's identity is threatened", "d": "Because of a lack of appreciation", "correct": "c" }, { "title": "What is the suggested approach to handling conflicts?", "a": "Promote logical arguments", "b": "Find common ground with the other person", "c": "Focus on personal beliefs", "d": "Avoid emotional connections", "correct": "b" }, { "title": "What is the second barrier mentioned in the passage?", "a": "Appreciation", "b": "Affiliation", "c": "Identity", "d": "Logic", "correct": "a" }, { "title": "What is the third barrier mentioned in the passage?", "a": "Appreciation", "b": "Affiliation", "c": "Identity", "d": "Logic", "correct": "b" }]
+  }
+]

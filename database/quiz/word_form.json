@@ -1,0 +1,1310 @@
+[
+  {
+    "id": 1,
+    "quizzes": [
+      {
+        "title": "Her old school is ________ than her new school.",
+        "a": "big",
+        "b": "the biggest",
+        "c": "the bigger",
+        "d": "bigger",
+        "correct": "d"
+      },
+      {
+        "title": "What are you_________________? - I'm playing soccer.",
+        "a": "Do",
+        "b": "to do",
+        "c": "doing",
+        "d": "does",
+        "correct": "c"
+      },
+      {
+        "title": "Peter_________________ to Linda about his vacation last week.",
+        "a": "talks",
+        "b": "talked",
+        "c": "talking",
+        "d": "to talk",
+        "correct": "b"
+      },
+      {
+        "title": "_____________ is the matter with you? – I have a toothache.",
+        "a": "What",
+        "b": "How",
+        "c": "When",
+        "d": "Why",
+        "correct": "a"
+      },
+      {
+        "title": "What does he look__________________? – He is fat and short.",
+        "a": "Like",
+        "b": "at",
+        "c": "for",
+        "d": "after",
+        "correct": "a"
+      },
+      {
+        "title": "Tim is in my class. She is my _______.",
+        "a": "classroom",
+        "b": "classmate",
+        "c": "class",
+        "d": "neighbor",
+        "correct": "b"
+      },
+      {
+        "title": "________ grade are you in?",
+        "a": "When",
+        "b": "Which",
+        "c": "Where",
+        "d": "How",
+        "correct": "d"
+      },
+      {
+        "title": "He lives ______Parais, ______ 12 L.A Street.",
+        "a": "on – at",
+        "b": "in – on",
+        "c": "in – at",
+        "d": "on – in",
+        "correct": "c"
+      },
+      {
+        "title": "David _______ from Newyork but he is staying with his relatives in Osaka City at the moment.",
+        "a": "Will come",
+        "b": "Came",
+        "c": "Come",
+        "d": "Comes",
+        "correct": "b"
+      },
+      {
+        "title": "- \"Hi, Tom. Nice to meet you again!\"- \"Hi, Jonh. Nice to meet you, ______.\"",
+        "a": "too",
+        "b": "also",
+        "c": "so",
+        "d": "then",
+        "correct": "b"
+      },
+      {
+        "title": "__________ is from your house to the post office?",
+        "a": "How much",
+        "b": "How many",
+        "c": "How often",
+        "d": "How far",
+        "correct": "d"
+      },
+      {
+        "title": "How __________ rice do you want?",
+        "a": "much",
+        "b": "many",
+        "c": "a lot of",
+        "d": "lots of",
+        "correct": "a"
+      },
+      {
+        "title": "Would you like _______ a movie?",
+        "a": "see",
+        "b": "seeing",
+        "c": "to seeing",
+        "d": "to see",
+        "correct": "d"
+      },
+      {
+        "title": "Peter has lots of friends in NY but she ________ any friends in London.",
+        "a": "not have",
+        "b": "don't have",
+        "c": "doesn't have",
+        "d": "isn't have",
+        "correct": "c"
+      },
+  {
+    "title": "They say he has ________ money.",
+    "a": "a lot of",
+    "b": "plenty",
+    "c": "lots",
+    "d": "many",
+    "correct": "a"
+  },
+  {
+    "title": "How much time do you ________ your homework?",
+    "a": "make at",
+    "b": "bring to",
+    "c": "give for",
+    "d": "spend on",
+    "correct": "d"
+  },
+  {
+    "title": "My father is ________ man.",
+    "a": "an old",
+    "b": "a old",
+    "c": "not young",
+    "d": "not an young",
+    "correct": "a"
+  },
+  {
+    "title": "Millions of cigarettes ________ every year.",
+    "a": "is smoke",
+    "b": "are smoking",
+    "c": "are smoked",
+    "d": "are smoke",
+    "correct": "c"
+  },
+  {
+    "title": "Gold, as well as silver ________ in price, he said.",
+    "a": "have fallen",
+    "b": "has fallen",
+    "c": "fall",
+    "d": "are falling",
+    "correct": "b"
+  },
+  {
+    "title": "They quarreled ________ the choice of a house.",
+    "a": "on",
+    "b": "over",
+    "c": "for",
+    "d": "to",
+    "correct": "b"
+  },
+  {
+    "title": "Fred was a really silly boy when we were in high-school. I still remember ________ very stupid questions.",
+    "a": "his asking",
+    "b": "him to ask",
+    "c": "asking him",
+    "d": "his being asked",
+    "correct": "a"
+  },
+  {
+    "title": "________ I like the Rolling Stones.",
+    "a": "No need to say",
+    "b": "Don't need to say",
+    "c": "Needless saying",
+    "d": "Needless to say",
+    "correct": "d"
+  },
+  {
+    "title": "- Are you sorry that you didn't take pictures?\n- Yes, I regret ________ any.",
+    "a": "not to take",
+    "b": "that I not take",
+    "c": "not taking",
+    "d": "to not taken",
+    "correct": "c"
+  },
+  {
+    "title": "If he had not given me advice, I ________ again.",
+    "a": "would fail",
+    "b": "would be failed",
+    "c": "wouldn't fail",
+    "d": "would have failed",
+    "correct": "d"
+  },
+  {
+    "title": "What ________ ! The rain has not stopped all day.",
+    "a": "a weather",
+    "b": "the weather",
+    "c": "weather",
+    "d": "an weather",
+    "correct": "c"
+  },
+  {
+    "title": "- Which of the two boys is a boy scout?\n- ________ of them is.",
+    "a": "All",
+    "b": "None",
+    "c": "Neither",
+    "d": "Both",
+    "correct": "c"
+  },
+  {
+    "title": "Every morning I wash my face and clean my teeth by _____.",
+    "a": "I",
+    "b": "mine",
+    "c": "my",
+    "d": "myself",
+    "correct": "d"
+  },
+  {
+    "title": "Nam was absent from class yesterday _____ he felt sick.",
+    "a": "so",
+    "b": "because",
+    "c": "although",
+    "d": "but",
+    "correct": "b"
+  },
+  {
+    "title": "Tom has a computer, _____ he doesn’t use it.",
+    "a": "or",
+    "b": "as",
+    "c": "because",
+    "d": "but",
+    "correct": "d"
+  },
+  {
+    "title": "Water is _______ than tequila.",
+    "a": "healthier",
+    "b": "more healthier",
+    "c": "most healthy",
+    "d": "healthiest",
+    "correct": "a"
+  },
+  {
+    "title": "I was ill yesterday but I am ________ today.",
+    "a": "better",
+    "b": "gooder",
+    "c": "weller",
+    "d": "best",
+    "correct": "a"
+  },
+  {
+    "title": "She would go to the Job Centre if she ________ a job.",
+    "a": "had wanted",
+    "b": "will want",
+    "c": "wanted",
+    "d": "wants",
+    "correct": "c"
+  },
+  {
+    "title": "She could not eat anything at the meat restaurant _____she is a vegetarian.",
+    "a": "So",
+    "b": "because",
+    "c": "because of",
+    "d": "although",
+    "correct": "c"
+  },
+  {
+    "title": "Do you know anyone ______ speaks Japanese?",
+    "a": "which",
+    "b": "whom",
+    "c": "whose",
+    "d": "that",
+    "correct": "d"
+  },
+  {
+    "title": "The guy ______ was very friendly.",
+    "a": "that I met",
+    "b": "which I met",
+    "c": "who met",
+    "d": "whose met",
+    "correct": "a"
+  },
+  {
+    "title": "I talked to _______ grandmother for three hours last night.",
+    "a": "he",
+    "b": "him",
+    "c": "his",
+    "d": "himself",
+    "correct": "b"
+  },
+  {
+    "title": "The radio's much too loud: please turn it ________.",
+    "a": "out",
+    "b": "low",
+    "c": "up",
+    "d": "down",
+    "correct": "d"
+  },
+  {
+  "title": "- Would you like some sugar?\n- Yes, please, just ________.",
+  "a": "a little",
+  "b": "little",
+  "c": "a few",
+  "d": "few",
+  "correct": "a"
+},
+  {
+    "title": "We live near ________ the river.",
+    "a": "of",
+    "b": "from",
+    "c": "by",
+    "d": "-",
+    "correct": "c"
+  },
+  {
+    "title": "He says that he must have ________.",
+    "a": "the all from it",
+    "b": "all it",
+    "c": "the all of it",
+    "d": "it all",
+    "correct": "d"
+  }
+
+    ]
+
+  },
+  {
+    "id": 2,
+    "quizzes": [
+      {
+        "title": "Just because you have ___________ doesn’t mean you’re not beautiful.",
+        "a": "Flawlessment",
+        "b": "Flawlessness",
+        "c": "Flawlession",
+        "d": "Flaws",
+        "correct": "b"
+      },
+      {
+        "title": "___________ makes your heart grow fonder.",
+        "a": "Absence",
+        "b": "Absentness",
+        "c": "Absentee",
+        "d": "Absente",
+        "correct": "a"
+      },
+      {
+        "title": "Life is full of surprising ___________.",
+        "a": "events",
+        "b": "eventfulness",
+        "c": "event",
+        "d": "eventfulment",
+        "correct": "a"
+      },
+      {
+        "title": "The post-war decline in beer ________________ was practically halted last year.",
+        "a": "consumption",
+        "b": "consumming",
+        "c": "consumment",
+        "d": "consummingness",
+        "correct": "a"
+      },
+      {
+        "title": "Better is a dinner of herbs where love is, than a stalled ox and _______________ therewith. (HATE)",
+        "a": "hating",
+        "b": "hatred",
+        "c": "hateful",
+        "d": "hater",
+        "correct": "b"
+      },
+      {
+        "title": "In the first quarter of the 18th century people began to realise the _______________ of hygiene to public health. (IMPORTANT)",
+        "a": "importantment",
+        "b": "importantness",
+        "c": "importion",
+        "d": "importance",
+        "correct": "d"
+      },
+      {
+        "title": "Can’t you just see that One Direction are steamingly ____________? I just can’t take it anymore. (HEAT)",
+        "a": "hot",
+        "b": "heatedly",
+        "c": "heated",
+        "d": "heater",
+        "correct": "c"
+      },
+      {
+        "title": "We are great ___ in fate and we believe we’re meant to be together. (BELIEVE)",
+        "a": "belief",
+        "b": "believers",
+        "c": "believably",
+        "d": "believing",
+        "correct": "b"
+      },
+      {
+        "title": "I think your stylist has taken her ___ from the rubbish dump. (INSPIRE)",
+        "a": "inspiring",
+        "b": "inspirer",
+        "c": "inspiration",
+        "d": "inspiratory",
+        "correct": "c"
+      },
+      {
+        "title": "The statesmen and scholars have made important ___ on ways Washington could help Russia control parts of the arsenal. (SUGGEST)",
+        "a": "suggestibility",
+        "b": "suggestion",
+        "c": "suggester",
+        "d": "suggestive",
+        "correct": "b"
+      },
+      {
+        "title": "After denying the ___ of any recordings of the UFO abductions, Mr President went on to talk about the newest tax policy. (EXIST)",
+        "a": "existance",
+        "b": "existment",
+        "c": "existence",
+        "d": "existent",
+        "correct": "c"
+      },
+      {
+        "title": "Your ___ to me really bothers me. I told you a hundred times that I’m not the guy you need. (ATTACH)",
+        "a": "attachment",
+        "b": "attachable",
+        "c": "attaching",
+        "d": "attachness",
+        "correct": "a"
+      },
+      {
+        "title": "For much of the last decade, Italy’s leaning tower of Pisa was a huge ___ site. (CONSTRUCT)",
+        "a": "construction",
+        "b": "construct",
+        "c": "constructional",
+        "d": "constructor",
+        "correct": "a"
+      },
+      {
+        "title": "When planning began in 1989, Prof. Piero Pierotti called the rescue effort “irresponsible ___” that would put the tower at risk. (MAD)",
+        "a": "madden",
+        "b": "madsion",
+        "c": "madness",
+        "d": "madding",
+        "correct": "c"
+      },
+      {
+        "title": "If you need anything I am at your ___ , madam. (SERVE)",
+        "a": "serving",
+        "b": "service",
+        "c": "serviceman",
+        "d": "serviceable",
+        "correct": "b"
+      },
+      {
+        "title": "White is the colour of ___, so never wear it if you are upset about a bloke- it will only make you feel worse. (LONE)",
+        "a": "alone",
+        "b": "lonely",
+        "c": "loneliness",
+        "d": "loner",
+        "correct": "a"
+      },
+      {
+        "title": "Food like bananas and oysters are presumed to be aphrodisiac mainly due to their ___ to certain body parts. (RESEMBLE)",
+        "a": "resembleness",
+        "b": "resembling",
+        "c": "resemb",
+        "d": "resemblance",
+        "correct": "d"
+      },
+      {
+        "title": "Enjoy nicotine, alcohol and caffeine only in ___ . (MODERATE)",
+        "a": "moderating",
+        "b": "moderation",
+        "c": "moderatement",
+        "d": "moderate",
+        "correct": "b"
+      },
+  {
+    "title": "His _____ were not as serious as the previous time. Just broken ribs, dislocated shoulders and sprained ankles.",
+    "a": "injury",
+    "b": "injuries",
+    "c": "injurement",
+    "d": "injurious",
+    "correct": "b"
+  },
+  {
+    "title": "The _________ of those mountainous villages is the greatest achievement of this government.",
+    "a": "electrician",
+    "b": "electricity",
+    "c": "electricality",
+    "d": "electrics",
+    "correct": "b"
+  },
+  {
+    "title": "With the ____________ of the soup it was a wonderful meal.",
+    "a": "exceptionality",
+    "b": "excepted",
+    "c": "exception",
+    "d": "excepting",
+    "correct": "c"
+  },
+  {
+    "title": "Her ____________ in helping the poor earned her admiration in the neighbourhood.",
+    "a": "selfishness",
+    "b": "unselfishness",
+    "c": "selfulness",
+    "d": "unselfish",
+    "correct": "b"
+  },
+  {
+    "title": "Don’t be too hasty to pass ____________ on other people.",
+    "a": "judgeship",
+    "b": "judgematic",
+    "c": "judgement",
+    "d": "judgemental",
+    "correct": "c"
+  },
+  {
+    "title": "The ____________ of his work lies in the materials he uses.",
+    "a": "originality",
+    "b": "original",
+    "c": "origin",
+    "d": "orginate",
+    "correct": "a"
+  },
+  {
+    "title": "Can I find a pencil ____________ somewhere in this library?",
+    "a": "sharpen",
+    "b": "sharpness",
+    "c": "sharpish",
+    "d": "sharpener",
+    "correct": "d"
+  },
+  {
+    "title": "Scandinavian legend says that when the son of the goddess Frigga was killed her tears of ____________ became the white berries.",
+    "a": "sorriness",
+    "b": "sorrow",
+    "c": "sorrower",
+    "d": "sorrowfulness",
+    "correct": "b"
+  },
+  {
+    "title": "After two months of laser treatment I noticed a tiny ____________ and felt a stab of determination.",
+    "a": "improvement",
+    "b": "improving",
+    "c": "improvable",
+    "d": "improver",
+    "correct": "a"
+  },
+  {
+    "title": "I don’t want my kids to spend their young years under constant ____________ to be the best.",
+    "a": "pressment",
+    "b": "pressed",
+    "c": "pressing",
+    "d": "pressing",
+    "correct": "c"
+  },
+  {
+    "title": "My grandma died a natural ____________.",
+    "a": "dying",
+    "b": "dead",
+    "c": "death",
+    "d": "diement",
+    "correct": "c"
+  },
+  {
+    "title": "Dreams are like stars, you may never touch them, but if you follow them, they will lead you to your ____________.",
+    "a": "destined",
+    "b": "destinity",
+    "c": "destiny",
+    "d": "destination",
+    "correct": "c"
+  },
+  {
+    "title": "A sense of ____________ makes a girl beautiful.",
+    "a": "humours",
+    "b": "humour",
+    "c": "humourousity",
+    "d": "humourless",
+    "correct": "b"
+  },
+  {
+    "title": "The person who gives you unexplained happiness is the one who gives you unexplained ____________.",
+    "a": "saddle",
+    "b": "sadden",
+    "c": "saddens",
+    "d": "sadment",
+    "correct": "b"
+  },
+  {
+    "title": "Harry Styles is the ____________ man, got bags of charm, can win people over easily.",
+    "a": "ladiness",
+    "b": "ladies",
+    "c": "lady",
+    "d": "ladiful",
+    "correct": "c"
+  },
+  {
+    "title": "I’m looking for a girl who’s cheeky and makes me chase her, the fun is all in the ____________.",
+    "a": "chase",
+    "b": "chasing",
+    "c": "chasement",
+    "d": "chaser",
+    "correct": "b"
+  },
+  {
+    "title": "Though Monsters has a great storyline younger ____________ may be confused as some facts are never explained.",
+    "a": "viewpoint",
+    "b": "viewers",
+    "c": "viewership",
+    "d": "viewdata",
+    "correct": "b"
+  },
+  {
+    "title": "One Direction has taken my life so I can no longer think about real life ____________.",
+    "a": "relating",
+    "b": "related",
+    "c": "relation",
+    "d": "relationships",
+    "correct": "d"
+  },
+  {
+    "title": "It’s not called an unhealthy obsession, it’s called ____________.",
+    "a": "dedicated",
+    "b": "dedication",
+    "c": "dedicative",
+    "d": "dedicatee",
+    "correct": "b"
+  },
+  {
+    "title": "Directioners are the cutest ____________ in the world.",
+    "a": "idiots",
+    "b": "idiotically",
+    "c": "idiotic",
+    "d": "idioticity",
+    "correct": "c"
+  },
+    {
+    "title": "One more question. What should I put down for you guys? Alright, this is very tricky: I’m very impressed by their (HOSPITABLE)____________",
+    "a": "hospital",
+    "b": "hospitality",
+    "c": "hospitablement",
+    "d": "hospitabality",
+    "correct": "b"
+  },
+  {
+    "title": "The last question already! I’m gonna make this question super hard. Nah, just kidding, get to it. She’s the best (EPITOMIZE) ______________ of kindness.",
+    "a": "epitome",
+    "b": "epitomist",
+    "c": "epitomizing",
+    "d": "epitomized",
+    "correct": "a"
+  }
+
+    ]
+
+  },
+  {
+    "id": 3,
+    "quizzes": [
+  {
+    "title": "A person who acts for a living is called an ________ .",
+    "a": "action",
+    "b": "actor",
+    "c": "actress",
+    "d": "acting",
+    "correct": "b"
+  },
+  {
+    "title": "A ________ is someone who earns money from writing music.",
+    "a": "musical",
+    "b": "musician",
+    "c": "musican",
+    "d": "musicist",
+    "correct": "c"
+  },
+  {
+    "title": "She didn't become famous as a ________ until her 17th novel was published.",
+    "a": "novelists",
+    "b": "novelist",
+    "c": "noveler",
+    "d": "novelor",
+    "correct": "b"
+  },
+  {
+    "title": "In Part 5 of the FCE Exam your speaking ability will be assessed by the ________ .",
+    "a": "examination",
+    "b": "exammer",
+    "c": "exammers",
+    "d": "examiners",
+    "correct": "d"
+  },
+  {
+    "title": "At the end of the interview the ________ asked if he could be shown around the company.",
+    "a": "interviewer",
+    "b": "interviewee",
+    "c": "interviewing",
+    "d": "interviewor",
+    "correct": "b"
+  },
+  {
+    "title": "The waiter asked the ________ if she would help him deal with a difficult customer.",
+    "a": "waiting",
+    "b": "waitress",
+    "c": "waiting",
+    "d": "waitor",
+    "correct": "b"
+  },
+  {
+    "title": "An ________ is someone who will be able to go through your accounts and work out how much money you have.",
+    "a": "accountor",
+    "b": "accountist",
+    "c": "accountancy",
+    "d": "accountant",
+    "correct": "d"
+  },
+  {
+    "title": "________ to the castle are expected to come during visiting times only.",
+    "a": "visitors",
+    "b": "visiting",
+    "c": "visitists",
+    "d": "visits",
+    "correct": "a"
+  },
+  {
+    "title": "A ________ is someone who sufffers from psychosis",
+    "a": "psychologist",
+    "b": "psychotic",
+    "c": "psychosistist",
+    "d": "psychosomatic",
+    "correct": "b"
+  },
+  {
+    "title": "The company starts to employ a lot of ________",
+    "a": "employers",
+    "b": "employing",
+    "c": "employees",
+    "d": "employists",
+    "correct": "c"
+  },
+  {
+    "title": "The government’s ________",
+    "a": "mismanagement",
+    "b": "management",
+    "c": "manager",
+    "d": "manageability",
+    "correct": "b"
+  },
+  {
+    "title": "The ______ of Cambridge University was held ceremoniously (COMMENCE)",
+    "a": "commencer",
+    "b": "commencement",
+    "c": "commence",
+    "d": "commendatory",
+    "correct": "b"
+  },
+  {
+    "title": "A Committee was set up under the ________ of Edmund Compton. (CHAIR)",
+    "a": "chairman",
+    "b": "chair",
+    "c": "chairperson",
+    "d": "chairmanship",
+    "correct": "c"
+  },
+  {
+    "title": "The __________ of youth is one of the most important factor contributing to their succeed. (RESILIENT)",
+    "a": "resilience",
+    "b": "resilient",
+    "c": "resile",
+    "d": "resiliently",
+    "correct": "a"
+  },
+  {
+    "title": "The no- smoking policy was introduced with little ___________ from the staffs. (RESIST)",
+    "a": "resistant",
+    "b": "resistive",
+    "c": "resistance",
+    "d": "resister",
+    "correct": "c"
+  },
+  {
+    "title": "Even now, the full ______ of his crimes has not been exposed. (ENORMOUS)",
+    "a": "enormously",
+    "b": "enormity",
+    "c": "enormousness",
+    "d": "enormous",
+    "correct": "b"
+  },
+  {
+    "title": "If you have ________ time at the end of the exam, check your answer.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "c"
+  },
+  {
+    "title": "Give me ________ minutes and I’ll be ready.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "d"
+  },
+  {
+    "title": "We’ve only got __________ milk left so get some when you go shopping.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "c"
+  },
+  {
+    "title": "Just ________ practice everyday and you will be soon able to play the piano.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "d"
+  },
+  {
+    "title": "We were disappointed that _____ of the members came to the youth club party.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "a"
+  },
+  {
+    "title": "Sprinkle _______ sugar on the strawberries.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "d"
+  },
+  {
+    "title": "I suppose now I’m 43, I have ______ hope of playing football for England",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "a"
+  },
+  {
+    "title": "Could you help me with _______ exercises I don’t understand.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "d"
+  },
+  {
+    "title": "There’s ________ coffee left, if anyone wants some.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "b"
+  },
+  {
+    "title": "Becoming an astronauts is so demanding that _______ people manage it.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "a"
+  },
+  {
+    "title": "I’ll meet you in half an hour – I have got ______ e-mails to write first.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "a"
+  },
+  {
+    "title": "Many people feel there is ________ point in voting, even in a general election.",
+    "a": "few",
+    "b": "a few",
+    "c": "little",
+    "d": "a little",
+    "correct": "c"
+  },
+  {
+    "title": "Harry drinks a lot. He is such a big ________________ (DRINK)",
+    "a": "drinker",
+    "b": "drinkable",
+    "c": "drinking",
+    "d": "drinkability",
+    "correct": "a"
+  },
+  {
+    "title": "Come on, let’s watch them arrive in their smartest suits and shades for Louis Tomlinson’s mum’s ________________ (WED)",
+    "a": "weding",
+    "b": "weds",
+    "c": "wedded",
+    "d": "wed",
+    "correct": "d"
+  },
+  {
+    "title": "One Direction ________________ (DANCE) made miracle (RECOVER)______________from horrific accident with help from loyal dogs.",
+    "a": "dancing-discovery",
+    "b": "dance-discovery",
+    "c": "dancer-recovery",
+    "d": "dancers-discovery",
+    "correct": "b"
+  },
+  {
+    "title": "They have just confirmed follow-up movie after This Is Us missed out on Oscar (NOMINATE)______________",
+    "a": "nomination",
+    "b": "nominating",
+    "c": "nominitive",
+    "d": "nominee",
+    "correct": "a"
+  },
+  {
+    "title": "I know you’re proud of your achievements, but let’s at least keep some (HUMBLE)______________.",
+    "a": "humiliation",
+    "b": "humility",
+    "c": "humblity",
+    "d": "humblation",
+    "correct": "b"
+  },
+  {
+    "title": "(HATE)______________ are gonna hate, potatoes’re gonna potate, I already ate.",
+    "a": "haters",
+    "b": "hating",
+    "c": "hatred",
+    "d": "hateful",
+    "correct": "a"
+  },
+  {
+    "title": "I honestly don’t know what to do right now. Could you give me some (SERENE)______________ please?",
+    "a": "serenade",
+    "b": "serenity",
+    "c": "serendipity",
+    "d": "serendipity",
+    "correct": "b"
+  },
+  {
+    "title": "Don’t look at me like that. I know I’m a (WEIRD)______________.",
+    "a": "weirdness",
+    "b": "weird",
+    "c": "weird",
+    "d": "weirdo",
+    "correct": "d"
+  },
+  {
+    "title": "What is your biggest (WEAK)______________?",
+    "a": "weakenning",
+    "b": "weaken",
+    "c": "weakness",
+    "d": "weakfish",
+    "correct": "c"
+  },
+  {
+    "title": "And what are some of your (STRONG)______________?",
+    "a": "strengthen",
+    "b": "strengths",
+    "c": "strongly",
+    "d": "strong",
+    "correct": "b"
+  },
+  {
+    "title": "I so hate researching. What’s the point of being a (RESEARCH)______________ anyways?",
+    "a": "research",
+    "b": "research",
+    "c": "researcher",
+    "d": "researching",
+    "correct": "c"
+  },
+  {
+    "title": "I’d love to be a (LOSE)______________. What’s the point of being a (WIN)______________ anyways?",
+    "a": "loser-winner",
+    "b": "loser-winner",
+    "c": "lost-win",
+    "d": "loss-winner",
+    "correct": "a"
+  }
+
+
+]
+
+  },
+  {
+    "id": 4,
+    "quizzes": [
+      {
+    "title": "This exercise is a bit ridiculous. Whatever, I don’t care, I’m not in the right state of mind right now. I’m not trying to hide my (ADDICT)______________ to that boy band, you know.",
+    "a": "addictive",
+    "b": "addicted",
+    "c": "addiction",
+    "d": "addicting",
+    "correct": "c"
+  },
+  {
+    "title": "I’m not buying that whole environmental friendly thing. Seriously, I wonder what (ENVIRONMENT)______________ do in their jobs every day.",
+    "a": "environmentalism",
+    "b": "environmentalists",
+    "c": "environmental",
+    "d": "environment",
+    "correct": "b"
+  },
+  {
+    "title": "In the series Once Upon A Time, Emma is called their (SAVE)______________. Such a typical fairy tale it is.",
+    "a": "saver",
+    "b": "saviour",
+    "c": "saved",
+    "d": "saving",
+    "correct": "b"
+  },
+  {
+    "title": "(POLLUTE)______________ are the factors that cause pollution.",
+    "a": "pollution",
+    "b": "polluters",
+    "c": "pollutants",
+    "d": "polluting",
+    "correct": "c"
+  },
+  {
+    "title": "People use (PRESERVE)______________ to keep foods.",
+    "a": "preserver",
+    "b": "preservation",
+    "c": "preservative",
+    "d": "preservatives",
+    "correct": "c"
+  },
+  {
+    "title": "Yeah, I’m going to finish this exercise. I’m sorry I’m such a lazy ass, but I can’t get rid of my (LAZY)______________, you see.",
+    "a": "laze",
+    "b": "laziness",
+    "c": "lazily",
+    "d": "lazyment",
+    "correct": "b"
+  },
+    {
+    "title": "Question 3: Why do you always look so __________? Is your life really so________?",
+    "a": "Boring/Bored",
+    "b": "Boring/Bored",
+    "c": "Boring/Boring",
+    "d": "Bored/Bored",
+    "correct": "a"
+  },
+  {
+    "title": "Question 4: He’s one of the most _________people I’ve ever met. He never stops talking and he never say anything_______.",
+    "a": "Bored/interested",
+    "b": "Boring/interesting",
+    "c": "Boring/interested",
+    "d": "Bored/interesting",
+    "correct": "b"
+  },
+  {
+    "title": "Question 5: At first I thought Jake was an _________guy, but tonight I felt somewhat ________with his company.",
+    "a": "Interested/interesting",
+    "b": "Interesting/interested",
+    "c": "Interested/interested",
+    "d": "Interesting/interesting",
+    "correct": "b"
+  },
+  {
+    "title": "I thought the program on wildlife was__________. I was absolutely_________.",
+    "a": "Fascinating/fascinated",
+    "b": "Fascinated/fascinating",
+    "c": "Fascinating/fascinating",
+    "d": "Fascinated/fascinated",
+    "correct": "a"
+  },
+  {
+    "title": "Does ______ mind if I open the window?",
+    "a": "somebody",
+    "b": "something",
+    "c": "anybody",
+    "d": "anything",
+    "correct": "c"
+  },
+  {
+    "title": "I wasn't feeling hungry, so I didn't eat ______.",
+    "a": "somebody",
+    "b": "something",
+    "c": "anybody",
+    "d": "anything",
+    "correct": "d"
+  },
+  {
+    "title": "You must be hungry. Would you like ______ to eat?",
+    "a": "somebody",
+    "b": "something",
+    "c": "anybody",
+    "d": "anything",
+    "correct": "d"
+  },
+  {
+    "title": "Mary can't speak French _________.",
+    "a": "Either can Peter",
+    "b": "Neither can't Peter",
+    "c": "Neither can Peter",
+    "d": "Peter can’t neither",
+    "correct": "a"
+  },
+  {
+    "title": "This machine is very easy to use. ______ can learn to use it in a very short time.",
+    "a": "Somebody",
+    "b": "Something",
+    "c": "Anybody",
+    "d": "Anything",
+    "correct": "c"
+  },
+  {
+    "title": "I'm going out now. If ______ phones when I'm out, can you tell them I’ll be back at 11:30?",
+    "a": "somebody",
+    "b": "something",
+    "c": "anybody",
+    "d": "anything",
+    "correct": "c"
+  },
+  {
+    "title": "Some snakes lay eggs, but _______ give birth to live offspring.",
+    "a": "other",
+    "b": "the other",
+    "c": "others",
+    "d": "the others",
+    "correct": "c"
+  },
+  {
+    "title": "_________ have made communication faster and easier through the use of e-mail and the Internet is widely recognized.",
+    "a": "It is that computers",
+    "b": "That computers",
+    "c": "Computers that",
+    "d": "That it is computers",
+    "correct": "c"
+  },
+  {
+    "title": "“Which of the two boys is granted a scholarship? “ - “_________ of them is .”",
+    "a": "All",
+    "b": "None",
+    "c": "Neither",
+    "d": "Both",
+    "correct": "b"
+  },
+  {
+    "title": "__________ that the company has shown rapid growth in the last two years.",
+    "a": "It is reported",
+    "b": "They are reported",
+    "c": "The report was",
+    "d": "Reporting",
+    "correct": "a"
+  },
+  {
+    "title": "___________ of the students in my class could solve the problem yesterday.",
+    "a": "Not much",
+    "b": "No",
+    "c": "None",
+    "d": "Neither",
+    "correct": "c"
+  },
+  {
+    "title": "I think you should choose ________ color. This one is too dark.",
+    "a": "other",
+    "b": "another",
+    "c": "the other",
+    "d": "others",
+    "correct": "c"
+  },
+  {
+    "title": "Martin tried on three jackets, ___________ fitted him.",
+    "a": "none",
+    "b": "none of which",
+    "c": "none of them",
+    "d": "not",
+    "correct": "c"
+  },
+  {
+    "title": "I have English classes ________ day ; on Mondays, Wednesdays and Fridays.",
+    "a": "all other",
+    "b": "each other",
+    "c": "every other",
+    "d": "any other",
+    "correct": "c"
+  },
+  {
+    "title": "_____________ trying to make him change his mind.",
+    "a": "It’s no point",
+    "b": "It’s no hope",
+    "c": "It’s useless",
+    "d": "It's no use",
+    "correct": "d"
+  },
+  {
+    "title": "________ has right to vote.",
+    "a": "something",
+    "b": "everyone",
+    "c": "many people",
+    "d": "some people",
+    "correct": "b"
+  },
+  {
+    "title": "Both men ________interested in this job in the interview yesterday.",
+    "a": "are",
+    "b": "was",
+    "c": "were",
+    "d": "is",
+    "correct": "c"
+  },
+  {
+    "title": "There are four books on the table .________ has a different colour.",
+    "a": "Every",
+    "b": "Each",
+    "c": "Many",
+    "d": "Some",
+    "correct": "b"
+  },
+  {
+    "title": "He has two bookstores. One is in Thac Mo. _________ is in Phuoc Binh",
+    "a": "Other",
+    "b": "The others",
+    "c": "Another",
+    "d": "The other",
+    "correct": "c"
+  },
+  {
+    "title": "There are .............. girls in our class.",
+    "a": "No",
+    "b": "Not",
+    "c": "None",
+    "d": "None of",
+    "correct": "c"
+  },
+  {
+    "title": "Did you take _______ photographs when you were on holiday?",
+    "a": "some",
+    "b": "either",
+    "c": "much",
+    "d": "many",
+    "correct": "d"
+  },
+  {
+    "title": "The news has _________information.",
+    "a": "much",
+    "b": "many",
+    "c": "almost",
+    "d": "any",
+    "correct": "d"
+  },
+  {
+    "title": "We’ ll hurry. We haven’t got ________time left.",
+    "a": "some",
+    "b": "many",
+    "c": "much",
+    "d": "any",
+    "correct": "c"
+  },
+  {
+    "title": "I don’t have ________friends in Ha Noi",
+    "a": "some",
+    "b": "any",
+    "c": "much",
+    "d": "no",
+    "correct": "b"
+  },
+  {
+    "title": "We didn’t buy ________flowers yesterday.",
+    "a": "some",
+    "b": "a great deal of",
+    "c": "much",
+    "d": "any",
+    "correct": "d"
+  },
+  {
+    "title": "There ___________ at the door.",
+    "a": "is somebody",
+    "b": "is anybody",
+    "c": "is everybody",
+    "d": "isn’t nobody",
+    "correct": "b"
+  },
+  {
+    "title": "__________ people in our country earn enough for a comfortable life.",
+    "a": "Most of",
+    "b": "The most",
+    "c": "Almost all the",
+    "d": "Mostly",
+    "correct": "a"
+  },
+  {
+    "title": "There are _________in the hall.",
+    "a": "somebody",
+    "b": "anybody",
+    "c": "everybody",
+    "d": "some people",
+    "correct": "d"
+  },
+  {
+    "title": "I’m not hungry. I don’t want _________to eat.",
+    "a": "everything",
+    "b": "anything",
+    "c": "something",
+    "d": "nothing",
+    "correct": "b"
+  },
+  {
+    "title": "She didn’t take _________money with her.",
+    "a": "any",
+    "b": "many",
+    "c": "much",
+    "d": "A and C are right",
+    "correct": "d"
+  }
+
+]
+  }
+]

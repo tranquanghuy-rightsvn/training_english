@@ -1,0 +1,2114 @@
+[
+  {
+    "id": 1,
+    "quizzes": [
+    {
+        "title": "He got wet_______ he forgot his umbrella.",
+        "a": "because of",
+        "b": "because",
+        "c": "but",
+        "d": "and",
+        "correct": "b"
+    },
+    {
+        "title": "He stops working _______ heavy raining.",
+        "a": "in spite of",
+        "b": "although",
+        "c": "despite",
+        "d": "because of",
+        "correct": "d"
+    },
+    {
+        "title": "They have a lot of difficulties in their life _______ their poverty.",
+        "a": "in spite of",
+        "b": "although",
+        "c": "because",
+        "d": "because of",
+        "correct": "d"
+    },
+    {
+        "title": "Tom wakes his parents up_______ playing the guitar very softly.",
+        "a": "because",
+        "b": "in spite of",
+        "c": "because of",
+        "d": "although",
+        "correct": "b"
+    },
+    {
+        "title": "Nobody could hear her_______ she spoke too quietly.",
+        "a": "although",
+        "b": "because",
+        "c": "because of",
+        "d": "in spite of",
+        "correct": "b"
+    },
+    {
+        "title": "We decided to leave early _______the party was boring.",
+        "a": "although",
+        "b": "despite",
+        "c": "because",
+        "d": "because of",
+        "correct": "c"
+    },
+    {
+        "title": "Many people believe him__________ he often tells a lie.",
+        "a": "because",
+        "b": "in spite of",
+        "c": "although",
+        "d": "because of",
+        "correct": "b"
+    },
+    {
+        "title": "_______she was very hard working; she hardly earned enough to feed her family.",
+        "a": "In spite of",
+        "b": "Because",
+        "c": "Because of",
+        "d": "Although",
+        "correct": "d"
+    },
+    {
+        "title": "_______her absence from class yesterday, she couldn’t understand the lesson.",
+        "a": "Although",
+        "b": "In spite of",
+        "c": "Because of",
+        "d": "Because",
+        "correct": "b"
+    },
+    {
+        "title": "_______her poorness, she feels happy.",
+        "a": "Although",
+        "b": "Because",
+        "c": "If",
+        "d": "In spite of",
+        "correct": "d"
+    },
+    {
+        "title": "We all feel sad _______ the bad news.",
+        "a": "because",
+        "b": "because of",
+        "c": "though",
+        "d": "despite",
+        "correct": "b"
+    },
+    {
+        "title": "John lost his job__________ his laziness.",
+        "a": "because of",
+        "b": "because",
+        "c": "in spite of",
+        "d": "though",
+        "correct": "a"
+    },
+    {
+        "title": "I went to the club last Saturday________ the heavy rain.",
+        "a": "because of",
+        "b": "because",
+        "c": "in spite of",
+        "d": "though",
+        "correct": "c"
+    },
+    {
+        "title": "He has had this car_________ six months.",
+        "a": "in",
+        "b": "since",
+        "c": "during",
+        "d": "for",
+        "correct": "d"
+    },
+    {
+        "title": "We can't go to Julia's party _______ we're going away that weekend",
+        "a": "because",
+        "b": "because of",
+        "c": "although",
+        "d": "in spite of",
+        "correct": "a"
+    },
+    {
+        "title": "____ repeated assurances that the product is safe; many people have stopped buying it.",
+        "a": "By",
+        "b": "Despite",
+        "c": "With",
+        "d": "For",
+        "correct": "b"
+    },
+    {
+        "title": "She walked home by herself, _______ she knew that it was dangerous.",
+        "a": "because",
+        "b": "although",
+        "c": "and",
+        "d": "but",
+        "correct": "b"
+    },
+    {
+        "title": "_______ his injuries, he bears no animosity towards his attackers.",
+        "a": "Because of",
+        "b": "But for",
+        "c": "In spite of",
+        "d": "Without",
+        "correct": "c"
+    },
+    {
+        "title": "I'll see you after the show and give you £20 for the tickets, or _______ much they cost.",
+        "a": "whatever",
+        "b": "nevertheless",
+        "c": "besides",
+        "d": "however",
+        "correct": "d"
+    },
+    {
+        "title": "Mai worked hard, ______ she passed her exam.",
+        "a": "so",
+        "b": "although",
+        "c": "because",
+        "d": "though",
+        "correct": "a"
+    },
+    {
+        "title": "_____ she was very tired, she helped her brother with his homework.",
+        "a": "because",
+        "b": "whether",
+        "c": "although",
+        "d": "so",
+        "correct": "c"
+    },
+    {
+        "title": "It’s raining hard, _____ we can’t go to the beach.",
+        "a": "or",
+        "b": "but",
+        "c": "so",
+        "d": "though",
+        "correct": "c"
+    },
+    {
+        "title": "Nam was absent from class yesterday ____ he felt sick.",
+        "a": "so",
+        "b": "because",
+        "c": "although",
+        "d": "but",
+        "correct": "b"
+    },
+    {
+        "title": "Tom has a computer, _____ he doesn’t use it.",
+        "a": "or",
+        "b": "as",
+        "c": "because",
+        "d": "but",
+        "correct": "d"
+    },
+    {
+        "title": "The boy can’t reach the shelf ____ he’s not tall enough.",
+        "a": "because",
+        "b": "although",
+        "c": "even though",
+        "d": "and",
+        "correct": "a"
+    },
+    {
+        "title": "The film was boring, ____ we went home.",
+        "a": "so",
+        "b": "when",
+        "c": "but",
+        "d": "if",
+        "correct": "a"
+    },
+    {
+        "title": "The girl bought the shoes _____ they are very expensive.",
+        "a": "but",
+        "b": "if",
+        "c": "so",
+        "d": "although",
+        "correct": "d"
+    },
+    {
+        "title": "He used to smoke a lot ______ now he doesn’t smoke any more.",
+        "a": "still",
+        "b": "therefore",
+        "c": "but",
+        "d": "as",
+        "correct": "c"
+    },
+    {
+        "title": "She couldn’t unlock it ______ she had the wrong key.",
+        "a": "while",
+        "b": "but",
+        "c": "though",
+        "d": "because",
+        "correct": "d"
+    },
+    {
+        "title": "____ it rained, the boys played football.",
+        "a": "even",
+        "b": "even though",
+        "c": "however",
+        "d": "in spite of",
+        "correct": "b"
+    },
+    {
+        "title": "It was still painful, ____ I went to see a doctor.",
+        "a": "so",
+        "b": "however",
+        "c": "but",
+        "d": "or",
+        "correct": "a"
+    },
+    {
+        "title": "Lan likes oranges _____ her sister doesn’t.",
+        "a": "but",
+        "b": "as",
+        "c": "so",
+        "d": "because",
+        "correct": "a"
+    },
+    {
+        "title": "Nam failed the final exam _____ he was lazy.",
+        "a": "while",
+        "b": "though",
+        "c": "because",
+        "d": "but",
+        "correct": "c"
+    },
+    {
+        "title": "He’s tired _____ he stayed up late watching TV.",
+        "a": "and",
+        "b": "or",
+        "c": "if",
+        "d": "since",
+        "correct": "d"
+    },
+    {
+        "title": "Jim can speak English _____ French fluently.",
+        "a": "also",
+        "b": "but also",
+        "c": "and",
+        "d": "so",
+        "correct": "c"
+    },
+    {
+        "title": "_______ the traffic, I arrived on time.",
+        "a": "though",
+        "b": "although",
+        "c": "even though",
+        "d": "in spite of",
+        "correct": "d"
+    },
+    {
+        "title": "____ they live near us, we can see them very often.",
+        "a": "so",
+        "b": "as",
+        "c": "though",
+        "d": "even",
+        "correct": "b"
+    },
+    {
+        "title": "____ I was really tired, I couldn’t sleep.",
+        "a": "if",
+        "b": "although",
+        "c": "while",
+        "d": "however",
+        "correct": "b"
+    },
+    {
+        "title": "We watched TV the whole evening ______ we had nothing better to do.",
+        "a": "because",
+        "b": "though",
+        "c": "so",
+        "d": "but",
+        "correct": "a"
+    },
+    {
+        "title": "It’s cheap, _____ I don’t like it.",
+        "a": "and",
+        "b": "because",
+        "c": "so",
+        "d": "however",
+        "correct": "d"
+    }
+
+
+]
+
+  },
+  {
+    "id": 2,
+    "quizzes": [
+    {
+        "title": "____ it was late, I decided to phone Brian.",
+        "a": "Despite",
+        "b": "However",
+        "c": "In spite of",
+        "d": "Though",
+        "correct": "d"
+    },
+    {
+        "title": "The little boy was hungry ______ he ate nothing.",
+        "a": "Although",
+        "b": "So",
+        "c": "But",
+        "d": "And",
+        "correct": "c"
+    },
+    {
+        "title": "______ the car was cheap, it was in good condition.",
+        "a": "Although",
+        "b": "Because",
+        "c": "As",
+        "d": "If",
+        "correct": "a"
+    },
+    {
+        "title": "______ tomorrow is a public holiday; all the shops will be shut all day.",
+        "a": "As",
+        "b": "Just as",
+        "c": "Although",
+        "d": "When",
+        "correct": "a"
+    },
+    {
+        "title": "She came in _____ turned on the radio.",
+        "a": "So",
+        "b": "And",
+        "c": "Or",
+        "d": "But",
+        "correct": "b"
+    },
+    {
+        "title": "We didn’t go for a walk _____ it was very cold.",
+        "a": "Though",
+        "b": "Because",
+        "c": "But",
+        "d": "So",
+        "correct": "b"
+    },
+    {
+        "title": "______ I tried to persuade her, I didn’t succeed.",
+        "a": "Because",
+        "b": "So",
+        "c": "Although",
+        "d": "However",
+        "correct": "c"
+    },
+    {
+        "title": "Lan woke up late _____ she didn’t have time for breakfast.",
+        "a": "So",
+        "b": "Since",
+        "c": "As",
+        "d": "Though",
+        "correct": "a"
+    },
+    {
+        "title": "I like fish ____ I don’t like catching them myself.",
+        "a": "Or",
+        "b": "But",
+        "c": "So",
+        "d": "And",
+        "correct": "b"
+    },
+    {
+        "title": "He had an accident ____ he was careful.",
+        "a": "Even though",
+        "b": "Because",
+        "c": "So",
+        "d": "Since",
+        "correct": "b"
+    },
+    {
+        "title": "_____ it was raining, I went swimming.",
+        "a": "So",
+        "b": "Because",
+        "c": "However",
+        "d": "Although",
+        "correct": "d"
+    },
+    {
+        "title": "Ann felt ill, ____ she insisted on going to work.",
+        "a": "Though",
+        "b": "So",
+        "c": "And",
+        "d": "But",
+        "correct": "d"
+    },
+    {
+        "title": "_____ I felt tired, I went to bed early.",
+        "a": "Although",
+        "b": "So",
+        "c": "As",
+        "d": "However",
+        "correct": "c"
+    },
+    {
+        "title": "_____ he’s got an English name, he is German.",
+        "a": "Although",
+        "b": "However",
+        "c": "Because",
+        "d": "Since",
+        "correct": "a"
+    },
+    {
+        "title": "They decided not to go out for a meal _____ they were too tired.",
+        "a": "So",
+        "b": "Because",
+        "c": "But",
+        "d": "If",
+        "correct": "b"
+    },
+    {
+        "title": "We were the better team ____ we lost the match.",
+        "a": "So",
+        "b": "And",
+        "c": "But",
+        "d": "Because",
+        "correct": "c"
+    },
+    {
+        "title": "Keith decided to give up his job ___ I advised him not to.",
+        "a": "Because",
+        "b": "However",
+        "c": "Although",
+        "d": "Since",
+        "correct": "c"
+    },
+    {
+        "title": "______ we were in town, we often met him.",
+        "a": "For",
+        "b": "Although",
+        "c": "So",
+        "d": "When",
+        "correct": "d"
+    },
+    {
+        "title": "She didn’t get the job ____ she had all the necessary qualifications.",
+        "a": "Because",
+        "b": "Although",
+        "c": "So",
+        "d": "But",
+        "correct": "b"
+    },
+    {
+        "title": "I could not eat ____ I was very hungry.",
+        "a": "Even though",
+        "b": "In spite of",
+        "c": "Despite",
+        "d": "In spite the fact that",
+        "correct": "a"
+    },
+  {
+    "title": "In spite _____, the baseball game was not cancelled.",
+    "a": "the rain",
+    "b": "of the rain",
+    "c": "it was raining",
+    "d": "there was a rain",
+    "correct": "b"
+  },
+  {
+    "title": "___ he had enough money, he refused to buy a new car.",
+    "a": "In spite",
+    "b": "In spite of",
+    "c": "Despite",
+    "d": "Although",
+    "correct": "d"
+  },
+  {
+    "title": "______, he walked to the station.",
+    "a": "Despite being tired",
+    "b": "Although to be tired",
+    "c": "In spite being tired",
+    "d": "Despite tired",
+    "correct": "a"
+  },
+  {
+    "title": "The children slept well, despite _____",
+    "a": "it was noise",
+    "b": "the noise",
+    "c": "of the noise",
+    "d": "noisy",
+    "correct": "b"
+  },
+  {
+    "title": "She left him __________ she still loved him.",
+    "a": "even if",
+    "b": "even though",
+    "c": "in spite of",
+    "d": "despite",
+    "correct": "b"
+  },
+  {
+    "title": "_______ her lack of hard work, she was promoted.",
+    "a": "In spite",
+    "b": "Even though",
+    "c": "In spite of",
+    "d": "Despite of",
+    "correct": "c"
+  },
+  {
+    "title": "_______ they are brothers, they do not look like.",
+    "a": "Although",
+    "b": "Even",
+    "c": "Despite",
+    "d": "In spite of",
+    "correct": "a"
+  },
+  {
+    "title": "I’m learning English ________ I want to get a better job.",
+    "a": "or",
+    "b": "because",
+    "c": "therefore",
+    "d": "but",
+    "correct": "b"
+  },
+  {
+    "title": "Please do that work ________I told you yesterday.",
+    "a": "like",
+    "b": "as",
+    "c": "same as",
+    "d": "similar to",
+    "correct": "b"
+  },
+  {
+    "title": "This boy lied to you. ________you don’t trust him anymore.",
+    "a": "so",
+    "b": "but",
+    "c": "and",
+    "d": "however",
+    "correct": "a"
+  },
+  {
+    "title": "_______ Dad works hard all day; he always goes to bed late and gets up early.",
+    "a": "However",
+    "b": "Despite",
+    "c": "Although",
+    "d": "No matter",
+    "correct": "c"
+  },
+  {
+    "title": "That boy wasn’t busy. _______, he refused to help his mother.",
+    "a": "so",
+    "b": "but",
+    "c": "and",
+    "d": "however",
+    "correct": "d"
+  },
+  {
+    "title": "_______the rain, the baseball game was not cancelled.",
+    "a": "In spite of",
+    "b": "Even though",
+    "c": "Although",
+    "d": "Despite",
+    "correct": "a"
+  },
+  {
+    "title": "I got a job _________ my bad English.",
+    "a": "if",
+    "b": "although",
+    "c": "in spite of",
+    "d": "because",
+    "correct": "c"
+  },
+  {
+    "title": "I’m not going to the party _________ I know that I should.",
+    "a": "although",
+    "b": "because",
+    "c": "despite",
+    "d": "if",
+    "correct": "a"
+  },
+  {
+    "title": "_______ I came to see her yesterday, she was reading a magazine.",
+    "a": "When",
+    "b": "While",
+    "c": "Before",
+    "d": "After",
+    "correct": "a"
+  },
+  {
+    "title": "Tom went to work despite _______.",
+    "a": "that he did not feel very well",
+    "b": "of the fact not feeling well",
+    "c": "he did not feel very well",
+    "d": "not feeling very well",
+    "correct": "d"
+  },
+  {
+    "title": "Though _______, they are good friends.",
+    "a": "their sometimes quarrel",
+    "b": "to have a quarrel sometimes",
+    "c": "they sometimes have a quarrel",
+    "d": "of having a quarrel sometimes",
+    "correct": "c"
+  },
+  {
+    "title": "Despite _______, we arrived on time.",
+    "a": "the traffic",
+    "b": "of the traffic",
+    "c": "there was heavy traffic",
+    "d": "of there was heavy traffic",
+    "correct": "a"
+  },
+  {
+    "title": "___________it was very cold, she did not put on her coat.",
+    "a": "In case",
+    "b": "But",
+    "c": "Even if",
+    "d": "Although",
+    "correct": "d"
+  }
+
+]
+  },
+  {
+    "id": 3,
+    "quizzes": [
+  {
+    "title": "______ having the best qualifications among all the applicants, Justin was not offered the job.",
+    "a": "Although",
+    "b": "While",
+    "c": "In spite of",
+    "d": "Despite of",
+    "correct": "c"
+  },
+  {
+    "title": "______ the internet is very popular, many older people do not know how to use it.",
+    "a": "However",
+    "b": "Nevertheless",
+    "c": "Even though",
+    "d": "Despite",
+    "correct": "c"
+  },
+  {
+    "title": "______ he wasn’t feeling very well, David was determined to take part in the inter-university athletics meet.",
+    "a": "Although",
+    "b": "While",
+    "c": "Whereas",
+    "d": "Yet",
+    "correct": "a"
+  },
+  {
+    "title": "They were brave and persistent._______, they had no chance of winning.",
+    "a": "However",
+    "b": "While",
+    "c": "Although",
+    "d": "Whereas",
+    "correct": "a"
+  },
+  {
+    "title": "Bob has been working very hard these days. ________, he can’t afford to buy a new car.",
+    "a": "While",
+    "b": "Even though",
+    "c": "Though",
+    "d": "Nevertheless",
+    "correct": "d"
+  },
+  {
+    "title": "________ what she prepared for the job interview, Megan didn’t pass it.",
+    "a": "Despite of",
+    "b": "In spite of",
+    "c": "Though",
+    "d": "However",
+    "correct": "b"
+  },
+  {
+    "title": "Josh is one of the best students of the school.______, he can’t pass the national chemistry exam.",
+    "a": "However",
+    "b": "Although",
+    "c": "In spite of the fact that",
+    "d": "Despite of the fact that",
+    "correct": "c"
+  },
+  {
+    "title": "Bruce was not praised_________ he was a hard worker.",
+    "a": "Despite",
+    "b": "In spite of",
+    "c": "Although",
+    "d": "Despite of",
+    "correct": "c"
+  },
+  {
+    "title": "It looks like they are going to succeed_________ their present difficulties.",
+    "a": "Despite",
+    "b": "Although",
+    "c": "In spite",
+    "d": "Even though",
+    "correct": "a"
+  },
+  {
+    "title": "Mery usually goes to parties. She likes meeting people and crowded places ________she is rather shy.",
+    "a": "In spite of",
+    "b": "Even though",
+    "c": "On the contrary",
+    "d": "In other words",
+    "correct": "b"
+  },
+  {
+    "title": "Ann: Have you decided to get the job?\nTerry: Yes, I’ve just decided. I’ll accept that job_________ it is not suitable with my major. It is not an interesting job,________ the salary is very good.",
+    "a": "although / but",
+    "b": "despite / and",
+    "c": "but / though",
+    "d": "yet / however",
+    "correct": "a"
+  },
+  {
+    "title": "_______ he has continued to work on his thesis.",
+    "a": "Although all these problems",
+    "b": "Even though there are problems",
+    "c": "Despite all these problems",
+    "d": "In spite of there are problems",
+    "correct": "b"
+  },
+  {
+    "title": "______ some German and British management styles are similar, there are many differences between them.",
+    "a": "In spite",
+    "b": "In spite of",
+    "c": "Although",
+    "d": "Despite",
+    "correct": "c"
+  },
+  {
+    "title": "I could not eat _______ I was very hungry.",
+    "a": "even though",
+    "b": "in spite",
+    "c": "despite",
+    "d": "despite of",
+    "correct": "a"
+  },
+  {
+    "title": "In spite _______, the baseball game was not cancelled.",
+    "a": "the rain",
+    "b": "of the rain",
+    "c": "it was raining",
+    "d": "there was a rain",
+    "correct": "d"
+  },
+  {
+    "title": "______ he had enough money, he refused to buy a new car.",
+    "a": "In spite",
+    "b": "In spite of",
+    "c": "Despite",
+    "d": "Although",
+    "correct": "a"
+  },
+  {
+    "title": "_______, he walked to the station.",
+    "a": "Despite being tired",
+    "b": "Although to be tired",
+    "c": "In spite being tired",
+    "d": "Despite tired",
+    "correct": "b"
+  },
+  {
+    "title": "The children slept well, despite _______.",
+    "a": "it was noise",
+    "b": "the noise",
+    "c": "of the noise",
+    "d": "noisy",
+    "correct": "b"
+  },
+  {
+    "title": "She left him _______ she still loved him.",
+    "a": "even if",
+    "b": "even though",
+    "c": "in spite of",
+    "d": "despite",
+    "correct": "c"
+  },
+  {
+    "title": "In spite of ____________, he was determined to finish his work.",
+    "a": "was seriously ill.",
+    "b": "be seriously ill",
+    "c": "his serious illness",
+    "d": "he was seriously ill",
+    "correct": "c"
+  },
+  {
+    "title": "_______ they are brothers, they do not look like.",
+    "a": "Although",
+    "b": "Even",
+    "c": "Despite",
+    "d": "In spite of",
+    "correct": "a"
+  },
+  {
+    "title": "Our new neighbors are quite nice _______ they are sometimes talkative.",
+    "a": "despite",
+    "b": "in spite of",
+    "c": "though",
+    "d": "as though",
+    "correct": "b"
+  },
+  {
+    "title": "_______ of the difficulty, they managed to climb to the top of the mountain.",
+    "a": "In spite",
+    "b": "Despite",
+    "c": "But",
+    "d": "Although",
+    "correct": "c"
+  },
+  {
+    "title": "_____________, he could not finish the job.",
+    "a": "As hard as he work",
+    "b": "Despite he worked hard",
+    "c": "Though he worked hard",
+    "d": "Although hard work",
+    "correct": "c"
+  },
+  {
+    "title": "He went to work _____________ his headache.",
+    "a": "despite",
+    "b": "although",
+    "c": "because",
+    "d": "because of",
+    "correct": "b"
+  },
+  {
+    "title": "Despite _______, we knew that he was guilty.",
+    "a": "denied",
+    "b": "of denying",
+    "c": "he denied",
+    "d": "his denial",
+    "correct": "a"
+  },
+  {
+    "title": "Despite the fact that _______, we enjoyed our trip.",
+    "a": "the weather is bad",
+    "b": "it is a bad weather",
+    "c": "the bad weather",
+    "d": "the weather was bad",
+    "correct": "c"
+  },
+  {
+    "title": "Julie failed the exam _______ of working very hard.",
+    "a": "despite",
+    "b": "in spite",
+    "c": "even if",
+    "d": "though",
+    "correct": "a"
+  },
+  {
+    "title": "Lan has learnt English since she________ a small girl.",
+    "a": "is",
+    "b": "was",
+    "c": "has been",
+    "d": "had been",
+    "correct": "b"
+  },
+  {
+    "title": "Don’t go anywhere until I________ back.",
+    "a": "come",
+    "b": "came",
+    "c": "will come",
+    "d": "am coming",
+    "correct": "a"
+  },
+  {
+    "title": "Before cars ________, people ________horses and bicycles.",
+    "a": "were discovered/ had used",
+    "b": "discovering / had used",
+    "c": "had discovered/ used",
+    "d": "discovered/ had used",
+    "correct": "d"
+  },
+  {
+    "title": "I am going to speak with the boss when the meeting _______.",
+    "a": "will end",
+    "b": "ends",
+    "c": "is ending",
+    "d": "would end",
+    "correct": "b"
+  },
+  {
+    "title": "When we________ him tomorrow, we will remind him of that.",
+    "a": "will see",
+    "b": "see",
+    "c": "am seeing",
+    "d": "saw",
+    "correct": "b"
+  },
+  {
+    "title": "When he comes, I________ her the news.",
+    "a": "tell",
+    "b": "will tell",
+    "c": "would tell",
+    "d": "would have told",
+    "correct": "b"
+  },
+  {
+    "title": "When the police came, they________.",
+    "a": "are fighting",
+    "b": "fought",
+    "c": "would be fighting",
+    "d": "were fighting",
+    "correct": "d"
+  },
+  {
+    "title": "Before she came to England, she ________English.",
+    "a": "studied",
+    "b": "will study",
+    "c": "had studied",
+    "d": "was studying",
+    "correct": "c"
+  },
+  {
+    "title": "I have lost touch with him ________He left for London.",
+    "a": "as soon as",
+    "b": "after",
+    "c": "before",
+    "d": "since",
+    "correct": "d"
+  },
+  {
+    "title": "My mother is washing the dishes ________ my father is watching television.",
+    "a": "when",
+    "b": "while",
+    "c": "as",
+    "d": "since",
+    "correct": "b"
+  },
+  {
+    "title": "_______, I will give him the report.",
+    "a": "When he will return",
+    "b": "When he returns",
+    "c": "Until he will return",
+    "d": "No sooner he returns",
+    "correct": "b"
+  },
+  {
+    "title": "I'll come and see you ________ I go to the countryside.",
+    "a": "while",
+    "b": "when",
+    "c": "as soon as",
+    "d": "before",
+    "correct": "b"
+  }
+]
+
+  },
+  {
+    "id": 4,
+    "quizzes": [
+  {
+    "title": "He is very old, ________ he still works very hard.",
+    "a": "but",
+    "b": "if",
+    "c": "when",
+    "d": "as",
+    "correct": "a"
+  },
+  {
+    "title": "________ you are dismissed.",
+    "a": "Neither you go nor",
+    "b": "Either you go or",
+    "c": "Whether you go or",
+    "d": "Both you go and",
+    "correct": "b"
+  },
+  {
+    "title": "They had camped once before, ________ they knew what to take.",
+    "a": "because",
+    "b": "now",
+    "c": "so",
+    "d": "since",
+    "correct": "c"
+  },
+  {
+    "title": "Why these things happened was ________ the driver had been careless.",
+    "a": "because of",
+    "b": "owing to",
+    "c": "due to",
+    "d": "that",
+    "correct": "d"
+  },
+  {
+    "title": "Although, it's raining, ________are still working in the fields.",
+    "a": "they",
+    "b": "but they",
+    "c": "and they",
+    "d": "so they",
+    "correct": "a"
+  },
+  {
+    "title": "_______we have satisfied you, you have no grounds of complaint.",
+    "a": "So",
+    "b": "Since that",
+    "c": "Now that",
+    "d": "By now.",
+    "correct": "c"
+  },
+  {
+    "title": "Write clearly ________ your teacher can understand .you correctly.",
+    "a": "since",
+    "b": "for",
+    "c": "because",
+    "d": "so that",
+    "correct": "d"
+  },
+  {
+    "title": "You'll miss the train _______ you hurry up.",
+    "a": "unless",
+    "b": "as",
+    "c": "if",
+    "d": "until",
+    "correct": "a"
+  },
+  {
+    "title": "Francis did the task________ his brother.",
+    "a": "as good as",
+    "b": "as better as",
+    "c": "as well as",
+    "d": "as best as",
+    "correct": "c"
+  },
+  {
+    "title": "The size of the audience, ________ we had expected, was well over twenty thousand.",
+    "a": "as",
+    "b": "what",
+    "c": "that",
+    "d": "whom",
+    "correct": "a"
+  },
+  {
+    "title": "I thought he hated the TV .You are right, ________ he still watches the program.",
+    "a": "yet",
+    "b": "besides",
+    "c": "also",
+    "d": "then",
+    "correct": "a"
+  },
+  {
+    "title": "It looks ____ it's going to rain.",
+    "a": "that",
+    "b": "as",
+    "c": "as if",
+    "d": "like that",
+    "correct": "c"
+  },
+  {
+    "title": "________ to New York, her father has not heard from her.",
+    "a": "Because she went",
+    "b": "After she went",
+    "c": "When she went",
+    "d": "Since she went",
+    "correct": "d"
+  },
+  {
+    "title": "_______he daydreamed, Peter saw figures in the sky.",
+    "a": "Until",
+    "b": "Since",
+    "c": "While",
+    "d": "During",
+    "correct": "b"
+  },
+  {
+    "title": "We arrived at the station ________ the train had left.",
+    "a": "after",
+    "b": "before",
+    "c": "since",
+    "d": "when",
+    "correct": "a"
+  },
+  {
+    "title": "_______ he was in poor health, he worked just as hard as everyone else.",
+    "a": "But",
+    "b": "Although",
+    "c": "Even if",
+    "d": "If",
+    "correct": "b"
+  },
+  {
+    "title": "Give me one more minute ________ I'll have finished.",
+    "a": "so",
+    "b": "until",
+    "c": "and",
+    "d": "when",
+    "correct": "c"
+  },
+  {
+    "title": "The worker hunted for jobs in New York for months, ________ he could not find any work.",
+    "a": "and",
+    "b": "yet",
+    "c": "or",
+    "d": "and but",
+    "correct": "b"
+  },
+  {
+    "title": "Hurry up, ________ you'll be late.",
+    "a": "or",
+    "b": "and",
+    "c": "so",
+    "d": "yet",
+    "correct": "a"
+  },
+  {
+    "title": "Do not make the same mistake ________ I did.",
+    "a": "so",
+    "b": "as",
+    "c": "like",
+    "d": "that",
+    "correct": "b"
+  },
+  {
+    "title": "My sister is expecting me, ________ I must be off now.",
+    "a": "however",
+    "b": "or",
+    "c": "so",
+    "d": "otherwise",
+    "correct": "c"
+  },
+  {
+    "title": "We should pay attention ________ to industry ________ to agriculture.",
+    "a": "either, or",
+    "b": "neither, nor",
+    "c": "not, but",
+    "d": "both, and",
+    "correct": "d"
+  },
+  {
+    "title": "He ran off________ I could stop him.",
+    "a": "before",
+    "b": "after",
+    "c": "since",
+    "d": "when",
+    "correct": "a"
+  },
+  {
+    "title": "_______ you told me, I had heard nothing of what happened.",
+    "a": "Till",
+    "b": "Until",
+    "c": "After",
+    "d": "Since",
+    "correct": "b"
+  },
+  {
+    "title": "Where have you been _______ you left home?",
+    "a": "before",
+    "b": "as",
+    "c": "since",
+    "d": "when",
+    "correct": "c"
+  },
+  {
+    "title": "_______ the problem of method is solved, talking about the task is useless.",
+    "a": "Until",
+    "b": "Since",
+    "c": "After",
+    "d": "Unless",
+    "correct": "d"
+  },
+  {
+    "title": "We have produced 15% more cotton this year________ we did last year.",
+    "a": "as",
+    "b": "than",
+    "c": "like",
+    "d": "white",
+    "correct": "b"
+  },
+  {
+    "title": "It is late; ________, I'm too tired to go out.",
+    "a": "besides",
+    "b": "except",
+    "c": "except for",
+    "d": "except that",
+    "correct": "a"
+  },
+  {
+    "title": "Everything around us is ____ solid ..liquid ____ gas.",
+    "a": "not / but",
+    "b": "either / or",
+    "c": "neither / nor",
+    "d": "whether / or",
+    "correct": "b"
+  },
+  {
+    "title": "He will come ________ you ask him.",
+    "a": "whether",
+    "b": "unless",
+    "c": "if",
+    "d": "while",
+    "correct": "c"
+  },
+  {
+    "title": "________ you work, you must always serve the people heart and soul.",
+    "a": "Wherever",
+    "b": "Whenever",
+    "c": "Where",
+    "d": "When",
+    "correct": "a"
+  },
+  {
+    "title": "You are certainly right, ________ others may say.",
+    "a": "what",
+    "b": "whatever",
+    "c": "that",
+    "d": "as",
+    "correct": "b"
+  },
+  {
+    "title": "________ makes mistakes must correct them.",
+    "a": "Who",
+    "b": "What",
+    "c": "Whoever",
+    "d": "Whatever",
+    "correct": "c"
+  },
+  {
+    "title": "I’ll discuss it with you ________ you like to come.",
+    "a": "when",
+    "b": "where",
+    "c": "whoever",
+    "d": "whenever",
+    "correct": "d"
+  },
+  {
+    "title": "________ you are dismissed.",
+    "a": "Neither you go nor",
+    "b": "Either you go or",
+    "c": "Whether you go or",
+    "d": "Both you go and",
+    "correct": "b"
+  },
+  {
+        "title": "Olivia booked a babysitter_______ she could go out for the evening.",
+        "a": "so that",
+        "b": "but",
+        "c": "so",
+        "d": "hence",
+        "correct": "a"
+    },
+    {
+        "title": "_______ we had got on the plane, it started to rain.",
+        "a": "If",
+        "b": "While",
+        "c": "Before",
+        "d": "As soon as",
+        "correct": "d"
+    },
+    {
+        "title": "The missing piece is small, _______ nevertheless important.",
+        "a": "or",
+        "b": "but",
+        "c": "and",
+        "d": "so", "correct": "b"
+    },
+    {
+        "title": "I'm very homesick_______ a student a broad.",
+        "a": "as",
+        "b": "while",
+        "c": "because of",
+        "d": "due to", "correct": "b"
+    },
+    {
+        "title": "No one _______ Kathy knows very much about it.",
+        "a": "and",
+        "b": "as",
+        "c": "but",
+        "d": "however",
+        "correct": "c"
+    }
+]
+
+  },
+  {
+    "id": 5,
+    "quizzes": [
+      { "title": "She's not only beautiful_________ intelligent.",
+       "a": "but also",
+        "b": "but",
+      "c": "however",
+    "d": "yet",
+  "correct": "a" },
+{ "title": "I was very tired, ________ I determined to walk on to the next village.", "a": "therefore", "b": "however", "c": "and", "d": "or", "correct": "b" },
+  { "title": "You can come here either on Monday__________ on Friday.", "a": "or", "b": "nor", "c": "both", "d": "and", "correct": "a" },
+  { "title": "He had to act immediately; ________ he would have been too late.", "a": "consequently", "b": "nevertheless", "c": "still", "d": "otherwise", "correct": "d" },
+{ "title": "They said both he_________ I were to come.", "a": "and", "b": "but", "c": "or", "d": "so", "correct": "a" },
+{ "title": "The weather in Dalat is neither too hot in summer________ too cold in winter.", "a": "or", "b": "nor", "c": "or else", "d": "otherwise", "correct": "b" },
+{ "title": "Jane is beautiful and intelligent________", "a": "too", "b": "so", "c": "both", "d": "moreover", "correct": "a" }, { "title": "Jane is beautiful and intelligent; ________ she's very kind.", "a": "moreover", "b": "however", "c": "for all that", "d": "on the other hand", "correct": "a" }, { "title": "He never works_______ he gains all the prizes.", "a": "furthermore", "b": "whereas", "c": "but", "d": "accordingly", "correct": "c" },
+{ "title": "The sun is shining and there are very few clouds; _______, I am sure it is going to rain.", "a": "what's more", "b": "hence", "c": "thus", "d": "nevertheless", "correct": "c" }, { "title": "Bill is in class 12, _______ John, who is a year older, is only in class 4.", "a": "and", "b": "whereas", "c": "either", "d": "nevertheless", "correct": "b" }, { "title": "You must leave at once, ________ you miss the train.", "a": "however", "b": "yet", "c": "still", "d": "otherwise", "correct": "d" }, { "title": "You need to get some job retraining. _______ it, you risk being laid off.", "a": "If so", "b": "If not", "c": "With", "d": "Without", "correct": "d" },
+{ "title": "Could I have rice_______ potatoes, please?", "a": "but", "b": "but also", "c": "instead", "d": "instead of", "correct": "d" }, { "title": "His denial, we knew that he was guilty.", "a": "Despite", "b": "In spite", "c": "Because", "d": "And", "correct": "a" }, { "title": "John's family is very happy_______his being awarded a scholarship.", "a": "because of", "b": "if", "c": "either", "d": "nor", "correct": "a" }, { "title": "Graphite is a soft, slippery solid that is a good conductor of heat and electricity.", "a": "not just", "b": "and", "c": "both", "d": "moreover", "correct": "c" }, { "title": "The lecture was _______ interesting and instructive.", "a": "as", "b": "either", "c": "neither", "d": "both", "correct": "d" }, { "title": "Both Mary and Allen_______Jean are going on the tour.", "a": "as well", "b": "as well as", "c": "nor", "d": "but", "correct": "b" }, { "title": "He likes travel, and_______ does she.", "a": "too", "b": "such", "c": "so", "d": "but", "correct": "c" },
+{
+        "title": "I'm worried about it, and he is_______",
+        "a": "too",
+        "b": "also",
+        "c": "but also",
+        "d": "a or b", "correct": "a"
+    },
+    {
+        "title": "He borrowed money_______ he could finish his education.",
+        "a": "that",
+        "b": "so that",
+        "c": "such as",
+        "d": "too", "correct": "b"
+    },
+    {
+        "title": "The temperature drops_______ the sun sets.",
+        "a": "while",
+        "b": "for",
+        "c": "because",
+        "d": "when", "correct": "d"
+    },
+    {
+        "title": "Some birds cannot fly well, _______, the chicken has wings, but its flying muscles are not strong enough to be useful.",
+        "a": "for example",
+        "b": "for instance",
+        "c": "such as",
+        "d": "a or b", "correct": "d"
+    },
+    {
+        "title": "The missing piece is small, _______ nevertheless important.",
+        "a": "or",
+        "b": "but",
+        "c": "and",
+        "d": "so", "correct": "b"
+    },
+    {
+        "title": "I'm very homesick_______ a student a broad.",
+        "a": "as",
+        "b": "while",
+        "c": "because of",
+        "d": "due to", "correct": "b"
+    },
+    {
+        "title": "Just_______ he died, my friend who wrote poetry published his first book.",
+        "a": "but",
+        "b": "either",
+        "c": "and",
+        "d": "before", "correct": "d"
+    },
+    {
+        "title": "Blindfish, which spend their whole lives in caves, have _______ eyes nor body pigments.",
+        "a": "not any",
+        "b": "either",
+        "c": "nor",
+        "d": "without", "correct": "b"
+    },
+    {
+        "title": "_______their small size, the cameras take good pictures.",
+        "a": "In spite of",
+        "b": "Despite of",
+        "c": "Because",
+        "d": "And", "correct": "a"
+    },
+    {
+        "title": "She could not decide_______ to drive_______ to jump into water.",
+        "a": "both/ or",
+        "b": "not only/ but also",
+        "c": "either/ or",
+        "d": "whether/ or", "correct": "d"
+    },
+    {
+        "title": "Flying is not only faster, _______ safer than traveling by car.",
+        "a": "also",
+        "b": "so",
+        "c": "and",
+        "d": "but also", "correct": "d"
+    },
+    {
+        "title": "Beth can play the guitar_______ the violin.",
+        "a": "also",
+        "b": "so",
+        "c": "but also",
+        "d": "and", "correct": "d"
+    },
+    {
+        "title": "_______his physical handicap, he has become a successful businessman.",
+        "a": "Although",
+        "b": "In spite of",
+        "c": "Despite",
+        "d": "b or c", "correct": "d"
+    },
+    {
+        "title": "I like bananas, _______ my brother doesn’t.",
+        "a": "because",
+        "b": "and",
+        "c": "but",
+        "d": "even though", "correct": "c"
+    },
+    {
+        "title": "Glucose does not have to be digested, _______ it can be put directly into the bloodstream.",
+        "a": "so",
+        "b": "while",
+        "c": "and since",
+        "d": "such", "correct": "a"
+    },
+    {
+        "title": "_______few species that live on the ground, most monkeys live in trees.",
+        "a": "There are",
+        "b": "A",
+        "c": "All but",
+        "d": "Except for", "correct": "d"
+    },
+    {
+        "title": "She closed the door_______ left for the city.",
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "therefore", "correct": "a"
+    },
+    {
+        "title": "The mail comes at ten o'clock every day_______ Sunday.",
+        "a": "except",
+        "b": "although",
+        "c": "or",
+        "d": "and", "correct": "a"
+    },
+    {
+        "title": "We need wither a nail_______ a screw to hang this picture.",
+        "a": "and",
+        "b": "or",
+        "c": "both",
+        "d": "but", "correct": "b"
+    },
+    {
+        "title": "You had better come yourself_______ send a friend.",
+        "a": "either",
+        "b": "neither",
+        "c": "or else",
+        "d": "while", "correct": "c"
+    }
+    ]
+  },{
+    "id": 6,
+    "quizzes": [
+      {
+        "title": "We should be firm_______ patient in this case.",
+        "a": "and",
+        "b": "or",
+        "c": "in stead of",
+        "d": "rather",
+        "correct": "c"
+    },
+    {
+        "title": "_______ food we eat lacks minerals, then the body can use the stores from its bones for more urgent needs.",
+        "a": "As the",
+        "b": "If the",
+        "c": "The",
+        "d": "Since",
+        "correct": "b"
+    },
+    {
+        "title": "It sounds like something wrong with the car's engine_______, we'd better take it to the garage immediately.",
+        "a": "Otherwise",
+        "b": "Without it",
+        "c": "If not",
+        "d": "If so",
+        "correct": "d"
+    },
+    {
+        "title": "We didn't go to Paris. We went to Rome_______",
+        "a": "also",
+        "b": "but also",
+        "c": "instead",
+        "d": "instead of",
+        "correct": "c"
+    },
+    {
+        "title": "No one _______ Kathy knows very much about it.",
+        "a": "and",
+        "b": "as",
+        "c": "but",
+        "d": "however",
+        "correct": "c"
+    },
+    {
+        "title": "Some birds, _______ robins and cardinals, spend their winter in the North.",
+        "a": "as",
+        "b": "such as",
+        "c": "and",
+        "d": "likely",
+        "correct": "b"
+    },
+    {
+        "title": "Galaxies are composed of millions of individual stars_______ are so far away that they appear as single pints of light.",
+        "a": "but they",
+        "b": "they",
+        "c": "in spite of",
+        "d": "contrary",
+        "correct": "a"
+    },
+    {
+        "title": "Internet is a very fast_______ convenient way for us to get information.",
+        "a": "and",
+        "b": "or",
+        "c": "therefore",
+        "d": "but",
+        "correct": "a"
+    },
+    {
+        "title": "It's raining, _______ I can't go to the beach.",
+        "a": "so",
+        "b": "or",
+        "c": "but",
+        "d": "and",
+        "correct": "a"
+    },
+    {
+        "title": "An effective paragraph must _______ be unified and ordered but also complete.",
+        "a": "in addition",
+        "b": "either",
+        "c": "not only",
+        "d": "as well",
+        "correct": "c"
+    },
+    {
+        "title": "_______ his poor English, he managed to communicate his problem very clearly.",
+        "a": "Although",
+        "b": "Even though",
+        "c": "though",
+        "d": "In spite of",
+        "correct": "d"
+    },
+    {
+        "title": "He is saving_______ he can go on vacation.",
+        "a": "so that",
+        "b": "so",
+        "c": "unless",
+        "d": "that",
+        "correct": "a"
+    },
+    {
+        "title": "The flight was canceled_______ the weather conditions were bad.",
+        "a": "because of",
+        "b": "due to the fact that",
+        "c": "thanks",
+        "d": "that",
+        "correct": "b"
+    },
+    {
+        "title": "Pheasants spend most of their time on the ground, _______ many species perch in trees at night.",
+        "a": "as well as",
+        "b": "in spite of",
+        "c": "because",
+        "d": "although",
+        "correct": "d"
+    },
+    {
+        "title": "Natural fiber comes from_______ animal or plant.",
+        "a": "either",
+        "b": "otherwise",
+        "c": "or",
+        "d": "thus",
+        "correct": "a"
+    },
+    {
+        "title": "_______ Marge, three couples are invited.",
+        "a": "Addition",
+        "b": "Besides",
+        "c": "Next",
+        "d": "Moreover",
+        "correct": "b"
+    },
+    {
+        "title": "All of the students_______ the seniors will receive their grades in two weeks.",
+        "a": "but",
+        "b": "except",
+        "c": "and",
+        "d": "a or b",
+        "correct": "d"
+    },
+    {
+        "title": "It was still painful, _______ I went to see a doctor.",
+        "a": "but",
+        "b": "or",
+        "c": "so",
+        "d": "however",
+        "correct": "c"
+    },
+    {
+        "title": "_______ pipelines are expensive to build, they are relatively cheap to operate and maintain.",
+        "a": "Because",
+        "b": "That",
+        "c": "Although",
+        "d": "Despite",
+        "correct": "c"
+    },
+    {
+        "title": "He felt ill_______ he went to bed early.",
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "so",
+        "correct": "d"
+    },
+    {
+        "title": "The examination was very difficult, _______ very few were able to pass.",
+        "a": "consequently",
+        "b": "as well as",
+        "c": "on the hand",
+        "d": "whereas",
+        "correct": "a"
+    },
+    {
+        "title": "We know_______ him and his wife.",
+        "a": "either",
+        "b": "neither",
+        "c": "both",
+        "d": "as well",
+        "correct": "c"
+    },
+    {
+        "title": "You can send letters from Hongkong_______ by Suez or by Canada.",
+        "a": "either",
+        "b": "neither",
+        "c": "both",
+        "d": "as well",
+        "correct": "a"
+    },
+    {
+        "title": "There as no one there; _______ I went away.",
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "so",
+        "correct": "d"
+    },
+    {
+        "title": "He was very young and had no experience of that type of work he was not given the post.",
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "therefore",
+        "correct": "d"
+    },
+    {
+        "title": "He has to pay a fine of $10, _______ he had to spend 10 days in prison.",
+        "a": "or else",
+        "b": "while",
+        "c": "whereas",
+        "d": "however",
+        "correct": "a"
+    },
+    {
+        "title": "He is very cleaver and wins all the prizes _______ his brother never seems to know a thing.",
+        "a": "and",
+        "b": "while",
+        "c": "therefore",
+        "d": "or",
+        "correct": "b"
+    },
+    {
+        "title": "You must tell him where you are going_______ when you will be back.",
+        "a": "and both",
+        "b": "and as well",
+        "c": "and also",
+        "d": "and too",
+        "correct": "c"
+    },
+    {
+        "title": "He was the best in class at Maths and English; _______ he was the best footballer in the school.",
+        "a": "moreover",
+        "b": "however",
+        "c": "or",
+        "d": "so",
+        "correct": "a"
+    },
+    {
+        "title": "Geography is a very interesting subject; _______ very few people study it thoroughly.",
+        "a": "and",
+        "b": "however",
+        "c": "or",
+        "d": "so",
+        "correct": "b"
+    },
+    {
+        "title": "It was very wet_______ I decided not to go.",
+        "a": "and",
+        "b": "but",
+        "c": "or",
+        "d": "so",
+        "correct": "d"
+    },
+    {
+        "title": "He is very fond of music_______ reading.",
+        "a": "as",
+        "b": "as well",
+        "c": "as well as",
+        "d": "as good as",
+        "correct": "c"
+    },
+    {
+        "title": "I told him to come at three _______ to bring his wife with him.",
+        "a": "also",
+        "b": "and also",
+        "c": "so",
+        "d": "too",
+        "correct": "b"
+    },
+    {
+        "title": "Our opponents have a very good team; _______ there is no need for us to lose hope.",
+        "a": "and",
+        "b": "therefore",
+        "c": "moreover",
+        "d": "however",
+        "correct": "d"
+    },
+    {
+        "title": "I'll offer it to Tom _______, he may not want it.",
+        "a": "Even though",
+        "b": "As",
+        "c": "When",
+        "d": "However",
+        "correct": "d"
+    },
+    {
+        "title": "There is fog at Heathrow; the plane, _______, has been diverted.",
+        "a": "otherwise",
+        "b": "so",
+        "c": "therefore",
+        "d": "or",
+        "correct": "c"
+    },
+    {
+        "title": "He says he will pay; I don't think he will, _______.",
+        "a": "though",
+        "b": "even though",
+        "c": "in case",
+        "d": "but",
+        "correct": "a"
+    },
+    {
+        "title": "They are ugly and expensive, _______ people buy them.",
+        "a": "Already",
+        "b": "Yet",
+        "c": "Thus",
+        "d": "Hence",
+        "correct": "b"
+    },
+    {
+        "title": "You aren't rich; _______, you could do something to help him.",
+        "a": "yet",
+        "b": "still",
+        "c": "for",
+        "d": "but",
+        "correct": "b"
+    },
+    {
+        "title": "_______ the severe weather conditions all the cars completed the course.",
+        "a": "In spite",
+        "b": "Despite",
+        "c": "However",
+        "d": "Yet",
+        "correct": "b"
+    }
+    ]
+  },
+  {
+    "id": 7,
+    "quizzes": [
+      {
+        "title": "_______ we lived in town, we often went to the theater.",
+        "a": "After",
+        "b": "When",
+        "c": "For",
+        "d": "Or",
+        "correct": "b"
+    },
+    {
+        "title": "He took the food eagerly, _______ he had eaten nothing since dawn.",
+        "a": "if",
+        "b": "in case",
+        "c": "but",
+        "d": "for",
+        "correct": "d"
+    },
+    {
+        "title": "_______ the sun rose, the fog dispersed.",
+        "a": "As",
+        "b": "When",
+        "c": "Before",
+        "d": "After",
+        "correct": "a"
+    },
+    {
+        "title": "_______ a married man, he has to think of his family.",
+        "a": "If",
+        "b": "As",
+        "c": "or",
+        "d": "so",
+        "correct": "b"
+    },
+    {
+        "title": "Tired_______ he was, he offered to carry her.",
+        "a": "as",
+        "b": "though",
+        "c": "Although",
+        "d": "however",
+        "correct": "a"
+    },
+    {
+        "title": "Some people waste food_______ others don't have enough.",
+        "a": "as",
+        "b": "in case",
+        "c": "while",
+        "d": "before",
+        "correct": "c"
+    },
+    {
+        "title": "_______ she came to know him better, she relied on him more.",
+        "a": "While",
+        "b": "Because of",
+        "c": "Though",
+        "d": "As",
+        "correct": "d"
+    },
+    {
+        "title": "_______ I sympathize with your point of view, I cannot accept it.",
+        "a": "While",
+        "b": "Although",
+        "c": "But",
+        "d": "a or b",
+        "correct": "d"
+    },
+    {
+        "title": "How can you expect your children to be truthful_______ you yourself tell lies?",
+        "a": "when",
+        "b": "therefore",
+        "c": "because",
+        "d": "since",
+        "correct": "a"
+    },
+    {
+        "title": "Strong_______ he was, he couldn't lift it.",
+        "a": "like",
+        "b": "as",
+        "c": "or",
+        "d": "and",
+        "correct": "b"
+    },
+    {
+        "title": "He stole, not_______ he wanted the money, _______ because he liked stealing.",
+        "a": "for/ but",
+        "b": "because/ but",
+        "c": "although/ however",
+        "d": "because/ and",
+        "correct": "b"
+    },
+    {
+        "title": "Not everybody thinks the building is ugly_______, some people say it looks marvelous.",
+        "a": "On the contrary",
+        "b": "Because",
+        "c": "Although",
+        "d": "Since",
+        "correct": "a"
+    },
+    {
+        "title": "Business has been very bad this year_______, we have had to close one of our factories.",
+        "a": "consequently",
+        "b": "as a result",
+        "c": "but",
+        "d": "a or b",
+        "correct": "d"
+    },
+    {
+        "title": "Take a map with you _______ you lose your way.",
+        "a": "if",
+        "b": "in case",
+        "c": "so that",
+        "d": "so",
+        "correct": "b"
+    },
+    {
+        "title": "The play was very boring, _______ they walked out.",
+        "a": "so",
+        "b": "if",
+        "c": "when",
+        "d": "while",
+        "correct": "a"
+    },
+    {
+        "title": "She'll only do the job_______ you pay her more.",
+        "a": "unless",
+        "b": "after",
+        "c": "if",
+        "d": "as",
+        "correct": "c"
+    },
+    {
+        "title": "He hasn't written to us_______ he left.",
+        "a": "when",
+        "b": "for",
+        "c": "because",
+        "d": "since",
+        "correct": "d"
+    },
+    {
+        "title": "I never take an umbrella_______ it's raining heavily.",
+        "a": "unless",
+        "b": "if",
+        "c": "otherwise",
+        "d": "or",
+        "correct": "a"
+    },
+    {
+      "title": "He got a new alarm clock_______ he'd get up on time.",
+      "a": "because",
+      "b": "and",
+      "c": "so that",
+      "d": "so",
+      "correct": "c"
+    },
+    {
+        "title": "He agreed to go climbing_______ he hated heights.",
+        "a": "despite",
+        "b": "in spite of",
+        "c": "so",
+        "d": "although",
+        "correct": "d"
+    },
+    {
+        "title": "We decided not to go out for a meal_______ we were simply too tired.",
+        "a": "but",
+        "b": "if",
+        "c": "because",
+        "d": "unless",
+        "correct": "c"
+    },
+    {
+        "title": "Have you really go not money_______ the fact that you've had a part-time job this term?",
+        "a": "although",
+        "b": "in spite of",
+        "c": "because of",
+        "d": "in case",
+        "correct": "b"
+    },
+    {
+        "title": "We've been thinking about nothing else_______ we bought our plane tickets.",
+        "a": "until",
+        "b": "since",
+        "c": "so",
+        "d": "after",
+        "correct": "b"
+    },
+    {
+        "title": "I'd go way somewhere_______ I could afford to.",
+        "a": "if",
+        "b": "in case",
+        "c": "as",
+        "d": "but",
+        "correct": "a"
+    },
+    {
+        "title": "Wicky and I will be off to France_______ this term is over.",
+        "a": "for",
+        "b": "as",
+        "c": "as soon as",
+        "d": "in spite of",
+        "correct": "c"
+    },
+    {
+        "title": "We took lots of photos. We videoed the speeches_______",
+        "a": "but also",
+        "b": "however",
+        "c": "as well",
+        "d": "in addition",
+        "correct": "c"
+    },
+    {
+        "title": "We're going to buy a special ticket_______ we can go anywhere we like on the way.",
+        "a": "as if",
+        "b": "since",
+        "c": "in order",
+        "d": "so that",
+        "correct": "d"
+    },
+    {
+        "title": "I'm not sure a thank you letter is really necessary. _______, I can't be bothered to write one.",
+        "a": "And",
+        "b": "or",
+        "c": "As",
+        "d": "Anyway",
+        "correct": "d"
+    },
+    {
+        "title": "It was a terrible journey. _______, we got there safely in the end.",
+        "a": "Still",
+        "b": "Besides",
+        "c": "Moreover",
+        "d": "If",
+        "correct": "a"
+    },
+    {
+        "title": "It's a lovely day, isn't it? Yes, beautiful_______ have you seen John?",
+        "a": "However",
+        "b": "by the way",
+        "c": "But",
+        "d": "nevertheless",
+        "correct": "b"
+    },
+    {
+        "title": "I couldn't unlock it_______ I had the wrong key.",
+        "a": "when",
+        "b": "while",
+        "c": "so as",
+        "d": "because",
+        "correct": "d"
+    },
+    {
+        "title": "He had to take photos of the places he visits. _______, he's writing a report of his journey.",
+        "a": "In addition",
+        "b": "Because",
+        "c": "However",
+        "d": "And",
+        "correct": "a"
+    },
+    {
+        "title": "He thought the talk was fascinating. His friend, _______ fell asleep halfway through it.",
+        "a": "although",
+        "b": "nevertheless",
+        "c": "however",
+        "d": "b or c",
+        "correct": "d"
+    },
+    {
+        "title": "Olivia booked a babysitter_______ she could go out for the evening.",
+        "a": "so that",
+        "b": "but",
+        "c": "so",
+        "d": "hence",
+        "correct": "a"
+    },
+    {
+        "title": "_______ we had got on the plane, it started to rain.",
+        "a": "If",
+        "b": "While",
+        "c": "Before",
+        "d": "As soon as",
+        "correct": "d"
+    },
+    {
+        "title": "Jane has a computer, _______ she doesn't use it.",
+        "a": "and",
+        "b": "since",
+        "c": "but",
+        "d": "in spite of",
+        "correct": "c"
+    },
+    {
+        "title": "It was cloudy. _______, the photos came out very bad.",
+        "a": "Result",
+        "b": "As a result",
+        "c": "However",
+        "d": "But",
+        "correct": "b"
+    },
+    {
+        "title": "You should bring an umbrella_______ it rains.",
+        "a": "if",
+        "b": "unless",
+        "c": "in case",
+        "d": "because of",
+        "correct": "c"
+    },
+    {
+        "title": "Mark heard the news on the radio_______ he was driving home.",
+        "a": "while",
+        "b": "as",
+        "c": "until",
+        "d": "a or b",
+        "correct": "d"
+    },
+    {
+        "title": "Everyone thought she would accept the offer_______, she turned it down.",
+        "a": "However",
+        "b": "So",
+        "c": "Too",
+        "d": "Moreover",
+        "correct": "a"
+    }
+    ]
+  }
+]
