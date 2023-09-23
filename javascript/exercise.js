@@ -97,6 +97,8 @@ function get_params(){
 }
 
 function submit_exersice(p){
+  let correct = 0;
+  let sum = 0;
   $('#exercise-' + p + ' select.form-select').each(function() {
     var select = $(this);
     var selectedValue = select.val();
@@ -104,12 +106,20 @@ function submit_exersice(p){
     if (selectedValue === select.data('success')) {
       select.closest('.box-exercise').addClass('ans-right');
       select.closest('.box-exercise').removeClass('ans-wrong');
+      correct += 1;
     } else {
       select.closest('.box-exercise').addClass('ans-wrong');
       select.closest('.box-exercise').removeClass('ans-right');
     }
+
+    sum += 1;
   });
   $('.btn.btn-success').blur();
+  if(correct/sum >= 2/3){
+    localStorage.setItem("quiz" + "-done-" + get_params()['id'], 'true');
+  }else{
+    localStorage.removeItem("quiz" + "-done-" + get_params()['id'])
+  }
 }
 
 function reset_exersice(p){
