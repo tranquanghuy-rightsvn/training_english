@@ -445,6 +445,136 @@
         ]
       }
     ]
+  },
+  {
+    "id": 11,
+    "name": "Museum of Lost Objects: Mar Elian Monastery",
+    "content": "For centuries, Christians and Muslims have visited the small Syrian town of al-Qaryatain to venerate a saint known as Mar Elian. But in August 2015, the shrine was bulldozed by the group that calls itself Islamic State and the multifaith community was torn apart. About 1,500 years ago, an elderly and pious man called Julian, from the far east of Mesopotamia, went on a pilgrimage to Jerusalem with his disciples. As he travelled home, Julian had an inkling that he was going to die before he made it. \"If such a fate befalls me,\" he told his companions, \"put my body on an ox cart and set it loose. Where the oxen stop is where I should be buried.\"<br><br>Julian did indeed die, his body was loaded on to the cart, and the oxen plodded on until they came to a stop near a small town. Julian's disciples built a tomb for him and in time a monastery grew up around the shrine. That at least is the legend of St Julian the Old Man, or, as he is known in Arabic, Mar Elian. What's certainly true is that Mar Elian's shrine has existed since at least the 6th Century, near the remote town of al-Qaryatain, located in the desert between Damascus and Palmyra. Mar Elian is not only venerated as a saint by Christians, however. The local Sunni population regard him as a Sufi leader and call him Sheikh Ahmed Ghouri (\"ghouri\" means \"priest\"). Until its destruction last year, Mar Elian's sarcophagus was draped in green satin, a traditional mark of homage to a Sufi holy man.<br><br>When the British archaeologist, Emma Loosley, travelled to al-Qaryatain 15 years ago to excavate and redevelop the monastery she found the tumbledown ruins of the original complex, a run-down church from the 1930s and a friendly priest - Father Jacques Murad - who immediately decamped to a house in a nearby village. \"We couldn't cause any scandal by sleeping in the same place,\" she says. \"That meant I was the only permanent resident of the monastery at that point, and I had to live in this half-ruined mud-brick tower in the corner of the cloister. \"Our shower was tainted because the well had sulphur, so I used to smell like rotten eggs every time I washed.\" But the Qurwani, the people of al-Qaryatain, made up for the grotty living conditions. Loosley found the remote desert community to be remarkably open-hearted and tolerant. They even had a myth to explain why Sunni Muslims and Christians - who accounted for about a fifth of the population in 2001 - lived together so harmoniously. \"Their belief is that there were two tribes living in this place,\" says Loosley. \"With the coming of Islam, the tribes got together and they decided that one tribe would stay Christian and that the other one would try the new religion. \"Then they had a pact that whichever religion became dominant, they would look after their brothers who stayed in the minority religion.\"",
+    "groups": [
+      {
+        "type": "gap",
+        "title": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+        "quizzes": [
+          "Christians and Muslims were visiting al-Qaryatain to appreciate what saint? <span>Mar Elian</span>",
+          "What local population regard Mar Elian as a Sufi leader? <span>Sunni</span>",
+          "Who found the tumbledown ruins of the original complex? <span>Emma Loosley</span>",
+          "What did the community have to explain why Sunni Muslims and Christians lived together in harmony? <span>a myth</span>"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The fattest animals",
+    "content": "As the largest animal in the world, the blue whale also has the most fat. In a 1968 study involving 49 different species of mammal from across the US and Brazil, researchers deduced that the blue whale had the highest percentage of body fat – more than 35%. With the whales weighing in at up to 180 tonnes, that’s easily a record-breaking amount of fat for one animal.<br><br>But if we look at things proportionally, you might be surprised by some of the world’s full-fat species. We’ll begin with blubber, the fat rich tissue belonging to marine mammals that has myriad benefits for streamlining, buoyancy, defence, insulation and energy storage.<br><br>In waters further north live bowhead whales. To survive in these frosty, remote waters they have a layer of blubber almost half a metre thick. In his studies, Dr Craig George found blubber mass ranged from 43% to 50% of the body mass of yearling whales.",
+    "groups": [
+      {
+        "type": "gap",
+        "title": "Answer the questions with NO MORE THAN TWO WORDS:",
+        "quizzes": [
+          "Which animal has the most fat? <span>blue whale</span>",
+          "How is called tissue of marine mammals that is rich with fat? <span>blubber</span>",
+          "Which marine animals need a thick layer of fat to survive in cold waters? <span>bowhead whales</span>"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "The largest thing in the universe",
+    "content": "More than ten years ago, while taking the temperature of the universe, astronomers found something odd. They discovered that a patch of sky, spanning the width of 20 moons, was unusually cold.<br><br>The astronomers were measuring the thermal radiation that bathes the entire universe, a glowing relic of the big bang. To gaze at this cosmic microwave background, or CMB, is to glimpse the primordial universe, a time when it was less than 400,000 years old.<br><br>The CMB blankets the sky, and looks pretty much the same everywhere, existing at a feebly cold temperature of 2.725 kelvins - just a couple degrees warmer than absolute zero. But armed with the newly launched WMAP satellite, the astronomers had set out to probe temperature variations as tiny as one part in 100,000. Born from the quantum froth that was the universe a half-moment after the big bang, those random fluctuations help scientists understand what the cosmos is made of and how it all came to be.<br><br>And standing out amidst those fluctuations was a cold spot. Over the years, astronomers have come up with all sorts of ideas to explain it, ranging from instrumental error to parallel universes. But now, they're homing in on a prime suspect: an enormous cavern of emptiness called a cosmic supervoid, so big that it might be the largest structure in the universe.<br><br>According to theory, such a vast void, in which nary a star or galaxy exists, can leave a frigid imprint on the CMB. The answer to the mystery, then, might simply be a whole lot of nothing. Yet puzzles remain, and the case is far from closed.",
+    "groups": [
+      {
+        "type": "true_false",
+        "title": "Do the following statements agree with the information given in Reading Passage?",
+        "quizzes": [
+          {
+            "title": "Astronomers often find something odd on the sky.",
+            "correct": "n"
+          },
+          {
+            "title": "The CMB is the thermal radiation across the entire universe.",
+            "correct": "t"
+          },
+          {
+            "title": "The CMB varies from extremely low to very high temperatures.",
+            "correct": "f"
+          },
+          {
+            "title": "Investigation of fluctuations of temperature in the space help scientists to understand what the cosmos is made of.",
+            "correct": "t"
+          },
+          {
+            "title": "The cosmic supervoid is the largest structure in the universe.",
+            "correct": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "The hottest month",
+    "content": "According to the Met Office, the UK had its warmest July day ever on July 1, when temperatures hit 36.7 C near London. There were record heat waves in many countries including Spain, while the African continent had the second-warmest July on record.<br><br>While the impact of increased levels of carbon dioxide in the atmosphere is a key driver of rising temperatures, another important factor is El Nino. This natural phenomenon, which appears as a large swathe of warm water in the Pacific every few years, is known to push up global temperatures.<br><br>In recent days there have been reports that this year's El Nino will be particularly intense. As a result, many experts believe that 2015 will be the warmest year on record by some margin.<br><br>The seas have also been soaking up a large amount of heat, the NOAA said, with record warming in large expanses of the Pacific and Indian Oceans<br><br>Peter Stott, head of climate monitoring and attribution at the UK Met Office, said: A strong El Nino is under way in the tropical Pacific and this, combined with the long-term global warming trend, means there is the potential to see some very warm months throughout this year - as the new figures for July appear to show.",
+    "groups": [
+      {
+        "type": "true_false",
+        "quizzes": [
+          {
+            "title": "Africa had the warmest July day ever on July 1",
+            "correct": "f"
+          },
+          {
+            "title": "The temperature is rising due to the increased level of carbon dioxide in the atmosphere.",
+            "correct": "t"
+          },
+          {
+            "title": "2015 might be the hottest year in the history. ",
+            "correct": "t"
+          },
+          {
+            "title": "Record warming was recorded in various seas, such as Black and Azov Sea.",
+            "correct": "n"
+          },
+          {
+            "title": "The year 2015 might very well consist of a number of very warm months.",
+            "correct": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Is there such a thing as Canadian English? If so, what is it?",
+    "content": "The standard stereotype among Americans is that Canadians are like Americans, except they say ‘eh’ a lot and pronounce ‘out and about’ as ‘oot and aboot’. Many Canadians, on the other hand, will tell you that Canadian English is more like British English, and as proof will hold aloft the spellings colour and centre and the name zed for the letter Z.<br><br>Canadian does exist as a separate variety of British English, with subtly distinctive features of pronunciation and vocabulary. It has its own dictionaries; the Canadian Press has its own style guide; the Editors’ Association of Canada has just released a second edition of Editing Canadian English. But an emblematic feature of Editing Canadian English is comparison tables of American versus British spellings so the Canadian editor can come to a reasonable decision on which to use… on each occasion. The core of Canadian English is a pervasive ambivalence.<br><br>Canadian history helps to explain this. In the beginning there were the indigenous people, with far more linguistic and cultural variety than Europe. They’re still there, but Canadian English, like Canadian Anglophone society in general, gives them little more than desultory token nods. Fights between European settlers shaped Canadian English more. The French, starting in the 1600s, colonised the St Lawrence River region and the Atlantic coast south of it. In the mid-1700s, England got into a war with France, concluding with the Treaty of Paris in 1763, which ceded ‘New France’ to England. The English allowed any French to stay who were willing to become subjects of the English King.<br><br>At the time of the Treaty of Paris, however, there were very few English speakers in Canada. The American Revolution changed that. The founding English-speaking people of Canada were United Empire Loyalists – people who fled American independence and were rewarded with land in Canada. Thus Canadian English was, from its very beginning, both American – because its speakers had come from the American colonies – and not American, because they rejected the newly independent nation.<br><br>Just as the Americans sought to have a truly distinct, independent American version of English, the loyalists sought to remain more like England… sort of. These were people whose variety of English was already diverging from the British and vice versa: when the residents of London and its environs began to drop their r’s and change some of their vowels people in certain parts of the United States adopted some of these changes, but Canadians did not.",
+    "groups": [
+      {
+        "type": "true_false",
+        "quizzes": [
+          {
+            "title": "Canadian English is considered more like British English by canadians.",
+            "correct": "t"
+          },
+          {
+            "title": "According to the secod paragraph, Canadian English is pretty similar to British, with some minor differences.",
+            "correct": "t"
+          },
+          {
+            "title": "The St Lawrence River was colonised by Canadians in 1600.",
+            "correct": "f"
+          },
+          {
+            "title": "Canadian English is considered neither American nor not American.",
+            "correct": "f"
+          },
+          {
+            "title": "The fifth paragraph states that many English-speaking countries adopted changes in pronounciation.",
+            "correct": "n"
+          }
+        ]
+      }
+    ]
   }
 
 ]

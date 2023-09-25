@@ -158,7 +158,7 @@ function submit_exersice(){
 
     sum = elements.length;
   }else if(get_params()['topic'] == 'short_sentence'){
-    $("#page-1 textarea").each(function () {
+    $("#short-sentence textarea").each(function () {
       if(Number.isInteger($(this).val()) || Number.isInteger($(this).data('success'))){
         if($(this).val() == $(this).data('success')){
           $(this).addClass('se-correct');
