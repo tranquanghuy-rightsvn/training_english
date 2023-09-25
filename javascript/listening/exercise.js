@@ -10,7 +10,7 @@ $(document).ready(function() {
 
     if(get_params()['topic'] == 'conversation' || get_params()['topic'] == 'music'){
       var audioElement = $('<audio controls>');
-      var sourceElement = $('<source src="https://docs.google.com/uc?export=open&id=' + exercise["url"] + '" type="audio/mp3">');
+      var sourceElement = $('<source src="' + exercise["url"] + '" type="audio/mp3">');
 
       audioElement.append(sourceElement);
 
@@ -29,7 +29,7 @@ $(document).ready(function() {
         let j = i + 1;
         $('#short-sentence').append("<div class='box-sentence sentence-" + j +"'>");
         let audioElement = $('<audio controls>');
-        let sourceElement = $('<source src="https://docs.google.com/uc?export=open&id=' + quiz["url"] + '" type="audio/mp3">');
+        let sourceElement = $('<source src="' + quiz["url"] + '" type="audio/mp3">');
         audioElement.append(sourceElement);
         $('.sentence-' + j).append(audioElement);
         $('.sentence-' + j).append("<div class='sentence-content'><textarea data-success='" + quiz["content"] +"' rows='3'></textarea></div>")
@@ -44,7 +44,7 @@ $(document).ready(function() {
       $('#page-2').html(exercise['content']);
 
       var audioElement = $('<audio controls>');
-      var sourceElement = $('<source src="https://docs.google.com/uc?export=open&id=' + exercise["url"] + '" type="audio/mp3">');
+      var sourceElement = $('<source src="' + exercise["url"] + '" type="audio/mp3">');
 
       audioElement.append(sourceElement);
       $('.audio').append(audioElement);

@@ -18,7 +18,7 @@ $(document).ready(function() {
       html += "<p><b>Question: </b>" +  quiz['title'] + "</p>";
       html += "<p><b>Sample answer: </b><p>";
       html += "<audio controls>";
-      html += "<source src='https://docs.google.com/uc?open&id=" + quiz['url'] + "' type='audio/mp3'>";
+      html += "<source src='" + quiz['url'] + "' type='audio/mp3'>";
       html += "</audio>";
       html += "<p><b>Transcript: </b>" +  quiz['content'] +"</p>";
       html += "<textarea placeholder='Your answer' id='reading-" + k + "'></textarea>";
