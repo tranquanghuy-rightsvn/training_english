@@ -41,8 +41,9 @@ body{
   margin-top: -7px;
 }
 
-h3{
+h1{
   margin-bottom: 20px;
+  font-size: 30px;
 }
 
 .nav-custom a{
