@@ -3,6 +3,10 @@
     {
       "source": "/:any*",
       "destination": "/"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/"
     }
   ]
 }
