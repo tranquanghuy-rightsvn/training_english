@@ -3,7 +3,9 @@
     {
       "source": "/:any*",
       "destination": "/"
-    },
+    }
+  ],
+  "redirects": [
     {
       "source": "/index.html",
       "destination": "/"
