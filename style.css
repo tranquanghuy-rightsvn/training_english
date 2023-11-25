@@ -389,3 +389,13 @@ audio{
 .exercise.done{
   position: relative;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer a{
+  text-decoration: none;
+  font-weight: 600;
+}
