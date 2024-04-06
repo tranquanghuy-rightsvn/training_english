@@ -399,3 +399,113 @@ audio{
   text-decoration: none;
   font-weight: 600;
 }
+
+.mt-1 {
+  margin-top: 1rem;
+}
+a {
+  text-decoration: none;
+}
+.donate-page {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.donate-card {
+  width: 90%;
+  padding: 24px;
+  background: #ffffff;
+  border-radius: 12px;
+  margin: auto;
+}
+.donate-card-title {
+  font-size: 1.25rem;
+  margin: 0;
+  text-align: center;
+}
+.donate-card-poster {
+  width: 100%;
+  height: auto;
+}
+.donate-button {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border-radius: 24px;
+  height: 48px;
+  align-items: center;
+  transition: all 0.15s ease-in-out;
+}
+.donate-button:hover {
+  box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+}
+.donate-button.paypal {
+  background: #f7f7f7;
+}
+.donate-button.paypal img {
+  height: 25px;
+}
+.donate-button.buymeacoffee {
+  background: #ffdd00;
+}
+.donate-button.donate-button.buymeacoffee svg {
+  height: 48px;
+}
+.donate-button.momo {
+  background: #b0006d;
+}
+.donate-button.momo svg {
+  background: #b0006d;
+  padding: 5px;
+  height: 38px;
+}
+.donate-method-label {
+  display: flex;
+  background: #f8f8f8;
+  height: 2px;
+  position: relative;
+  justify-content: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.donate-method-label span {
+  background: #ffffff;
+  position: absolute;
+  top: -10px;
+  color: #333333;
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 0 1rem;
+}
+.ref-link {
+  display:inline-block;
+  color:#333333;
+  padding-left: 1rem;
+  transition: all 0.15s ease-in-out;
+}
+.ref-link:hover {
+  color: #617efc;
+}
+@media screen and (min-width: 600px) {
+  .donate-card {
+    max-width: 500px;
+  }
+  .donate-card-title {
+    font-size: 1.5rem;
+  }
+}
+
+.btn-donate{
+  background: #90c95a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 250px;
+  font-weight: 600;
+  font-size: 20px;
+  margin: auto;
+}
