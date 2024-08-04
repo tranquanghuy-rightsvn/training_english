@@ -28,71 +28,48 @@
 
   <header id="zing-header" class="scrollfixed">
     <div class="page-wrapper">
+
       <h1 class="logo">
-        <a href="https://zreview.vn" title="Zreview - Review cả thế giới"> Tạp chí review trực tuyến</a>
+        <a href="https://3000vocab.com" title="3000vocab.com - Latest updated hot game news today">3000vocab.com - Latest updated hot game news today</a>
       </h1>
 
       <nav class="category-menu">
         <ul>
 
-          <li class="parent cong-nghe">
-            <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+          <li class="parent game-online">
+            <a href="./game-online.html" title="Game online">Game online</a>
             <div class="subcate">
               <ul>
               </ul>
             </div>
           </li>
 
-          <li class="parent am-thuc">
-            <a href="./am-thuc.html" title="ẩm thực">Ẩm thực</a>
+          <li class="parent game-offline">
+            <a href="./game-offline.html" title="Game offline">Game offline</a>
             <div class="subcate">
               <ul>
               </ul>
             </div>
           </li>
 
-          <li class="parent nhan-vat">
-            <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
+          <li class="parent game-mobile">
+            <a href="./game-mobile.html" title="Game mobile">Game mobile</a>
             <div class="subcate">
               <ul>
               </ul>
             </div>
           </li>
 
-          <li class="parent phim">
-            <a href="./phim.html" title="Phim">Phim</a>
+          <li class="parent esport">
+            <a href="./esport.html" title="Esport">Esport</a>
             <div class="subcate">
               <ul>
               </ul>
             </div>
           </li>
 
-          <li class="parent sach">
-            <a href="./sach.html" title="Sách">Sách</a>
-            <div class="subcate">
-              <ul>
-              </ul>
-            </div>
-          </li>
-
-          <li class="parent do-gia-dung">
-            <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
-            <div class="subcate">
-              <ul>
-              </ul>
-            </div>
-          </li>
-
-          <li class="parent nha-hang">
-            <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
-            <div class="subcate">
-              <ul>
-              </ul>
-            </div>
-          </li>
-
-          <li class="parent khach-san">
-            <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
+          <li class="parent anime-movie">
+            <a href="./anime-and-movie.html" title="Anime/movie">Anime/movie</a>
             <div class="subcate">
               <ul>
               </ul>
@@ -119,114 +96,53 @@
         <a class="version" href="#">M</a>
       </div>
     </div>
-    <div class='category-popup'>
-      <nav class='category-menu'>
-        <div class='page-wrapper'>
+    <div class="category-popup">
+      <nav class="category-menu">
+        <div class="page-wrapper">
           <ul class="normal-category">
-
-            <li class="parent xuat-ban ">
-              <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+            <li class="parent game-online">
+              <a href="./game-online.html" title="Game online">Game online</a>
               <div class="subcate">
                 <ul>
                 </ul>
               </div>
             </li>
 
-            <li class="parent am-thuc">
-              <a href="./am-thuc.html" title="Ẩm thực">Ẩm thực</a>
-              <div class="subcate">
-                <ul>
+           <li class="parent game-offline">
+            <a href="./game-offline.html" title="Game offline">Game offline</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
 
-                </ul>
-              </div>
-            </li>
+          <li class="parent game-mobile">
+            <a href="./game-mobile.html" title="Game mobile">Game mobile</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
 
-            <li class="parent nhan-vat">
-              <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
-              <div class="subcate">
-                <ul>
-                </ul>
-              </div>
-            </li>
+          <li class="parent esport">
+            <a href="./esport.html" title="Esport">Esport</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
 
-            <li class="parent phim">
-              <a href="./phim.html" title="Phim">Phim</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent sach">
-              <a href="./sach.html" title="Sách">Sách</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent giai-tri ">
-              <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent nha-hang">
-              <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent khach-san">
-              <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent du-lich">
-              <a href="./du-lich.html" title="Du lịch">Du lịch</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent thuc-pham-chuc-nang">
-              <a href="./thuc-pham-chuc-nang.html" title="Thực phẩm chức năng">Thực phẩm chức năng</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
-
-            <li class="parent khac">
-              <a href="./khac.html" title="Khác">Khác</a>
-              <div class="subcate">
-                <ul>
-
-                </ul>
-              </div>
-            </li>
+          <li class="parent anime-movie">
+            <a href="./anime-and-movie.html" title="Anime/movie">Anime/movie</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
           </ul>
-
-
         </div>
       </nav>
     </div>
-
   </header>
 
   <div class="page-wrapper">
@@ -257,7 +173,7 @@
     <div id="trending" class="page-wrapper">
       <section id="news-latest" class="section has-sidebar" data-count="59">
         <header class="section-title">
-          <h3>TIN LIÊN QUAN</h3>
+          <h3>RELATED NEWS</h3>
         </header>
 
         <section class="section-content">
@@ -313,26 +229,32 @@
       </div>
     </div>
     <footer id="footer">
-      <div class="page-wrapper footer-wrapper">
-        <div class="left-side-info">
-          <div class="web-info">
-            <div class="logo"><img style="display: none" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></div>
-            <p style="line-height: 1.7; font-size: 12px">
-              Tạp chí điện tử Review <br /> Cơ quan chủ quản: Zreview.vn <br /><br /> Tổng biên tập
-              phụ trách: Trần Quang Huy<br /> © Toàn bộ bản quyền thuộc Zreview.vn
-            </p>
-          </div>
-        </div>
-
-        <div class="copyright-info">
+    <div class="page-wrapper footer-wrapper">
+      <div class="left-side-info">
+        <div class="web-info">
+          <div class="logo"><img style="display: none" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></div>
           <p style="line-height: 1.7; font-size: 12px">
-            Liên hệ book review<br>
-            Số điện thoại: 096.407.4043<br>
-            Email: tranquanghuy1280@gmail.com
+            Latest updated hot game news today <br> Publisher: 3000vocab.com <br><br> Editor-in-chief: Tran Quang Huy<br>
+            © All rights reserved to 3000vocab.com <br>
+            Copyright 2024 © 3000vocab.com
           </p>
         </div>
       </div>
-    </footer>
+
+      <div class="copyright-info">
+        <p style="line-height: 1.7; font-size: 12px">
+            Phone number: +8496.407.4043<br>
+            Email: tranquanghuy1280@gmail.com <br><br>
+
+            <a href="./introduction.html">Introduction</a><br>
+            <a href="./contact.html">Contact</a><br>
+            <a href="./term-and-codtions.html">Terms and Conditions</a><br/>
+            <a href="./privacy-policy.html">Privacy Policy</a> <br/>
+<a href="./author.html">Author</a> <br/>
+        </p>
+      </div>
+    </div>
+  </footer>
   </body>
   <script type="text/javascript" src="./js/zreview_1.js"></script>
   </html>
