@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>3000vocab.com - Latest updated hot game news today</title>
                 <id>https://3000vocab.com/</id>
-                  <updated>2024-08-07T21:02:02+07:00</updated>
+                  <updated>2024-08-07T21:20:32+07:00</updated>
                 <link href="https://3000vocab.com/"/>
                 <link rel="self" href="https://3000vocab.com/atom.xml"/>
                 <author>
@@ -9,6 +9,12 @@
                 </author>
                 <icon>https://3000vocab.com/images/favicon/favicon_48x48.ico</icon>
                 <logo>https://3000vocab.com/images/logo.svg</logo><entry>
+          <id>https://3000vocab.com/the-pinnacle-of-esports-the-worlds-largest-prize-pools.html</id><title>The Pinnacle of Esports: The World's Largest Prize Pools</title>
+          <updated>2024-08-07T21:20:32+07:00</updated>
+          <link rel="alternate" type="text/html" href="https://3000vocab.com/the-pinnacle-of-esports-the-worlds-largest-prize-pools.html"/>
+          <link rel="enclosure" type="image/jpg" href="https://3000vocab.com/images/267/The_Pinnacle_of_Esports__The_World_s_Largest_Prize_Pools.png"/>
+          <summary type="html"><p>In the rapidly evolving world of esports, the stakes have never been higher. What began as a niche hobby has transformed into a global phenomenon, with professional players, massive audiences, and prize pools that rival traditional sports</p></summary>
+        </entry><entry>
           <id>https://3000vocab.com/mastering-honor-of-kings-essential-skills-for-professional-play.html</id><title>Mastering Honor of Kings: Essential Skills for Professional Play</title>
           <updated>2024-08-07T21:02:02+07:00</updated>
           <link rel="alternate" type="text/html" href="https://3000vocab.com/mastering-honor-of-kings-essential-skills-for-professional-play.html"/>
