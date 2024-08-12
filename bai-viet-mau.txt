@@ -30,7 +30,7 @@
     <div class="page-wrapper">
 
       <h1 class="logo">
-        <a href="https://3000vocab.com" title="3000vocab.com - Latest updated hot game news today">3000vocab.com - Latest updated hot game news today</a>
+        <a href="https://www.3000vocab.com" title="3000vocab.com - Latest updated hot game news today">3000vocab.com - Latest updated hot game news today</a>
       </h1>
 
       <nav class="category-menu">
@@ -249,7 +249,7 @@
             <a href="./about.html">About 3000vocab: Editorial Staff, Standards And Policies</a><br>
             <a href="./introduction.html">Introduction</a><br>
             <a href="./contact.html">Contact</a><br>
-            <a href="./term-and-codtions.html">Terms and Conditions</a><br>
+            <a href="./terms-and-conditions.html">Terms and Conditions</a><br>
             <a href="./privacy-policy.html">Privacy Policy</a> <br>
             <a href="./acceptable-use-policy.html">Acceptable Use Policy</a><br>
             <a href="./author.html">Author</a> <br>
