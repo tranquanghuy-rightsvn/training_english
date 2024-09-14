@@ -1,0 +1,323 @@
+<link rel="shortcut icon" href="./images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="./css/external.css" />
+<link rel="stylesheet" type="text/css" href="./css/noto-serif.css">
+<link rel="stylesheet" type="text/css" href="./css/roboto.css">
+<link rel="stylesheet" type="text/css" href="./css/main.css" />
+<link rel="stylesheet" type="text/css" href="./css/page_common.css" />
+<link rel="stylesheet" type="text/css" href="./css/footer.css" />
+<link rel="stylesheet" type="text/css" href="./css/page_article.css" />
+
+</head>
+<body id="page-article" class="layout-regular type-text    refresh"  >
+  <div id="pushed_popup">
+    <a href="javascript:switchMobile();" class="message">Bạn có thể <span>chuyển sang phiên bản mobile rút gọn của Tri thức trực tuyến</span> nếu mạng chậm.</a>
+    <a href="javascript:closePushPopup();" class="closePopup">Đóng</a>
+  </div>
+
+  <header id="zing-header" class="scrollfixed">
+    <div class="page-wrapper">
+      <a href="./index.html" class="logo" title="Zreview - Review cả thế giới"><span>Tạp chí review trực tuyến</span></a>
+
+      <nav class="category-menu pc">
+        <ul>
+          <li class="parent cong-nghe">
+            <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent am-thuc">
+            <a href="./am-thuc.html" title="ẩm thực">Ẩm thực</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent nhan-vat">
+            <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent phim">
+            <a href="./phim.html" title="Phim">Phim</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent sach">
+            <a href="./sach.html" title="Sách">Sách</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent do-gia-dung">
+            <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent nha-hang">
+            <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="parent khach-san">
+            <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
+            <div class="subcate">
+              <ul>
+              </ul>
+            </div>
+          </li>
+
+          <li class="more">
+<span class="dot dot1"></span><span class="dot dot2"></span><span class="dot dot3"></span>
+</li>
+        </ul>
+      </nav>
+
+
+      <div class="toolbox">
+        <div class="searchform-wrap">
+          <form name="search" id="searchbox" class="znewsSearch" target="_blank">
+            <input type="text" name="s" id="search_keyword" placeholder="Nhập nội dung cần tìm...">
+            <button type="submit" id="search_button" aria-label="Tìm kiếm"><span class="znews-icon ti-search"></span></button>
+          </form>
+        </div>
+        <a href="#" class="notification">
+          <span class="znews-icon ti-user"></span>
+        </a>
+        <a class="version" href="#">M</a>
+      </div>
+    </div>
+    <div class='category-popup'>
+      <nav class='category-menu mobile'>
+        <div class='page-wrapper'>
+          <ul class="normal-category">
+
+            <li class="parent xuat-ban ">
+              <a href="./cong-nghe.html" title="Công nghệ">Công nghệ</a>
+              <div class="subcate">
+                <ul>
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent am-thuc">
+              <a href="./am-thuc.html" title="Ẩm thực">Ẩm thực</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent nhan-vat">
+              <a href="./nhan-vat.html" title="Nhân vật">Nhân vật</a>
+              <div class="subcate">
+                <ul>
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent phim">
+              <a href="./phim.html" title="Phim">Phim</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent sach">
+              <a href="./sach.html" title="Sách">Sách</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent giai-tri ">
+              <a href="./do-gia-dung.html" title="Đồ gia dụng">Đồ gia dụng</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent nha-hang">
+              <a href="./nha-hang.html" title="Nhà hàng">Nhà hàng</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent khach-san">
+              <a href="./khach-san.html" title="Khách sạn">Khách sạn</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent du-lich">
+              <a href="./du-lich.html" title="Du lịch">Du lịch</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent thuc-pham-chuc-nang">
+              <a href="./thuc-pham-chuc-nang.html" title="Thực phẩm chức năng">Thực phẩm chức năng</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+
+            <li class="parent khac">
+              <a href="./khac.html" title="Khác">Khác</a>
+              <div class="subcate">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+          </ul>
+
+
+        </div>
+      </nav>
+    </div>
+
+  </header>
+
+  <div class="page-wrapper">
+
+    <article article-id="1463248" article-url="" class="the-article layout-regular type-text  " topic-id="system-2001,company-3725,company-4009,seo-7111" >
+
+      <header class="the-article-header">
+
+        <p class="the-article-category" id="zreview-parent-category">
+          <a href="https://znews.vn/kinh-te-so.html" title="Kinh tế số" class="parent_cate" id="zreview-parent-cate">Kinh tế số</a>
+        </p>
+
+        <h1 class="the-article-title" id="title-review">Giá Bitcoin tiến sát 69.000 USD, sắp vượt đỉnh lịch sử</h1>
+        <ul class="the-article-meta">
+          <li class="the-article-publish" id="time-review">Thứ ba, 5/3/2024 10:12 (GMT+7)</li>
+        </ul>
+      </header>
+      <section class="main">
+        <div class="the-article-body" id="content-review">
+        </div>
+      </section>
+
+    </article>
+  </div>
+
+
+  <div id="article-nextreads" class="" start-index="55">
+    <div id="trending" class="page-wrapper">
+      <section id="news-latest" class="section has-sidebar" data-count="59">
+        <header class="section-title">
+          <h2>TIN LIÊN QUAN</h2>
+        </header>
+
+        <section class="section-content">
+          <div class="article-list listing-layout responsive infinite-load" id="news-reference">
+            <article class="article-item  type-text picked-featured short" article-id="1463231" topic-id="934,2000,3849,3949,4015,5129,5136,7113" serie-id="" data-tracker="zingweb_article_newslatest1">
+              <p class="article-thumbnail">
+                <a href="https://znews.vn/cau-thu-mu-bat-man-voi-hlv-ten-hag-post1463231.html">
+
+                  <img src="https://photo.znews.vn/w360/Uploaded/sotnzt/2024_03_05/s.jpg" alt="Cau thu MU bat man voi HLV Ten Hag hinh anh" class="unveil">
+                </a>
+              </p>
+              <header>
+                <p class="article-title">
+                  <a href="https://znews.vn/cau-thu-mu-bat-man-voi-hlv-ten-hag-post1463231.html">Cầu thủ MU bất mãn với HLV Ten Hag</a>
+                </p>
+                <p class="article-meta">
+                  <span class="article-publish">
+                    <span class="friendly-time">1 giờ trước</span>
+                    <span class="time">10:01</span>
+                    <span class="date">5/3/2024</span>
+                  </span>
+
+
+                  <a href="https://znews.vn/the-thao.html" title="Thể thao">
+                    <span class="category-parent">Thể thao</span>
+                  </a>
+
+
+
+                  <a href="https://znews.vn/bong-da-anh.html" title="Bóng đá Anh">
+                    <span class="category">Bóng đá Anh</span>
+                  </a>
+
+
+
+                </p>
+                <p class="article-count">
+                  <span class="like-count"></span>
+                  <span class="dislike-count"></span>
+                  <span class="rating-count">0</span>
+                  <span class="viral-count hide"></span>
+                  <span class="comment-count hide"></span>
+                </p>
+                <p class="article-summary">Các cầu thủ MU đã nghĩ đến khả năng HLV Erik ten Hag bị sa thải vào cuối mùa.</p>
+
+              </header>
+              <img class="tracking unveil" alt="" src="//log.znews.vn/imps?type=article&amp;appid=zingweb&amp;id=1463231&amp;pos=zingweb_article_newslatest1&amp;uid=2000.SSZzejyD0j0kdVJYp1HJqdg3kkpKLW_0S9sehiP078HZskMgnmjPXMJRxAx83HM3QjoYgimA489isQ6k.1"></article>
+            </div>
+            <aside class="section-sidebar">
+            </aside>
+          </section>
+        </section>
+      </div>
+    </div>
+    <footer id="footer">
+      <div class="page-wrapper footer-wrapper">
+        <div class="left-side-info">
+          <div class="web-info">
+            <div class="logo"></div>
+            <p style="line-height: 1.7; font-size: 12px">
+              Tạp chí điện tử Review <br /> Cơ quan chủ quản: Zreview.vn <br /><br /> Tổng biên tập
+              phụ trách: Trần Quang Huy<br /> © Toàn bộ bản quyền thuộc Zreview.vn
+            </p>
+          </div>
+        </div>
+
+        <div class="copyright-info">
+          <p style="line-height: 1.7; font-size: 12px">
+            Liên hệ book review<br>
+            Số điện thoại: 096.407.4043<br>
+            Email: tranquanghuy1280@gmail.com
+          </p>
+        </div>
+      </div>
+    </footer>
+  </body>
+  <script type="text/javascript" src="./js/zreview_1.js"></script>
+  </html>
