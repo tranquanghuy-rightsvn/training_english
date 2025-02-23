@@ -261,7 +261,7 @@
     <div id="overlay" class="hidden"></div>
     <div id="image-container" class="hidden">
       <img src="./images/banner-shopee.jpg" alt="Ảnh">
-      <a href="https://s.shopee.vn/2LJWwoa4NW" target="_blank">
+      <a href="https://s.shopee.vn/10oIJiqmzx" target="_blank">
         <span class="close-button" onclick="hideImage()">&times;</span>
       </a>
     </div>
