@@ -243,7 +243,7 @@
       <section class="main">
         <div class="the-article-body" id="content-review">
 <div class="trix-content">
-  <div>As soon as the final match of the LCK Regional Qualifier officially ended, Deft also left behind the beautiful dream he had since Worlds 2022. At Worlds 2022, DRX embarked on what was described as an "unbelievable" journey, earning them much praise under the name of the "Blue Dragons." Particularly, the most talked-about player in this tournament was none other than Deft—the oldest ADC to ever win a Worlds championship. Riot Games even released a song titled "GODS" dedicated to him as a tribute to his tumultuous career before Worlds 2023. <br><br><action-text-attachment sgid="eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJamhuYVdRNkx5OTFibWwzWldKemFYUmxMMEZqZEdsMlpWTjBiM0poWjJVNk9rSnNiMkl2T1RRNVAyVjRjR2x5WlhOZmFXNEdPZ1pGVkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYXR0YWNoYWJsZSJ9fQ==--71fbb4b181704e429ed2d611e17a107e1f31fb8e" content-type="image/png" url="http://localhost:3000/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclVEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--39c235bc24a53eff65dcc59d18bafeb1819a1740/image.png" filename="image.png" filesize="163327" width="594" height="397" previewable="true" presentation="gallery"><figure class="attachment attachment--preview attachment--png">
+  <div>As soon as the final match of the LCK Regional Qualifier officially ended, Deft also left behind the beautiful dream he had since Worlds 2022. At Worlds 2022, DRX embarked on what was described as an "unbelievable" journey, earning them much praise under the name of the "Blue Dragons." Particularly, the most talked-about player in this tournament was none other than Deft—the oldest ADC to ever win a Worlds championship. Riot Games even released a song titled "GODS" dedicated to him as a tribute to his tumultuous career before Worlds 2023.  <br><br><action-text-attachment sgid="eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJamhuYVdRNkx5OTFibWwzWldKemFYUmxMMEZqZEdsMlpWTjBiM0poWjJVNk9rSnNiMkl2T1RRNVAyVjRjR2x5WlhOZmFXNEdPZ1pGVkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYXR0YWNoYWJsZSJ9fQ==--71fbb4b181704e429ed2d611e17a107e1f31fb8e" content-type="image/png" url="http://localhost:3000/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclVEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--39c235bc24a53eff65dcc59d18bafeb1819a1740/image.png" filename="image.png" filesize="163327" width="594" height="397" previewable="true" presentation="gallery"><figure class="attachment attachment--preview attachment--png">
     <img class="post-actiontext-image" src="https://uniweb-offical.s3-ap-southeast-1.amazonaws.com/np6mv5j9jxzp4ersoz02r16zvq40" alt=" Deft Officially Ends His Career After the Beautiful Dream Since Worlds 2022">
 
   <figcaption class="attachment__caption">
@@ -416,85 +416,83 @@
     </div>
   </footer>
 
-
-
-  <div id="popup" class="popup">
-    <div class="popup-content">
-      <!-- <span class="close-button" onclick="closePopup()">&times;</span> -->
-      <a href="https://google.com" target="_blank"><span class="ads-button">&times;</span></a>
-      <h2>Tiêu đề pop-up</h2>
-      <p>Nội dung pop-up có thể được đặt ở đây.</p>
+    <div id="overlay" class="hidden"></div>
+    <div id="image-container" class="hidden">
+      <img src="./images/banner-shopee.jpg" alt="Ảnh">
+      <a href="https://s.shopee.vn/2LJWwoa4NW" target="_blank">
+        <span class="close-button" onclick="hideImage()">×</span>
+      </a>
     </div>
-  </div>
 
-  <style type="text/css">
-    .popup {
-  display: none; /* Ẩn pop-up ban đầu */
-  position: fixed; /* Giữ pop-up ở vị trí cố định trên màn hình */
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5); /* Lớp nền đen mờ */
-  z-index: 1000; /* Đảm bảo pop-up hiển thị trên cùng */
-}
 
-.popup-content {
-  background-color: #fff;
-  margin: 15% auto; /* Canh giữa pop-up */
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%; /* Hoặc kích thước tùy chỉnh */
-  position: relative; /* Để định vị nút đóng */
-}
+    <style type="text/css">
+      #overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
 
-.close-button {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 20px;
-  font-weight: bold;
-  color: #333;
-  cursor: pointer;
-}
+      #overlay.show {
+        opacity: 1;
+      }
+      #image-container {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 1000;
+        transition: opacity 0.3s ease-in-out;
+        opacity: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+      }
+      #image-container.show {
+        opacity: 1;
+      }
 
-.ads-button {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 20px;
-  font-weight: bold;
-  color: #333;
-  cursor: pointer;
-}
-  </style>
-  <script type="text/javascript">
-    function openPopup() {
-  document.getElementById("popup").style.display = "block";
-}
+      #image-container img {
+        max-width: 80vw;
+        max-height: 120vh;
+        display: block;
+        margin: 0 auto;
+      }
 
-function closePopup() {
-  document.getElementById("popup").style.display = "none";
-}
+      .close-button {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+        cursor: pointer;
+      }
 
-setTimeout(openPopup, 5000);
-const adsButton = document.querySelector('.ads-button');
-const popupContent = document.querySelector('.popup-content');
-
-adsButton.addEventListener('click', function(event) {
-  // Xóa nút quảng cáo
-  adsButton.remove();
-
-  // Tạo nút đóng mới
-  const closeButton = document.createElement('span');
-  closeButton.className = 'close-button';
-  closeButton.innerHTML = '&times;';
-  closeButton.onclick = closePopup;
-
-  // Thêm nút đóng vào popup-content
-  popupContent.insertBefore(closeButton, popupContent.firstChild); // Thêm vào đầu popup-content
-});
-  </script>
+      .hidden {
+        display: none;
+      }
+    </style>
+    <script type="text/javascript">
+      const imageContainer = document.getElementById('image-container');
+      const toggleButton = document.getElementById('toggle-image');
+      function showImage() {
+        imageContainer.classList.add('show');
+        imageContainer.classList.remove('hidden');
+        document.getElementById('overlay').classList.add('show');
+          document.getElementById('overlay').classList.remove('hidden');
+      }
+      function hideImage() {
+        imageContainer.classList.remove('show');
+        imageContainer.classList.add('hidden');
+        document.getElementById('overlay').classList.remove('show');
+          document.getElementById('overlay').classList.add('hidden');
+      }
+      setTimeout(showImage, 5000);
+    </script>
   </body>
   <script type="text/javascript" src="./js/zreview_1.js"></script>
   </html>
