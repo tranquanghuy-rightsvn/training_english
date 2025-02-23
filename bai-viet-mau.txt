@@ -18,7 +18,6 @@
 
 <link rel="stylesheet" type="text/css" href="./css/page_article.css" />
 
-
 </head>
 <body id="page-article" class="layout-regular type-text    refresh"  >
   <div id="pushed_popup">
